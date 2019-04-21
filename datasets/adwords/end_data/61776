@@ -1,0 +1,586 @@
+,Reference,CatN1,CatN2,Cat_Price,CPC_max,CPC_medio,Impressions,Clics,Cost,Conversions,All_Conversions,Ads_Income,Ads_Income_All,Dates
+381,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-02
+382,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-03
+383,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-04
+384,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-05
+385,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-06
+386,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-07
+387,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-08
+388,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-09
+389,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-10
+390,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-11
+391,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-12
+392,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-13
+393,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-14
+394,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-15
+395,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-16
+396,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-17
+397,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-18
+398,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-19
+399,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-20
+400,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-21
+401,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-22
+402,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-23
+403,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-24
+404,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-25
+405,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-26
+406,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-27
+407,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-28
+408,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-29
+409,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-30
+410,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-10-01
+12,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,50.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-10-02
+102,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.05,51.0,1.0,0.05,0.0,0.0,0.0,0.0,2017-10-03
+9,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,62.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-10-04
+45,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,52.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-10-05
+66,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.11,58.0,1.0,0.11,0.0,0.0,0.0,0.0,2017-10-06
+86,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.07,53.0,1.0,0.07,0.0,0.0,0.0,0.0,2017-10-07
+4,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.13,82.0,3.0,0.39,0.0,0.0,0.0,0.0,2017-10-08
+10,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.08,87.0,1.0,0.08,0.0,0.0,0.0,0.0,2017-10-09
+118,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.07,8.0,1.0,0.07,0.0,0.0,0.0,0.0,2017-10-10
+11,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.08,29.0,2.0,0.16,0.0,0.0,0.0,0.0,2017-10-11
+84,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,51.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-10-12
+67,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.11,39.0,1.0,0.11,0.0,0.0,0.0,0.0,2017-10-13
+0,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,36.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-10-14
+76,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,57.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-10-15
+115,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-10-16
+59,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,28.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-10-17
+82,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,19.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-10-18
+71,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.16,27.0,1.0,0.16,0.0,0.0,0.0,0.0,2017-10-19
+87,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.07,25.0,1.0,0.07,0.0,0.0,0.0,0.0,2017-10-20
+16,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-10-21
+90,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,49.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-10-22
+13,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,22.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-10-23
+1,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,31.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-10-24
+74,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,27.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-10-25
+2,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.11,24.0,1.0,0.11,0.0,0.0,0.0,0.0,2017-10-26
+68,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-10-27
+113,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-10-28
+17,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-10-29
+119,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-10-30
+35,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-10-31
+50,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-11-01
+28,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,23.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-11-02
+18,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.11,25.0,2.0,0.22,0.0,0.0,0.0,0.0,2017-11-03
+63,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.1,27.0,1.0,0.1,0.0,0.0,0.0,0.0,2017-11-04
+112,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,27.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-11-05
+65,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,21.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-11-06
+14,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.1,29.0,1.0,0.1,0.0,0.0,0.0,0.0,2017-11-07
+117,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-11-08
+114,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,33.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-11-09
+83,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-11-10
+36,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.07,33.0,1.0,0.07,0.0,0.0,0.0,0.0,2017-11-11
+70,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.07,61.0,1.0,0.07,0.0,0.0,0.0,0.0,2017-11-12
+99,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,75.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-11-13
+53,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.07,37.0,1.0,0.07,0.0,0.0,0.0,0.0,2017-11-14
+103,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.09,62.0,5.0,0.46,0.0,0.0,0.0,0.0,2017-11-15
+88,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,42.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-11-16
+75,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.07,71.0,1.0,0.07,0.0,0.0,0.0,0.0,2017-11-17
+79,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.08,85.0,3.0,0.25,0.0,0.0,0.0,0.0,2017-11-18
+51,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,121.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-11-19
+92,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,50.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-11-20
+21,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-11-21
+5,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-11-22
+43,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,27.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-11-23
+116,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.07,30.0,1.0,0.07,0.0,0.0,0.0,0.0,2017-11-24
+105,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-11-25
+77,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,31.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-11-26
+89,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,37.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-11-27
+49,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.07,30.0,1.0,0.07,0.0,0.0,0.0,0.0,2017-11-28
+38,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,36.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-11-29
+120,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,51.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-11-30
+111,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.12,50.0,1.0,0.12,0.0,0.0,0.0,0.0,2017-12-01
+93,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,74.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-02
+61,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.11,94.0,1.0,0.11,0.0,0.0,0.0,0.0,2017-12-03
+81,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.07,76.0,4.0,0.28,0.0,0.0,0.0,0.0,2017-12-04
+121,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.09,84.0,4.0,0.36,0.0,0.0,0.0,0.0,2017-12-05
+24,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.12,189.0,4.0,0.47,0.0,0.0,0.0,0.0,2017-12-06
+48,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.13,160.0,2.0,0.26,0.0,0.0,0.0,0.0,2017-12-07
+94,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.09,206.0,7.0,0.63,0.0,0.0,0.0,0.0,2017-12-08
+6,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.13,214.0,1.0,0.13,0.0,0.0,0.0,0.0,2017-12-09
+96,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.1,161.0,4.0,0.4,0.0,0.0,0.0,0.0,2017-12-10
+69,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.12,124.0,3.0,0.36,0.0,0.0,0.0,0.0,2017-12-11
+42,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.11,162.0,3.0,0.33,0.0,0.0,0.0,0.0,2017-12-12
+41,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.09,125.0,1.0,0.09,0.0,0.0,0.0,0.0,2017-12-13
+58,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.1,139.0,5.0,0.49,0.0,0.0,0.0,0.0,2017-12-14
+78,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.1,156.0,2.0,0.2,0.0,0.0,0.0,0.0,2017-12-15
+52,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.08,128.0,1.0,0.08,0.0,0.0,0.0,0.0,2017-12-16
+62,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.09,122.0,4.0,0.36,0.0,0.0,0.0,0.0,2017-12-17
+25,61776.0,iluminación,lámparas de mesa,30.0,0.18,0.16,156.0,2.0,0.33,0.0,0.0,0.0,0.0,2017-12-18
+26,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.1,78.0,2.0,0.21,0.0,0.0,0.0,0.0,2017-12-18
+54,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.09,55.0,2.0,0.18,0.0,0.0,0.0,0.0,2017-12-19
+55,61776.0,iluminación,lámparas de mesa,30.0,0.18,0.14,172.0,5.0,0.71,0.0,0.0,0.0,0.0,2017-12-19
+29,61776.0,iluminación,lámparas de mesa,30.0,0.18,0.13,116.0,3.0,0.4,0.0,0.0,0.0,0.0,2017-12-20
+30,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.08,146.0,3.0,0.25,0.0,0.0,0.0,0.0,2017-12-20
+47,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.11,132.0,3.0,0.34,0.0,0.0,0.0,0.0,2017-12-21
+22,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.1,79.0,3.0,0.3,0.0,0.0,0.0,0.0,2017-12-22
+98,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.13,117.0,1.0,0.13,0.0,0.0,0.0,0.0,2017-12-23
+34,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.09,55.0,2.0,0.18,0.0,0.0,0.0,0.0,2017-12-24
+100,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.09,145.0,1.0,0.09,0.0,0.0,0.0,0.0,2017-12-25
+80,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.09,180.0,7.0,0.63,0.0,0.0,0.0,0.0,2017-12-26
+19,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.1,202.0,4.0,0.39,0.0,0.0,0.0,0.0,2017-12-27
+73,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.1,242.0,6.0,0.62,0.0,0.0,0.0,0.0,2017-12-28
+27,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.1,143.0,3.0,0.31,0.0,0.0,0.0,0.0,2017-12-29
+60,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,45.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-30
+23,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,38.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-31
+411,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-01
+412,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-02
+413,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-03
+414,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-04
+415,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-05
+416,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-06
+417,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-07
+418,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-08
+419,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-09
+420,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-10
+106,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.12,13.0,1.0,0.12,0.0,0.0,0.0,0.0,2018-01-11
+56,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-12
+44,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.11,206.0,3.0,0.34,0.0,0.0,0.0,0.0,2018-01-13
+109,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.09,273.0,2.0,0.18,0.0,0.0,0.0,0.0,2018-01-14
+20,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.09,299.0,4.0,0.35,0.0,0.0,0.0,0.0,2018-01-15
+46,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.08,184.0,2.0,0.17,0.0,0.0,0.0,0.0,2018-01-16
+104,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.11,238.0,2.0,0.22,0.0,0.0,0.0,0.0,2018-01-17
+72,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.09,250.0,8.0,0.71,0.0,0.0,0.0,0.0,2018-01-18
+97,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.09,225.0,1.0,0.09,0.0,0.0,0.0,0.0,2018-01-19
+95,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.09,200.0,4.0,0.36,0.0,0.0,0.0,0.0,2018-01-20
+122,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.08,239.0,1.0,0.08,0.0,0.0,0.0,0.0,2018-01-21
+31,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.16,283.0,3.0,0.49,0.0,0.0,0.0,0.0,2018-01-22
+33,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.15,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-22
+32,61776.0,iluminación,lámparas de mesa,30.0,0.01,0.0,23.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-22
+40,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.12,60.0,1.0,0.12,0.0,0.0,0.0,0.0,2018-01-23
+39,61776.0,lámparas e iluminación,lámparas de mesita de noche,10.0,0.01,0.15,317.0,6.0,0.89,0.0,1.0,0.0,0.0,2018-01-23
+8,61776.0,lámparas e iluminación,lámparas de mesita de noche,10.0,0.01,0.17,102.0,2.0,0.34,0.0,0.0,0.0,0.0,2018-01-24
+7,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,57.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-24
+57,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.07,67.0,1.0,0.07,0.0,0.0,0.0,0.0,2018-01-25
+15,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,50.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-26
+37,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.07,65.0,1.0,0.07,0.0,0.0,0.0,0.0,2018-01-27
+64,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.07,79.0,1.0,0.07,0.0,0.0,0.0,0.0,2018-01-28
+107,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.07,75.0,1.0,0.07,0.0,0.0,0.0,0.0,2018-01-29
+108,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.07,94.0,2.0,0.14,0.0,0.0,0.0,0.0,2018-01-30
+110,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.09,95.0,2.0,0.18,0.0,0.0,0.0,0.0,2018-01-31
+91,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.08,90.0,4.0,0.32,0.0,0.0,0.0,0.0,2018-02-01
+3,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.07,89.0,1.0,0.07,0.0,0.0,0.0,0.0,2018-02-02
+85,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,70.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-03
+101,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.07,120.0,3.0,0.21,0.0,1.0,0.0,0.0,2018-02-04
+147,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.11,101.0,1.0,0.11,0.0,0.0,0.0,0.0,2018-02-05
+220,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,104.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-06
+148,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.07,140.0,3.0,0.21,0.0,0.0,0.0,0.0,2018-02-07
+183,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,79.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-08
+135,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,55.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-09
+165,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,41.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-10
+153,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,58.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-11
+204,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,31.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-12
+213,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.07,54.0,2.0,0.14,0.0,0.0,0.0,0.0,2018-02-13
+144,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.07,49.0,1.0,0.07,0.0,0.0,0.0,0.0,2018-02-14
+209,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,55.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-15
+221,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-16
+193,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,36.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-17
+214,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-18
+211,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,48.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-19
+224,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-20
+222,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-21
+142,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.15,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-22
+141,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-22
+196,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.15,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-23
+217,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.15,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-24
+166,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.15,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-25
+138,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.15,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-26
+155,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.15,0.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-27
+219,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.15,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-28
+169,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.15,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-01
+201,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.15,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-02
+154,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.15,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-03
+200,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.15,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-04
+186,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.15,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-05
+171,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.15,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-06
+218,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.15,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-07
+223,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.15,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-08
+167,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.15,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-09
+124,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.15,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-10
+172,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.15,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-11
+215,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.15,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-12
+421,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-13
+159,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.15,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-14
+422,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-15
+127,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.15,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-16
+207,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.15,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-17
+180,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.15,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-18
+125,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.15,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-19
+145,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.15,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-20
+199,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.15,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-21
+174,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.15,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-22
+175,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,23.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-22
+194,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,27.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-23
+190,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,27.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-24
+131,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,34.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-25
+128,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,23.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-26
+176,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,21.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-27
+185,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-28
+188,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,19.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-29
+191,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,28.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-30
+173,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.05,35.0,1.0,0.05,0.0,0.0,0.0,0.0,2018-03-31
+123,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-01
+197,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-02
+206,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,22.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-03
+179,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.04,29.0,1.0,0.04,0.0,0.0,0.0,0.0,2018-04-04
+202,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-05
+132,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,29.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-06
+133,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,33.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-07
+203,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,54.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-08
+177,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.08,23.0,1.0,0.08,0.0,0.0,0.0,0.0,2018-04-09
+137,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,68.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-10
+181,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,36.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-11
+210,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-12
+139,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-13
+158,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-14
+195,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-15
+151,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-16
+182,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-17
+189,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-18
+130,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-19
+136,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-20
+161,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-21
+164,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-22
+143,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-23
+198,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-24
+160,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-25
+208,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-26
+156,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-27
+152,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-28
+140,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-29
+134,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-30
+187,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-01
+149,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-02
+129,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-03
+170,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.07,11.0,1.0,0.07,0.0,0.0,0.0,0.0,2018-05-04
+178,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.08,10.0,1.0,0.08,0.0,0.0,0.0,0.0,2018-05-05
+168,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-06
+146,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-07
+157,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-08
+163,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,19.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-09
+126,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-10
+192,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-11
+150,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-12
+184,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-13
+212,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-14
+162,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.2,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-15
+423,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-16
+424,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-17
+425,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-18
+426,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-19
+427,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-20
+428,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-21
+429,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-22
+430,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-23
+431,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-24
+432,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-25
+216,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.02,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-26
+433,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-27
+205,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.02,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-28
+434,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-29
+435,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-30
+436,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-31
+437,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-01
+438,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-02
+439,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-03
+440,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-04
+441,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-05
+442,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-06
+443,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-07
+444,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-08
+445,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-09
+446,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-10
+447,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-11
+448,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-12
+449,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-13
+450,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-14
+451,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-15
+452,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-16
+453,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-17
+454,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-18
+455,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-19
+456,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-20
+457,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-21
+458,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-22
+459,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-23
+460,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-24
+461,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-25
+462,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-26
+463,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-27
+464,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-28
+465,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-29
+466,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-30
+467,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-07-01
+468,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-07-02
+469,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-07-03
+470,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-07-04
+471,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-07-05
+472,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-07-06
+473,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-07-07
+474,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-07-08
+475,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-07-09
+476,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-07-10
+477,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-07-11
+478,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-07-12
+479,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-07-13
+480,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-07-14
+481,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-07-15
+482,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-07-16
+483,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-07-17
+484,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-07-18
+485,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-07-19
+486,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-07-20
+487,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-07-21
+488,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-07-22
+489,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-07-23
+490,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-07-24
+491,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-07-25
+492,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-07-26
+493,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-07-27
+494,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-07-28
+495,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-07-29
+496,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-07-30
+497,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-07-31
+498,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-08-01
+499,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-08-02
+500,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-08-03
+501,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-08-04
+502,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-08-05
+503,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-08-06
+504,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-08-07
+505,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-08-08
+506,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-08-09
+507,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-08-10
+508,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-08-11
+509,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-08-12
+510,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-08-13
+511,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-08-14
+512,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-08-15
+513,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-08-16
+514,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-08-17
+515,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-08-18
+516,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-08-19
+517,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-08-20
+518,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-08-21
+519,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-08-22
+520,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-08-23
+521,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-08-24
+522,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-08-25
+523,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-08-26
+524,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-08-27
+525,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-08-28
+526,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-08-29
+527,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-08-30
+528,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-08-31
+529,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-01
+530,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-02
+531,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-03
+532,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-04
+533,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-05
+534,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-06
+535,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-07
+536,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-08
+537,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-09
+538,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-10
+539,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-11
+540,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-12
+541,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-13
+542,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-14
+543,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-15
+544,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-16
+545,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-17
+546,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-18
+547,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-19
+548,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-20
+549,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-21
+550,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-22
+551,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-23
+552,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-24
+553,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-25
+554,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-26
+555,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-27
+556,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-28
+557,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-29
+558,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-30
+559,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-01
+560,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-02
+561,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-03
+378,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.25,0.0,19.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-04
+374,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.25,0.22,771.0,9.0,1.95,0.0,0.0,0.0,0.0,2018-10-05
+305,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.25,0.2,647.0,7.0,1.37,0.0,0.0,0.0,0.0,2018-10-06
+234,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.25,0.22,1451.0,13.0,2.9,0.29,1.29,14.44,14.44,2018-10-07
+253,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.25,0.24,1094.0,13.0,3.06,0.0,2.0,0.0,0.0,2018-10-08
+311,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.25,0.24,1619.0,16.0,3.84,0.0,0.0,0.0,0.0,2018-10-09
+251,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.25,0.2,1799.0,17.0,3.39,0.0,1.0,0.0,0.0,2018-10-10
+245,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.25,0.23,1658.0,27.0,6.16,0.0,0.0,0.0,0.0,2018-10-11
+326,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.25,0.23,2352.0,21.0,4.9,0.0,2.0,0.0,0.0,2018-10-12
+317,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.25,0.21,2441.0,20.0,4.2,0.0,0.0,0.0,0.0,2018-10-13
+371,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.25,0.25,2713.0,29.0,7.26,0.0,0.0,0.0,0.0,2018-10-14
+262,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.25,0.25,1695.0,18.0,4.46,0.0,0.0,0.0,0.0,2018-10-15
+243,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.25,0.26,376.0,1.0,0.26,0.0,0.0,0.0,0.0,2018-10-16
+562,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-17
+563,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-18
+564,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-19
+565,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-20
+566,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-21
+567,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-22
+568,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-23
+569,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-24
+570,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-25
+571,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-26
+572,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-27
+573,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-28
+574,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-29
+575,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-30
+576,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-31
+577,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-01
+578,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-02
+579,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-03
+580,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-04
+581,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-05
+582,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-06
+583,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-07
+235,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,219.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-08
+346,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.05,51.0,1.0,0.05,0.0,0.0,0.0,0.0,2018-11-09
+303,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,58.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-10
+274,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.05,262.0,1.0,0.05,0.0,0.0,0.0,0.0,2018-11-11
+338,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.04,212.0,1.0,0.04,0.0,0.0,0.0,0.0,2018-11-12
+255,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.11,225.0,1.0,0.11,0.0,0.0,0.0,0.0,2018-11-13
+287,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.06,174.0,1.0,0.06,0.0,0.0,0.0,0.0,2018-11-14
+294,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.05,151.0,1.0,0.05,0.0,0.0,0.0,0.0,2018-11-15
+366,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,88.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-16
+291,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,173.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-17
+367,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.07,142.0,2.0,0.14,0.0,0.0,0.0,0.0,2018-11-18
+320,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,28.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-19
+373,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,138.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-20
+315,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,112.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-21
+238,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,88.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-22
+286,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,42.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-23
+298,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,23.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-24
+355,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,63.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-25
+349,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,84.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-26
+345,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,121.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-27
+261,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.06,101.0,2.0,0.12,0.0,0.0,0.0,0.0,2018-11-28
+289,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,115.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-29
+227,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,101.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-30
+276,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,94.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-01
+272,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.04,152.0,2.0,0.07,0.0,0.0,0.0,0.0,2018-12-02
+242,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.17,184.0,1.0,0.17,0.0,0.0,0.0,0.0,2018-12-03
+247,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,149.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-04
+312,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,82.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-05
+290,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,115.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-06
+252,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.07,120.0,1.0,0.07,0.0,0.0,0.0,0.0,2018-12-07
+331,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.22,93.0,3.0,0.66,1.0,2.0,29.9,59.8,2018-12-08
+336,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.06,191.0,1.0,0.06,0.0,0.0,0.0,0.0,2018-12-09
+236,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.13,128.0,1.0,0.13,0.0,0.0,0.0,0.0,2018-12-10
+288,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,169.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-11
+316,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,165.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-12
+239,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,154.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-13
+225,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,143.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-14
+361,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,151.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-15
+302,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.18,238.0,4.0,0.7,0.0,0.0,0.0,0.0,2018-12-16
+301,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,217.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-17
+328,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.11,164.0,1.0,0.11,0.0,0.0,0.0,0.0,2018-12-18
+300,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.32,140.0,1.0,0.32,0.0,0.0,0.0,0.0,2018-12-19
+343,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.09,121.0,1.0,0.09,0.0,0.0,0.0,0.0,2018-12-20
+348,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.04,145.0,1.0,0.04,0.0,0.0,0.0,0.0,2018-12-21
+270,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,87.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-22
+237,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.14,157.0,1.0,0.14,0.0,0.0,0.0,0.0,2018-12-23
+307,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.01,95.0,1.0,0.01,0.0,0.02,0.0,1.08,2018-12-24
+368,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,151.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-25
+249,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,218.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-26
+332,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,196.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-27
+322,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,140.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-28
+246,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.04,169.0,1.0,0.04,0.0,0.0,0.0,0.0,2018-12-29
+364,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.02,183.0,2.0,0.05,0.0,0.0,0.0,0.0,2018-12-30
+306,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,101.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-31
+277,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,194.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-01
+334,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,246.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-02
+256,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.04,238.0,2.0,0.08,0.0,0.0,0.0,0.0,2019-01-03
+369,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,157.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-04
+314,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.32,138.0,1.0,0.32,0.0,0.0,0.0,0.0,2019-01-05
+284,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,172.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-06
+376,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.05,239.0,1.0,0.05,0.0,0.0,0.0,0.0,2019-01-07
+269,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,141.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-08
+293,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.09,156.0,2.0,0.18,0.0,0.0,0.0,0.0,2019-01-09
+275,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,99.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-10
+351,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.12,69.0,3.0,0.37,0.0,0.0,0.0,0.0,2019-01-11
+327,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,176.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-12
+324,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.17,428.0,3.0,0.51,0.0,0.0,0.0,0.0,2019-01-13
+283,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.08,172.0,1.0,0.08,0.0,0.0,0.0,0.0,2019-01-14
+313,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.32,169.0,1.0,0.32,0.0,0.0,0.0,0.0,2019-01-15
+260,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.18,94.0,1.0,0.18,0.0,0.0,0.0,0.0,2019-01-16
+254,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.1,134.0,1.0,0.1,0.0,0.0,0.0,0.0,2019-01-17
+360,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,153.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-18
+257,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.08,157.0,1.0,0.08,0.0,0.0,0.0,0.0,2019-01-19
+372,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,180.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-20
+282,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.15,190.0,3.0,0.44,0.0,0.0,0.0,0.0,2019-01-21
+353,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.17,196.0,1.0,0.17,0.0,0.0,0.0,0.0,2019-01-22
+318,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.05,170.0,3.0,0.16,0.0,0.0,0.0,0.0,2019-01-23
+264,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.1,123.0,2.0,0.21,0.0,0.0,0.0,0.0,2019-01-24
+354,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,132.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-25
+350,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.04,89.0,1.0,0.04,0.0,0.0,0.0,0.0,2019-01-26
+352,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.24,198.0,1.0,0.24,0.0,0.0,0.0,0.0,2019-01-27
+281,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.11,184.0,4.0,0.43,0.0,0.0,0.0,0.0,2019-01-28
+362,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.13,181.0,3.0,0.4,0.0,0.0,0.0,0.0,2019-01-29
+339,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.24,169.0,2.0,0.49,0.0,0.0,0.0,0.0,2019-01-30
+278,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.08,97.0,1.0,0.08,0.0,0.0,0.0,0.0,2019-01-31
+248,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,95.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-01
+359,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.1,125.0,1.0,0.1,0.0,0.0,0.0,0.0,2019-02-02
+271,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.14,252.0,3.0,0.42,0.0,0.0,0.0,0.0,2019-02-03
+377,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.14,236.0,1.0,0.14,0.0,0.0,0.0,0.0,2019-02-04
+250,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.15,273.0,2.0,0.3,0.0,0.0,0.0,0.0,2019-02-05
+375,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.14,332.0,5.0,0.72,0.0,0.0,0.0,0.0,2019-02-06
+285,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.14,214.0,2.0,0.27,0.0,0.0,0.0,0.0,2019-02-07
+292,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.09,148.0,1.0,0.09,0.0,0.0,0.0,0.0,2019-02-08
+267,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.16,167.0,1.0,0.16,0.0,0.0,0.0,0.0,2019-02-09
+337,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.12,482.0,2.0,0.25,0.0,0.0,0.0,0.0,2019-02-10
+280,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.12,526.0,3.0,0.36,0.0,0.0,0.0,0.0,2019-02-11
+259,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.12,438.0,1.0,0.12,0.0,0.0,0.0,0.0,2019-02-12
+308,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.24,313.0,1.0,0.24,0.0,0.0,0.0,0.0,2019-02-13
+309,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.17,439.0,5.0,0.87,0.0,0.0,0.0,0.0,2019-02-14
+231,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.1,299.0,6.0,0.59,0.0,0.0,0.0,0.0,2019-02-15
+226,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.22,282.0,2.0,0.44,0.0,0.0,0.0,0.0,2019-02-16
+340,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.21,378.0,3.0,0.63,0.0,0.0,0.0,0.0,2019-02-17
+379,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.18,295.0,1.0,0.18,0.0,0.0,0.0,0.0,2019-02-18
+228,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.08,264.0,7.0,0.59,0.0,0.0,0.0,0.0,2019-02-19
+344,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.12,215.0,4.0,0.49,0.0,0.0,0.0,0.0,2019-02-20
+321,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.05,141.0,1.0,0.05,0.0,0.0,0.0,0.0,2019-02-21
+241,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.12,110.0,2.0,0.23,0.0,0.0,0.0,0.0,2019-02-22
+380,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.08,147.0,3.0,0.23,0.0,0.0,0.0,0.0,2019-02-23
+363,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.09,403.0,2.0,0.18,0.0,0.0,0.0,0.0,2019-02-24
+299,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.05,213.0,1.0,0.05,0.0,0.0,0.0,0.0,2019-02-25
+330,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.17,229.0,4.0,0.68,0.0,0.0,0.0,0.0,2019-02-26
+273,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.23,192.0,1.0,0.23,0.0,0.0,0.0,0.0,2019-02-27
+240,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.1,138.0,1.0,0.1,0.0,0.0,0.0,0.0,2019-02-28
+365,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.08,165.0,4.0,0.34,0.0,0.0,0.0,0.0,2019-03-01
+357,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.14,159.0,3.0,0.41,0.0,0.0,0.0,0.0,2019-03-02
+230,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.09,379.0,2.0,0.18,0.0,0.0,0.0,0.0,2019-03-03
+233,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,322.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-04
+268,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,273.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-05
+279,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,212.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-06
+342,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.05,148.0,1.0,0.05,0.0,0.0,0.0,0.0,2019-03-07
+296,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,39.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-08
+263,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,52.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-09
+310,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,101.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-10
+265,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.1,85.0,3.0,0.31,0.0,0.0,0.0,0.0,2019-03-11
+229,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.2,49.0,3.0,0.6,1.0,1.0,31.41,31.41,2019-03-12
+584,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-13
+347,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,88.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-14
+325,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.17,110.0,1.0,0.17,0.0,0.0,0.0,0.0,2019-03-15
+304,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.07,135.0,1.0,0.07,0.0,0.0,0.0,0.0,2019-03-16
+258,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.39,162.0,1.0,0.39,0.0,0.0,0.0,0.0,2019-03-17
+335,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.33,143.0,1.0,0.33,0.0,0.0,0.0,0.0,2019-03-18
+295,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.08,116.0,1.0,0.08,0.0,0.0,0.0,0.0,2019-03-19
+333,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,135.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-20
+266,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,126.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-21
+356,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.09,131.0,1.0,0.09,0.0,0.0,0.0,0.0,2019-03-22
+329,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.09,95.0,2.0,0.18,0.0,0.0,0.0,0.0,2019-03-23
+358,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,96.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-24
+319,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.1,200.0,3.0,0.31,0.0,0.0,0.0,0.0,2019-03-25
+341,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.13,249.0,4.0,0.52,0.0,0.0,0.0,0.0,2019-03-26
+297,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.19,206.0,3.0,0.56,0.0,0.0,0.0,0.0,2019-03-27
+370,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.07,205.0,2.0,0.14,0.0,0.0,0.0,0.0,2019-03-28
+232,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,215.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-29
+244,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.0,119.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-30
+323,61776.0,lámparas e iluminación,lámparas de mesita de noche,30.0,0.01,0.07,300.0,1.0,0.07,0.0,0.0,0.0,0.0,2019-03-31

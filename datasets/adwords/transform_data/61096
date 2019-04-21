@@ -1,0 +1,577 @@
+,Reference,CatN1,CatN2,Date,Cat_Price,CPC_max,CPC_medio,Impressions,Clics,Cost,Conversions,All_Conversions,Ads_Income,Ads_Income_All
+9183,61096,muebles,mueble auxiliar,2017-12-02,50,0.17,0.2,77,4,0.78,0.0,0.0,0.0,0.0
+9184,61096,muebles,mueble auxiliar,2017-12-05,50,0.21,0.14,420,17,2.39,0.0,0.0,0.0,0.0
+9185,61096,organización y almacenamiento,percheros,2018-01-29,40,0.17,0.1,349,20,1.9,0.0,0.0,0.0,0.0
+9186,61096,muebles,mueble auxiliar,2017-11-02,50,0.17,0.21,32,2,0.42,0.0,0.0,0.0,0.0
+9187,61096,muebles,mueble auxiliar,2017-12-02,50,0.21,0.15,419,7,1.08,0.0,0.0,0.0,0.0
+9188,61096,muebles,mueble auxiliar,2017-11-24,50,0.21,0.0,10,0,0.0,0.0,0.0,0.0,0.0
+9189,61096,muebles,mueble auxiliar,2017-11-13,50,0.17,0.16,80,1,0.16,0.0,0.0,0.0,0.0
+9190,61096,muebles,mueble auxiliar,2017-11-05,50,0.21,0.18,467,14,2.48,0.0,0.0,0.0,0.0
+9191,61096,muebles,mueble auxiliar,2017-10-15,50,0.21,0.12,271,10,1.18,0.0,0.0,0.0,0.0
+9192,61096,muebles,mueble auxiliar,2018-01-18,40,0.21,0.11,307,8,0.89,0.0,0.0,0.0,0.0
+9193,61096,organización y almacenamiento,percheros,2018-01-22,40,0.17,0.11,540,15,1.67,1.0,2.0,39.9,39.9
+9194,61096,organización y almacenamiento,percheros,2018-01-23,40,0.17,0.15,133,8,1.21,0.0,0.0,0.0,0.0
+9195,61096,muebles,mueble auxiliar,2017-10-18,50,0.17,0.31,30,1,0.31,0.0,0.0,0.0,0.0
+9196,61096,muebles,mueble auxiliar,2018-01-06,50,0.17,0.11,54,3,0.34,0.0,0.0,0.0,0.0
+9197,61096,muebles,mueble auxiliar,2017-12-14,50,0.21,0.14,449,16,2.29,1.0,1.0,49.9,49.9
+9198,61096,muebles,mueble auxiliar,2017-12-04,50,0.17,0.17,131,13,2.23,0.0,0.0,0.0,0.0
+9199,61096,muebles,mueble auxiliar,2017-11-05,50,0.17,0.08,60,1,0.08,0.0,0.0,0.0,0.0
+9200,61096,muebles,mueble auxiliar,2017-10-21,50,0.17,0.0,30,0,0.0,0.0,0.0,0.0,0.0
+9201,61096,muebles,mueble auxiliar,2017-10-02,50,0.21,0.11,176,4,0.44,0.0,0.0,0.0,0.0
+9202,61096,muebles,mueble auxiliar,2017-10-30,50,0.17,0.23,21,1,0.23,0.0,0.0,0.0,0.0
+9203,61096,organización y almacenamiento,percheros,2018-02-01,40,0.17,0.08,444,19,1.61,0.0,0.0,0.0,0.0
+9204,61096,muebles,mueble auxiliar,2017-11-13,50,0.21,0.13,527,13,1.65,1.0,1.0,51.9,51.9
+9205,61096,muebles,mueble auxiliar,2017-12-22,50,0.17,0.11,18,2,0.22,0.0,0.0,0.0,0.0
+9206,61096,muebles,mueble auxiliar,2017-10-31,50,0.21,0.16,254,7,1.1,0.0,0.0,0.0,0.0
+9207,61096,muebles,mueble auxiliar,2017-12-30,50,0.21,0.1,174,6,0.58,0.0,0.0,0.0,0.0
+9208,61096,muebles,mueble auxiliar,2017-11-18,50,0.21,0.15,214,10,1.48,0.0,0.0,0.0,0.0
+9209,61096,muebles,mueble auxiliar,2017-12-20,50,0.18,0.0,1,0,0.0,0.0,0.0,0.0,0.0
+9210,61096,muebles,mueble auxiliar,2017-10-24,50,0.21,0.0,93,0,0.0,0.0,0.0,0.0,0.0
+9211,61096,muebles,mueble auxiliar,2017-12-13,50,0.21,0.17,443,15,2.62,0.0,0.0,0.0,0.0
+9212,61096,muebles,mueble auxiliar,2017-12-28,50,0.21,0.11,367,10,1.09,0.0,0.0,0.0,0.0
+9213,61096,muebles,mueble auxiliar,2017-10-28,50,0.21,0.13,127,5,0.65,0.0,0.0,0.0,0.0
+9214,61096,muebles,mueble auxiliar,2017-10-27,50,0.21,0.09,159,3,0.26,0.0,0.0,0.0,0.0
+9215,61096,muebles,mueble auxiliar,2017-11-11,50,0.21,0.13,316,9,1.14,0.0,1.0,0.0,0.0
+9216,61096,muebles,mueble auxiliar,2017-11-29,40,0.21,0.13,635,22,2.9,3.0,5.0,199.6,199.6
+9217,61096,muebles,mueble auxiliar,2017-12-09,50,0.17,0.18,89,4,0.72,0.0,0.0,0.0,0.0
+9218,61096,muebles,mueble auxiliar,2017-10-20,50,0.21,0.15,143,5,0.74,0.0,0.0,0.0,0.0
+9219,61096,muebles,mueble auxiliar,2018-01-22,40,0.21,0.1,107,2,0.19,0.0,0.0,0.0,0.0
+9220,61096,muebles,mueble auxiliar,2017-11-07,50,0.21,0.16,481,15,2.44,1.0,1.0,49.9,49.9
+9221,61096,muebles,mueble auxiliar,2018-01-16,40,0.21,0.13,1274,46,6.16,1.0,1.0,39.9,39.9
+9222,61096,muebles,mueble auxiliar,2018-01-07,50,0.21,0.15,97,1,0.15,0.0,0.0,0.0,0.0
+9223,61096,muebles,mueble auxiliar,2017-12-10,50,0.21,0.16,558,9,1.43,0.0,0.0,0.0,0.0
+9224,61096,muebles,mueble auxiliar,2017-11-10,50,0.21,0.12,305,10,1.25,0.0,0.0,0.0,0.0
+9225,61096,muebles,mueble auxiliar,2017-12-19,50,0.21,0.13,158,4,0.51,0.0,0.0,0.0,0.0
+9226,61096,muebles,mueble auxiliar,2017-12-17,50,0.21,0.09,273,6,0.53,0.0,0.0,0.0,0.0
+9227,61096,muebles,mueble auxiliar,2017-10-06,50,0.21,0.14,106,2,0.27,1.0,1.0,49.9,49.9
+9228,61096,muebles,mueble auxiliar,2017-10-16,50,0.21,0.0,203,0,0.0,0.0,0.0,0.0,0.0
+9229,61096,muebles,mueble auxiliar,2017-10-12,50,0.21,0.15,66,1,0.15,0.0,0.0,0.0,0.0
+9230,61096,muebles,mueble auxiliar,2017-11-23,50,0.21,0.15,393,8,1.21,0.0,0.0,0.0,0.0
+9231,61096,muebles,mueble auxiliar,2018-01-21,40,0.21,0.14,1492,57,7.8,0.0,0.0,0.0,0.0
+9232,61096,muebles,mueble auxiliar,2017-12-03,50,0.21,0.13,439,15,1.88,0.0,0.0,0.0,0.0
+9233,61096,muebles,mueble auxiliar,2017-10-05,50,0.21,0.12,130,5,0.59,0.0,0.0,0.0,0.0
+9234,61096,muebles,mueble auxiliar,2017-12-08,50,0.21,0.09,466,11,1.01,0.0,0.0,0.0,0.0
+9235,61096,organización y almacenamiento,percheros,2018-01-25,40,0.17,0.11,303,17,1.9,0.0,0.0,0.0,0.0
+9236,61096,muebles,mueble auxiliar,2017-11-17,50,0.21,0.22,190,3,0.67,0.0,0.0,0.0,0.0
+9237,61096,muebles,mueble auxiliar,2017-12-25,50,0.17,0.0,12,0,0.0,0.0,0.0,0.0,0.0
+9238,61096,muebles,mueble auxiliar,2017-12-27,50,0.21,0.15,344,14,2.15,0.0,1.0,0.0,0.0
+9239,61096,muebles,mueble auxiliar,2017-11-16,50,0.21,0.15,428,5,0.76,1.0,1.0,84.83,84.83
+9240,61096,muebles,mueble auxiliar,2017-10-25,50,0.21,0.04,90,4,0.18,0.0,0.0,0.0,0.0
+9241,61096,muebles,mueble auxiliar,2017-11-26,50,0.21,0.15,120,3,0.44,0.0,0.0,0.0,0.0
+9242,61096,muebles,mueble auxiliar,2017-10-05,50,0.17,0.0,10,0,0.0,0.0,0.0,0.0,0.0
+9243,61096,muebles,mueble auxiliar,2017-12-16,50,0.21,0.13,327,11,1.39,1.0,1.0,51.9,51.9
+9244,61096,muebles,mueble auxiliar,2017-10-17,50,0.21,0.16,137,2,0.33,0.0,0.0,0.0,0.0
+9245,61096,muebles,mueble auxiliar,2017-12-31,50,0.21,0.09,60,2,0.18,0.0,0.0,0.0,0.0
+9246,61096,muebles,mueble auxiliar,2017-10-18,50,0.21,0.09,207,11,1.0,1.0,2.0,67.9,67.9
+9247,61096,muebles,mueble auxiliar,2017-11-09,50,0.21,0.13,438,16,2.11,0.0,0.0,0.0,0.0
+9248,61096,muebles,mueble auxiliar,2017-12-11,50,0.21,0.16,455,15,2.35,0.0,0.0,0.0,0.0
+9249,61096,muebles,mueble auxiliar,2017-10-09,50,0.21,0.13,196,7,0.88,0.0,0.0,0.0,0.0
+9250,61096,muebles,mueble auxiliar,2017-10-24,50,0.17,0.17,21,1,0.17,0.0,0.0,0.0,0.0
+9251,61096,muebles,mueble auxiliar,2017-12-31,50,0.17,0.0,4,0,0.0,0.0,0.0,0.0,0.0
+9252,61096,muebles,mueble auxiliar,2017-10-02,50,0.17,0.0,28,0,0.0,0.0,0.0,0.0,0.0
+9253,61096,muebles,mueble auxiliar,2017-11-01,50,0.21,0.1,357,11,1.1,0.0,0.0,0.0,0.0
+9254,61096,muebles,mueble auxiliar,2018-01-05,50,0.21,0.11,446,11,1.2,0.0,0.0,0.0,0.0
+9255,61096,muebles,mueble auxiliar,2017-10-22,50,0.17,0.0,35,0,0.0,0.0,0.0,0.0,0.0
+9256,61096,muebles,mueble auxiliar,2017-12-07,50,0.21,0.12,358,12,1.47,0.0,0.0,0.0,0.0
+9257,61096,muebles,mueble auxiliar,2017-11-26,40,0.21,0.11,548,23,2.64,0.0,0.0,0.0,0.0
+9258,61096,muebles,mueble auxiliar,2017-10-23,50,0.21,0.18,170,2,0.36,0.0,0.0,0.0,0.0
+9259,61096,muebles,mueble auxiliar,2017-12-27,50,0.17,0.13,86,3,0.38,0.0,0.0,0.0,0.0
+9260,61096,muebles,mueble auxiliar,2017-10-14,50,0.21,0.1,128,2,0.21,0.0,0.0,0.0,0.0
+9261,61096,muebles,mueble auxiliar,2017-11-18,50,0.17,0.14,37,2,0.29,0.0,0.0,0.0,0.0
+9262,61096,muebles,mueble auxiliar,2017-12-20,50,0.21,0.14,194,7,1.0,0.0,0.0,0.0,0.0
+9263,61096,muebles,mueble auxiliar,2017-11-21,50,0.21,0.17,405,10,1.7,1.0,2.0,158.69,158.69
+9264,61096,muebles,mueble auxiliar,2018-01-03,50,0.17,0.11,31,3,0.33,0.0,0.0,0.0,0.0
+9265,61096,muebles,mueble auxiliar,2017-11-06,50,0.21,0.12,634,16,1.93,0.0,0.0,0.0,0.0
+9266,61096,muebles,mueble auxiliar,2017-10-07,50,0.21,0.07,106,3,0.2,0.0,0.0,0.0,0.0
+9267,61096,muebles,mueble auxiliar,2018-01-10,40,0.21,0.12,1422,53,6.29,3.0,3.0,119.7,119.7
+9268,61096,organización y almacenamiento,percheros,2018-01-31,40,0.17,0.09,397,23,2.16,0.0,1.0,0.0,0.0
+9269,61096,muebles,mueble auxiliar,2017-12-22,50,0.21,0.04,119,4,0.16,0.0,0.0,0.0,0.0
+9270,61096,muebles,mueble auxiliar,2017-12-17,50,0.17,0.18,81,2,0.37,0.0,0.0,0.0,0.0
+9271,61096,muebles,mueble auxiliar,2017-12-04,50,0.21,0.13,486,10,1.34,0.0,0.0,0.0,0.0
+9272,61096,muebles,mueble auxiliar,2017-11-16,50,0.17,0.26,79,4,1.04,0.0,0.0,0.0,0.0
+9273,61096,muebles,mueble auxiliar,2018-01-06,50,0.21,0.11,604,19,2.06,0.0,1.0,0.0,0.0
+9274,61096,muebles,mueble auxiliar,2017-10-04,50,0.17,0.22,14,1,0.22,0.0,0.0,0.0,0.0
+9275,61096,muebles,mueble auxiliar,2017-10-03,50,0.17,0.2,31,1,0.2,0.0,0.0,0.0,0.0
+9276,61096,muebles,mueble auxiliar,2017-11-12,50,0.17,0.17,82,4,0.68,0.0,1.0,0.0,0.0
+9277,61096,muebles,mueble auxiliar,2018-01-12,40,0.21,0.13,1119,37,4.96,1.0,2.0,41.9,41.9
+9278,61096,muebles,mueble auxiliar,2017-10-29,50,0.21,0.12,125,5,0.58,0.0,0.0,0.0,0.0
+9279,61096,muebles,mueble auxiliar,2017-12-12,50,0.21,0.17,507,14,2.36,0.0,1.0,0.0,0.0
+9280,61096,muebles,mueble auxiliar,2017-12-14,50,0.17,0.16,83,3,0.48,0.0,0.0,0.0,0.0
+9281,61096,muebles,mueble auxiliar,2017-12-25,50,0.21,0.14,138,2,0.28,0.0,0.0,0.0,0.0
+9282,61096,muebles,mueble auxiliar,2017-12-26,50,0.21,0.1,300,15,1.53,0.0,0.0,0.0,0.0
+9283,61096,organización y almacenamiento,percheros,2018-01-30,40,0.17,0.11,326,15,1.59,0.0,0.0,0.0,0.0
+9284,61096,muebles,mueble auxiliar,2017-11-08,50,0.17,0.27,40,3,0.81,0.0,0.0,0.0,0.0
+9285,61096,muebles,mueble auxiliar,2017-11-21,50,0.17,0.24,94,3,0.72,0.0,0.0,0.0,0.0
+9286,61096,muebles,mueble auxiliar,2017-11-09,50,0.17,0.22,47,1,0.22,0.0,0.0,0.0,0.0
+9287,61096,muebles,mueble auxiliar,2017-10-03,50,0.21,0.11,110,2,0.22,0.0,0.0,0.0,0.0
+9288,61096,muebles,mueble auxiliar,2017-12-24,50,0.21,0.07,117,1,0.07,0.0,0.0,0.0,0.0
+9289,61096,muebles,mueble auxiliar,2017-11-08,50,0.21,0.18,440,10,1.75,0.0,1.0,0.0,0.0
+9290,61096,muebles,mueble auxiliar,2017-10-30,50,0.21,0.14,204,4,0.55,1.0,1.0,49.9,49.9
+9291,61096,muebles,mueble auxiliar,2017-11-04,50,0.21,0.11,264,3,0.32,0.0,0.0,0.0,0.0
+9292,61096,muebles,mueble auxiliar,2017-10-10,50,0.21,0.0,13,0,0.0,0.0,0.0,0.0,0.0
+9293,61096,organización y almacenamiento,percheros,2018-01-26,40,0.17,0.09,304,13,1.18,0.0,1.0,0.0,0.0
+9294,61096,muebles,mueble auxiliar,2018-01-03,50,0.21,0.13,441,12,1.55,0.0,0.0,0.0,0.0
+9295,61096,muebles,mueble auxiliar,2017-10-20,50,0.17,0.0,26,0,0.0,0.0,0.0,0.0,0.0
+9296,61096,muebles,mueble auxiliar,2017-12-07,50,0.17,0.16,82,4,0.66,0.0,0.0,0.0,0.0
+9297,61096,muebles,mueble auxiliar,2018-01-14,40,0.21,0.11,1714,59,6.42,2.0,3.0,79.8,79.8
+9298,61096,muebles,mueble auxiliar,2017-11-12,50,0.21,0.12,476,13,1.6,0.0,0.0,0.0,0.0
+9299,61096,muebles,mueble auxiliar,2017-12-15,50,0.17,0.21,96,4,0.85,2.0,4.0,101.8,101.8
+9300,61096,organización y almacenamiento,percheros,2018-01-23,10,0.17,0.11,375,9,1.03,0.0,0.0,0.0,0.0
+9301,61096,muebles,mueble auxiliar,2017-12-12,50,0.17,0.21,124,3,0.63,0.0,0.0,0.0,0.0
+9302,61096,muebles,mueble auxiliar,2017-11-07,50,0.17,0.0,53,0,0.0,0.0,0.0,0.0,0.0
+9303,61096,muebles,mueble auxiliar,2017-12-03,50,0.17,0.18,93,5,0.9,0.0,0.0,0.0,0.0
+9304,61096,muebles,mueble auxiliar,2017-12-21,50,0.21,0.04,152,8,0.29,0.0,0.0,0.0,0.0
+9305,61096,muebles,mueble auxiliar,2017-11-23,50,0.17,0.23,59,1,0.23,0.0,0.0,0.0,0.0
+9306,61096,muebles,mueble auxiliar,2017-12-01,50,0.17,0.17,50,3,0.51,0.0,0.0,0.0,0.0
+9307,61096,muebles,mueble auxiliar,2017-10-16,50,0.17,0.22,29,1,0.22,0.0,0.0,0.0,0.0
+9308,61096,muebles,mueble auxiliar,2017-12-23,50,0.17,0.22,41,1,0.22,0.0,0.0,0.0,0.0
+9309,61096,muebles,mueble auxiliar,2017-10-27,50,0.17,0.0,28,0,0.0,0.0,0.0,0.0,0.0
+9310,61096,muebles,mueble auxiliar,2017-12-15,50,0.21,0.13,395,17,2.24,0.0,0.0,0.0,0.0
+9311,61096,muebles,mueble auxiliar,2017-10-10,50,0.17,0.21,2,1,0.21,0.0,0.0,0.0,0.0
+9312,61096,muebles,mueble auxiliar,2017-12-23,50,0.21,0.12,145,6,0.73,0.0,1.0,0.0,0.0
+9313,61096,muebles,mueble auxiliar,2018-01-08,50,0.21,0.16,106,6,0.94,0.0,0.0,0.0,0.0
+9314,61096,muebles,mueble auxiliar,2018-01-09,40,0.21,0.13,1376,47,6.12,1.0,2.0,39.9,39.9
+9315,61096,muebles,mueble auxiliar,2017-11-03,50,0.21,0.15,207,3,0.45,0.0,0.0,0.0,0.0
+9316,61096,muebles,mueble auxiliar,2017-11-30,40,0.21,0.14,252,4,0.55,0.0,0.0,0.0,0.0
+9317,61096,muebles,mueble auxiliar,2017-11-20,50,0.21,0.17,434,8,1.35,0.0,0.0,0.0,0.0
+9318,61096,muebles,mueble auxiliar,2018-01-04,50,0.21,0.11,815,26,2.96,0.0,5.0,0.0,0.0
+9319,61096,muebles,mueble auxiliar,2017-11-24,50,0.17,0.0,5,0,0.0,0.0,0.0,0.0,0.0
+9320,61096,muebles,mueble auxiliar,2017-12-26,50,0.17,0.19,41,1,0.19,0.0,0.0,0.0,0.0
+9321,61096,muebles,mueble auxiliar,2017-12-11,50,0.17,0.1,74,3,0.29,0.0,0.0,0.0,0.0
+9322,61096,muebles,mueble auxiliar,2017-11-03,50,0.17,0.2,42,2,0.39,0.0,0.0,0.0,0.0
+9323,61096,muebles,mueble auxiliar,2017-12-29,50,0.17,0.17,87,2,0.34,0.0,0.0,0.0,0.0
+9324,61096,muebles,mueble auxiliar,2017-11-28,40,0.21,0.16,559,23,3.62,0.0,0.0,0.0,0.0
+9325,61096,muebles,mueble auxiliar,2017-12-21,50,0.17,0.05,26,1,0.05,0.0,0.0,0.0,0.0
+9326,61096,muebles,mueble auxiliar,2017-12-18,50,0.17,0.0,41,0,0.0,0.0,0.0,0.0,0.0
+9327,61096,muebles,mueble auxiliar,2017-10-29,50,0.17,0.0,16,0,0.0,0.0,0.0,0.0,0.0
+9328,61096,muebles,mueble auxiliar,2018-01-04,50,0.17,0.16,56,2,0.32,0.0,0.0,0.0,0.0
+9329,61096,muebles,mueble auxiliar,2017-10-04,50,0.21,0.15,128,2,0.3,0.0,0.0,0.0,0.0
+9330,61096,muebles,mueble auxiliar,2017-12-09,50,0.21,0.15,468,12,1.84,1.0,1.0,49.9,49.9
+9331,61096,muebles,mueble auxiliar,2017-10-23,50,0.17,0.0,38,0,0.0,0.0,0.0,0.0,0.0
+9332,61096,muebles,mueble auxiliar,2017-12-29,50,0.21,0.11,378,11,1.16,1.0,2.0,149.7,149.7
+9333,61096,muebles,mueble auxiliar,2017-12-06,50,0.17,0.15,99,7,1.03,0.0,0.0,0.0,0.0
+9334,61096,muebles,mueble auxiliar,2017-10-15,50,0.17,0.08,31,3,0.24,0.0,0.0,0.0,0.0
+9335,61096,muebles,mueble auxiliar,2017-10-17,50,0.17,0.02,28,1,0.02,0.0,0.0,0.0,0.0
+9336,61096,muebles,mueble auxiliar,2017-11-30,50,0.21,0.21,200,1,0.21,0.0,0.0,0.0,0.0
+9337,61096,organización y almacenamiento,percheros,2018-01-24,40,0.17,0.15,201,6,0.92,0.0,0.0,0.0,0.0
+9338,61096,muebles,mueble auxiliar,2017-11-17,50,0.17,0.18,43,2,0.35,0.0,0.0,0.0,0.0
+9339,61096,muebles,mueble auxiliar,2017-11-01,50,0.17,0.22,37,1,0.22,0.0,0.0,0.0,0.0
+9340,61096,muebles,mueble auxiliar,2017-10-22,50,0.21,0.14,175,7,0.97,0.0,0.0,0.0,0.0
+9341,61096,muebles,mueble auxiliar,2017-10-13,50,0.17,0.17,26,4,0.69,0.0,0.0,0.0,0.0
+9342,61096,muebles,mueble auxiliar,2017-10-28,50,0.17,0.0,17,0,0.0,0.0,0.0,0.0,0.0
+9343,61096,muebles,mueble auxiliar,2017-12-24,50,0.17,0.17,13,1,0.17,0.0,0.0,0.0,0.0
+9344,61096,muebles,mueble auxiliar,2017-10-11,50,0.17,0.0,4,0,0.0,0.0,0.0,0.0,0.0
+9345,61096,muebles,mueble auxiliar,2017-10-26,50,0.17,0.11,27,4,0.44,0.0,0.0,0.0,0.0
+9346,61096,muebles,mueble auxiliar,2017-12-18,50,0.21,0.1,165,3,0.29,0.0,0.0,0.0,0.0
+9347,61096,muebles,mueble auxiliar,2017-12-20,50,0.17,0.0,27,0,0.0,0.0,0.0,0.0,0.0
+9348,61096,muebles,mueble auxiliar,2017-10-14,50,0.17,0.11,27,1,0.11,0.0,0.0,0.0,0.0
+9349,61096,muebles,mueble auxiliar,2017-10-19,50,0.21,0.14,265,2,0.27,0.0,0.0,0.0,0.0
+9350,61096,muebles,mueble auxiliar,2018-01-08,40,0.21,0.12,1179,32,3.78,1.0,2.0,39.9,39.9
+9351,61096,muebles,mueble auxiliar,2018-01-15,40,0.21,0.14,1287,52,7.5,2.0,3.0,79.8,79.8
+9352,61096,muebles,mueble auxiliar,2017-10-12,50,0.17,0.09,17,2,0.18,0.0,0.0,0.0,0.0
+9353,61096,muebles,mueble auxiliar,2017-12-08,50,0.17,0.09,112,8,0.73,0.0,0.0,0.0,0.0
+9354,61096,muebles,mueble auxiliar,2018-01-11,40,0.21,0.11,1243,40,4.37,0.0,1.0,0.0,0.0
+9355,61096,organización y almacenamiento,percheros,2018-02-03,40,0.17,0.1,571,16,1.68,0.0,0.0,0.0,0.0
+9356,61096,muebles,mueble auxiliar,2017-12-28,50,0.17,0.1,63,4,0.41,1.0,1.0,51.9,51.9
+9357,61096,organización y almacenamiento,percheros,2018-01-27,40,0.17,0.09,307,12,1.05,0.0,0.0,0.0,0.0
+9358,61096,muebles,mueble auxiliar,2017-11-15,50,0.21,0.14,383,16,2.27,0.0,0.0,0.0,0.0
+9359,61096,muebles,mueble auxiliar,2017-12-06,50,0.21,0.13,443,18,2.34,0.0,0.0,0.0,0.0
+9360,61096,organización y almacenamiento,percheros,2018-02-02,40,0.17,0.1,456,21,2.19,0.0,0.0,0.0,0.0
+9361,61096,muebles,mueble auxiliar,2017-10-25,50,0.17,0.15,22,1,0.15,0.0,0.0,0.0,0.0
+9362,61096,muebles,mueble auxiliar,2017-11-26,50,0.17,0.17,25,1,0.17,0.0,0.0,0.0,0.0
+9363,61096,organización y almacenamiento,percheros,2018-01-28,40,0.17,0.1,383,15,1.56,0.0,1.0,0.0,0.0
+9364,61096,muebles,mueble auxiliar,2017-10-11,50,0.21,0.2,44,1,0.2,0.0,0.0,0.0,0.0
+9365,61096,muebles,mueble auxiliar,2017-12-19,50,0.17,0.12,26,1,0.12,0.0,0.0,0.0,0.0
+9366,61096,organización y almacenamiento,percheros,2018-01-22,40,0.15,0.05,8,1,0.05,0.0,0.0,0.0,0.0
+9367,61096,muebles,mueble auxiliar,2017-12-01,50,0.21,0.12,200,4,0.47,0.0,0.0,0.0,0.0
+9368,61096,organización y almacenamiento,percheros,2018-01-24,10,0.17,0.17,88,1,0.17,0.0,0.0,0.0,0.0
+9369,61096,muebles,mueble auxiliar,2017-11-19,50,0.17,0.0,59,0,0.0,0.0,0.0,0.0,0.0
+9370,61096,muebles,mueble auxiliar,2017-11-20,50,0.17,0.25,92,2,0.5,0.0,0.0,0.0,0.0
+9371,61096,muebles,mueble auxiliar,2017-12-10,50,0.17,0.12,116,4,0.49,0.0,0.0,0.0,0.0
+9372,61096,muebles,mueble auxiliar,2018-01-08,50,0.17,0.0,4,0,0.0,0.0,0.0,0.0,0.0
+9373,61096,muebles,mueble auxiliar,2018-01-20,40,0.21,0.13,1392,40,5.14,1.0,2.0,41.9,41.9
+9374,61096,muebles,mueble auxiliar,2017-11-15,50,0.17,0.16,87,6,0.97,1.0,2.0,51.9,51.9
+9375,61096,muebles,mueble auxiliar,2017-11-22,50,0.21,0.17,441,7,1.18,0.0,0.0,0.0,0.0
+9376,61096,muebles,mueble auxiliar,2017-12-16,50,0.17,0.22,77,1,0.22,0.0,0.0,0.0,0.0
+9377,61096,muebles,mueble auxiliar,2017-10-19,50,0.17,0.0,32,0,0.0,0.0,0.0,0.0,0.0
+9378,61096,muebles,mueble auxiliar,2018-01-02,50,0.21,0.13,438,10,1.32,0.0,0.0,0.0,0.0
+9379,61096,muebles,mueble auxiliar,2017-10-26,50,0.21,0.13,143,4,0.52,1.0,1.0,51.9,51.9
+9380,61096,muebles,mueble auxiliar,2017-10-08,50,0.17,0.22,21,1,0.22,0.0,0.0,0.0,0.0
+9381,61096,muebles,mueble auxiliar,2018-01-05,50,0.17,0.13,47,7,0.91,1.0,1.0,49.9,49.9
+9382,61096,muebles,mueble auxiliar,2017-10-07,50,0.17,0.16,11,1,0.16,0.0,0.0,0.0,0.0
+9383,61096,muebles,mueble auxiliar,2017-11-14,50,0.21,0.18,541,8,1.41,0.0,0.0,0.0,0.0
+9384,61096,muebles,mueble auxiliar,2017-10-31,50,0.17,0.0,16,0,0.0,0.0,0.0,0.0,0.0
+9385,61096,muebles,mueble auxiliar,2018-01-17,40,0.21,0.14,1516,47,6.44,0.0,0.0,0.0,0.0
+9386,61096,muebles,mueble auxiliar,2017-10-13,50,0.21,0.0,83,0,0.0,0.0,0.0,0.0,0.0
+9387,61096,muebles,mueble auxiliar,2017-12-30,50,0.17,0.23,19,3,0.68,0.0,0.0,0.0,0.0
+9388,61096,muebles,mueble auxiliar,2018-01-13,40,0.21,0.12,1256,52,6.17,1.0,2.0,39.9,39.9
+9389,61096,muebles,mueble auxiliar,2017-11-22,50,0.17,0.3,82,3,0.91,0.0,0.0,0.0,0.0
+9390,61096,muebles,mueble auxiliar,2017-10-09,50,0.17,0.0,43,0,0.0,0.0,0.0,0.0,0.0
+9391,61096,muebles,mueble auxiliar,2017-11-10,50,0.17,0.08,54,2,0.15,0.0,0.0,0.0,0.0
+9392,61096,muebles,mueble auxiliar,2017-12-05,50,0.17,0.18,77,3,0.55,0.0,0.0,0.0,0.0
+9393,61096,muebles,mueble auxiliar,2017-12-13,50,0.17,0.0,114,0,0.0,0.0,0.0,0.0,0.0
+9394,61096,muebles,mueble auxiliar,2017-11-14,50,0.17,0.1,105,3,0.29,0.0,0.0,0.0,0.0
+9395,61096,muebles,mueble auxiliar,2018-01-02,50,0.17,0.16,44,1,0.16,0.0,0.0,0.0,0.0
+9396,61096,organización y almacenamiento,percheros,2018-02-04,40,0.17,0.1,1128,30,2.9,0.0,0.0,0.0,0.0
+9397,61096,muebles,mueble auxiliar,2017-11-30,50,0.17,0.02,59,1,0.02,0.0,0.0,0.0,0.0
+9398,61096,muebles,mueble auxiliar,2018-01-19,40,0.21,0.13,976,27,3.56,0.0,0.0,0.0,0.0
+9399,61096,muebles,mueble auxiliar,2018-01-07,50,0.17,0.0,4,0,0.0,0.0,0.0,0.0,0.0
+9400,61096,muebles,mueble auxiliar,2017-11-02,50,0.21,0.15,231,6,0.92,0.0,0.0,0.0,0.0
+9401,61096,muebles,mueble auxiliar,2017-10-21,50,0.21,0.1,166,3,0.3,0.0,0.0,0.0,0.0
+9402,61096,muebles,mueble auxiliar,2017-11-11,50,0.17,0.14,51,9,1.27,0.0,0.0,0.0,0.0
+9403,61096,muebles,mueble auxiliar,2017-11-04,50,0.17,0.31,36,2,0.62,0.0,0.0,0.0,0.0
+9404,61096,muebles,mueble auxiliar,2017-11-19,50,0.21,0.13,359,6,0.78,0.0,0.0,0.0,0.0
+9405,61096,muebles,mueble auxiliar,2017-10-06,50,0.17,0.16,19,2,0.31,0.0,0.0,0.0,0.0
+9406,61096,muebles,mueble auxiliar,2017-11-06,50,0.17,0.21,70,3,0.62,0.0,0.0,0.0,0.0
+9407,61096,muebles,mueble auxiliar,2017-10-08,50,0.21,0.12,148,3,0.37,0.0,0.0,0.0,0.0
+9408,61096,muebles,mueble auxiliar,2017-11-27,40,0.21,0.13,107,5,0.63,0.0,0.0,0.0,0.0
+9409,61096,organización y almacenamiento,percheros,2018-07-19,50,0.21,0.0,40,0,0.0,0.0,0.0,0.0,0.0
+9410,61096,organización y almacenamiento,percheros,2018-08-23,50,0.15,0.2,1450,21,4.11,0.0,0.0,0.0,0.0
+9411,61096,organización y almacenamiento,percheros,2018-09-01,50,0.15,0.22,1592,21,4.62,0.0,0.0,0.0,0.0
+9412,61096,organización y almacenamiento,percheros,2018-02-10,40,0.17,0.11,411,15,1.6,0.0,0.0,0.0,0.0
+9413,61096,organización y almacenamiento,percheros,2018-05-21,50,0.2,0.11,178,3,0.34,0.0,0.0,0.0,0.0
+9414,61096,organización y almacenamiento,percheros,2018-02-05,50,0.17,0.13,640,20,2.56,1.0,1.0,37.4,37.4
+9415,61096,organización y almacenamiento,percheros,2018-09-20,50,0.15,0.24,1205,14,3.32,0.0,0.0,0.0,0.0
+9416,61096,organización y almacenamiento,percheros,2018-07-03,50,0.15,0.1,196,6,0.6,0.0,0.0,0.0,0.0
+9417,61096,organización y almacenamiento,percheros,2018-08-07,50,0.15,0.16,1022,13,2.08,0.0,0.0,0.0,0.0
+9418,61096,organización y almacenamiento,percheros,2018-07-18,50,0.15,0.13,331,8,1.02,0.0,0.0,0.0,0.0
+9419,61096,organización y almacenamiento,percheros,2018-06-25,50,0.15,0.12,323,2,0.24,0.0,0.0,0.0,0.0
+9420,61096,organización y almacenamiento,percheros,2018-02-11,40,0.17,0.1,706,20,1.92,0.0,0.0,0.0,0.0
+9421,61096,organización y almacenamiento,percheros,2018-06-11,50,0.15,0.1,416,5,0.48,0.0,0.0,0.0,0.0
+9422,61096,organización y almacenamiento,percheros,2018-09-14,50,0.15,0.23,1367,12,2.81,0.0,0.0,0.0,0.0
+9423,61096,organización y almacenamiento,percheros,2018-08-13,50,0.15,0.18,1000,12,2.13,1.0,1.0,49.9,49.9
+9424,61096,organización y almacenamiento,percheros,2018-07-29,50,0.15,0.25,310,4,1.0,0.0,0.0,0.0,0.0
+9425,61096,organización y almacenamiento,percheros,2018-07-23,50,0.15,0.1,265,4,0.39,0.0,0.0,0.0,0.0
+9426,61096,organización y almacenamiento,percheros,2018-05-19,50,0.2,0.0,124,0,0.0,0.0,0.0,0.0,0.0
+9427,61096,organización y almacenamiento,percheros,2018-05-26,50,0.2,0.12,362,7,0.84,0.0,0.0,0.0,0.0
+9428,61096,organización y almacenamiento,percheros,2018-07-23,50,0.21,0.0,18,0,0.0,0.0,0.0,0.0,0.0
+9429,61096,organización y almacenamiento,percheros,2018-02-07,40,0.17,0.1,649,10,0.96,1.0,1.0,37.4,37.4
+9430,61096,organización y almacenamiento,percheros,2018-09-26,50,0.15,0.33,1099,14,4.58,0.0,0.0,0.0,0.0
+9431,61096,organización y almacenamiento,percheros,2018-07-06,50,0.15,0.06,189,1,0.06,0.0,0.0,0.0,0.0
+9432,61096,organización y almacenamiento,percheros,2018-05-13,50,0.2,0.1,275,2,0.21,0.0,0.0,0.0,0.0
+9433,61096,organización y almacenamiento,percheros,2018-06-07,50,0.15,0.09,307,13,1.22,0.0,0.0,0.0,0.0
+9434,61096,organización y almacenamiento,percheros,2018-05-16,50,0.2,0.06,121,3,0.19,0.0,0.0,0.0,0.0
+9435,61096,organización y almacenamiento,percheros,2018-05-28,50,0.2,0.14,232,8,1.15,0.0,0.0,0.0,0.0
+9436,61096,organización y almacenamiento,percheros,2018-06-04,50,0.15,0.11,196,4,0.45,0.0,0.0,0.0,0.0
+9437,61096,organización y almacenamiento,percheros,2018-05-23,50,0.2,0.14,161,4,0.56,0.0,0.0,0.0,0.0
+9438,61096,organización y almacenamiento,percheros,2018-07-01,50,0.15,0.1,322,5,0.51,0.0,0.0,0.0,0.0
+9439,61096,organización y almacenamiento,percheros,2018-09-03,50,0.15,0.24,1759,27,6.47,1.0,1.0,49.9,49.9
+9440,61096,organización y almacenamiento,percheros,2018-07-17,50,0.15,0.14,350,8,1.08,0.0,0.0,0.0,0.0
+9441,61096,organización y almacenamiento,percheros,2018-07-02,50,0.15,0.12,260,2,0.24,0.0,0.0,0.0,0.0
+9442,61096,organización y almacenamiento,percheros,2018-06-06,50,0.15,0.08,253,5,0.42,0.0,0.0,0.0,0.0
+9443,61096,organización y almacenamiento,percheros,2018-06-17,50,0.15,0.15,331,1,0.15,0.0,0.0,0.0,0.0
+9444,61096,organización y almacenamiento,percheros,2018-02-06,50,0.17,0.21,140,1,0.21,0.0,0.0,0.0,0.0
+9445,61096,organización y almacenamiento,percheros,2018-07-20,50,0.15,0.11,317,8,0.87,0.0,0.0,0.0,0.0
+9446,61096,organización y almacenamiento,percheros,2018-07-20,50,0.21,0.0,31,0,0.0,0.0,0.0,0.0,0.0
+9447,61096,organización y almacenamiento,percheros,2018-09-11,50,0.15,0.23,1611,24,5.57,1.0,1.0,49.9,49.9
+9448,61096,organización y almacenamiento,percheros,2018-05-17,50,0.2,0.12,129,3,0.36,0.0,0.0,0.0,0.0
+9449,61096,organización y almacenamiento,percheros,2018-05-31,50,0.15,0.12,180,3,0.35,1.0,1.0,51.9,51.9
+9450,61096,organización y almacenamiento,percheros,2018-05-10,50,0.2,0.11,130,7,0.74,1.0,1.0,49.9,49.9
+9451,61096,organización y almacenamiento,percheros,2018-09-02,50,0.15,0.22,1683,22,4.84,0.0,0.0,0.0,0.0
+9452,61096,organización y almacenamiento,percheros,2018-05-09,50,0.2,0.0,101,0,0.0,0.0,0.0,0.0,0.0
+9453,61096,organización y almacenamiento,percheros,2018-06-16,50,0.15,0.13,296,4,0.51,0.0,0.0,0.0,0.0
+9454,61096,organización y almacenamiento,percheros,2018-07-12,50,0.15,0.12,251,2,0.24,0.0,0.0,0.0,0.0
+9455,61096,organización y almacenamiento,percheros,2018-07-14,50,0.15,0.11,309,5,0.53,0.0,0.0,0.0,0.0
+9456,61096,organización y almacenamiento,percheros,2018-05-27,50,0.2,0.13,409,8,1.07,0.0,0.0,0.0,0.0
+9457,61096,organización y almacenamiento,percheros,2018-08-14,50,0.15,0.16,943,9,1.44,0.0,0.0,0.0,0.0
+9458,61096,organización y almacenamiento,percheros,2018-07-15,50,0.15,0.13,386,10,1.32,0.0,0.0,0.0,0.0
+9459,61096,organización y almacenamiento,percheros,2018-06-20,50,0.15,0.11,291,3,0.34,0.0,0.0,0.0,0.0
+9460,61096,organización y almacenamiento,percheros,2018-09-25,50,0.15,0.27,1104,17,4.62,0.0,0.0,0.0,0.0
+9461,61096,organización y almacenamiento,percheros,2018-02-08,40,0.17,0.1,401,18,1.72,0.0,1.0,0.0,0.0
+9462,61096,organización y almacenamiento,percheros,2018-02-12,40,0.17,0.1,343,14,1.4,0.0,0.0,0.0,0.0
+9463,61096,organización y almacenamiento,percheros,2018-06-14,50,0.15,0.08,254,3,0.25,1.0,2.0,49.9,49.9
+9464,61096,organización y almacenamiento,percheros,2018-08-24,50,0.15,0.21,1533,17,3.54,0.0,0.0,0.0,0.0
+9465,61096,organización y almacenamiento,percheros,2018-09-06,50,0.15,0.25,1634,27,6.65,0.66,1.66,29.64,29.64
+9466,61096,organización y almacenamiento,percheros,2018-06-23,50,0.15,0.12,221,1,0.12,0.0,0.0,0.0,0.0
+9467,61096,organización y almacenamiento,percheros,2018-08-05,50,0.15,0.0,269,0,0.0,0.0,0.0,0.0,0.0
+9468,61096,organización y almacenamiento,percheros,2018-07-25,50,0.15,0.3,531,4,1.2,0.0,0.0,0.0,0.0
+9469,61096,organización y almacenamiento,percheros,2018-07-09,50,0.15,0.1,247,4,0.42,0.0,0.0,0.0,0.0
+9470,61096,organización y almacenamiento,percheros,2018-06-10,50,0.15,0.09,498,14,1.29,0.0,0.0,0.0,0.0
+9471,61096,organización y almacenamiento,percheros,2018-08-15,50,0.15,0.21,885,10,2.1,0.0,0.0,0.0,0.0
+9472,61096,organización y almacenamiento,percheros,2018-08-16,50,0.15,0.2,971,14,2.77,0.0,0.0,0.0,0.0
+9473,61096,organización y almacenamiento,percheros,2018-08-29,50,0.15,0.22,2029,36,8.09,0.5,1.5,24.95,24.95
+9474,61096,organización y almacenamiento,percheros,2018-05-30,50,0.15,0.13,181,5,0.67,0.0,0.0,0.0,0.0
+9475,61096,organización y almacenamiento,percheros,2018-09-23,50,0.15,0.23,1373,16,3.62,0.0,0.0,0.0,0.0
+9476,61096,organización y almacenamiento,percheros,2018-07-30,50,0.15,0.16,382,6,0.97,1.0,2.0,49.9,49.9
+9477,61096,organización y almacenamiento,percheros,2018-05-24,50,0.2,0.13,161,4,0.53,0.0,0.0,0.0,0.0
+9478,61096,organización y almacenamiento,percheros,2018-09-08,50,0.15,0.24,1531,20,4.71,0.33,1.33,14.82,14.82
+9479,61096,organización y almacenamiento,percheros,2018-08-30,50,0.15,0.22,1783,23,5.04,0.0,0.0,0.0,0.0
+9480,61096,organización y almacenamiento,percheros,2018-06-03,50,0.15,0.14,272,5,0.7,0.0,1.0,0.0,0.0
+9481,61096,organización y almacenamiento,percheros,2018-09-24,50,0.15,0.25,1236,18,4.5,0.0,0.0,0.0,0.0
+9482,61096,organización y almacenamiento,percheros,2018-07-07,50,0.15,0.1,222,3,0.29,0.0,0.0,0.0,0.0
+9483,61096,organización y almacenamiento,percheros,2018-06-24,50,0.15,0.0,307,0,0.0,0.0,0.0,0.0,0.0
+9484,61096,organización y almacenamiento,percheros,2018-05-18,50,0.2,0.07,176,3,0.2,0.0,0.0,0.0,0.0
+9485,61096,organización y almacenamiento,percheros,2018-07-31,50,0.15,0.18,319,2,0.35,0.0,0.0,0.0,0.0
+9486,61096,organización y almacenamiento,percheros,2018-09-19,50,0.15,0.23,1197,16,3.75,0.0,0.0,0.0,0.0
+9487,61096,organización y almacenamiento,percheros,2018-07-21,50,0.21,0.0,13,0,0.0,0.0,0.0,0.0,0.0
+9488,61096,organización y almacenamiento,percheros,2018-07-27,50,0.15,0.12,351,6,0.69,0.0,0.0,0.0,0.0
+9489,61096,organización y almacenamiento,percheros,2018-08-11,50,0.15,0.17,997,22,3.83,0.0,0.0,0.0,0.0
+9490,61096,organización y almacenamiento,percheros,2018-08-01,50,0.15,0.16,295,5,0.79,0.0,0.0,0.0,0.0
+9491,61096,organización y almacenamiento,percheros,2018-06-18,50,0.15,0.1,285,11,1.13,0.0,0.0,0.0,0.0
+9492,61096,organización y almacenamiento,percheros,2018-06-26,50,0.15,0.15,307,1,0.15,0.0,0.0,0.0,0.0
+9493,61096,organización y almacenamiento,percheros,2018-05-25,50,0.2,0.14,321,4,0.58,0.0,0.0,0.0,0.0
+9494,61096,organización y almacenamiento,percheros,2018-09-30,50,0.15,0.28,1367,14,3.88,0.0,1.0,0.0,0.0
+9495,61096,organización y almacenamiento,percheros,2018-05-22,50,0.2,0.12,257,9,1.1,0.0,0.0,0.0,0.0
+9496,61096,organización y almacenamiento,percheros,2018-07-21,50,0.15,0.07,281,4,0.28,0.0,0.0,0.0,0.0
+9497,61096,organización y almacenamiento,percheros,2018-09-26,50,0.2,0.0,1,0,0.0,0.0,0.0,0.0,0.0
+9498,61096,organización y almacenamiento,percheros,2018-07-26,50,0.15,0.22,444,5,1.1,0.0,0.0,0.0,0.0
+9499,61096,organización y almacenamiento,percheros,2018-05-15,50,0.2,0.14,113,3,0.43,0.0,0.0,0.0,0.0
+9500,61096,organización y almacenamiento,percheros,2018-05-07,50,0.2,0.13,197,5,0.67,0.0,0.0,0.0,0.0
+9501,61096,organización y almacenamiento,percheros,2018-07-22,50,0.15,0.09,268,11,1.01,0.0,0.0,0.0,0.0
+9502,61096,organización y almacenamiento,percheros,2018-09-28,50,0.15,0.23,1113,15,3.41,0.0,0.0,0.0,0.0
+9503,61096,organización y almacenamiento,percheros,2018-08-18,50,0.15,0.17,844,12,2.08,0.0,0.0,0.0,0.0
+9504,61096,organización y almacenamiento,percheros,2018-05-06,50,0.2,0.0,30,0,0.0,0.0,0.0,0.0,0.0
+9505,61096,organización y almacenamiento,percheros,2018-05-20,50,0.2,0.1,166,5,0.49,0.0,0.0,0.0,0.0
+9506,61096,organización y almacenamiento,percheros,2018-05-11,50,0.2,0.0,79,0,0.0,0.0,0.0,0.0,0.0
+9507,61096,organización y almacenamiento,percheros,2018-08-04,50,0.15,0.18,274,5,0.91,0.0,0.0,0.0,0.0
+9508,61096,organización y almacenamiento,percheros,2018-08-26,50,0.15,0.22,1746,29,6.29,0.0,0.0,0.0,0.0
+9509,61096,organización y almacenamiento,percheros,2018-08-12,50,0.15,0.14,950,15,2.14,0.0,0.0,0.0,0.0
+9510,61096,organización y almacenamiento,percheros,2018-06-30,50,0.15,0.09,233,2,0.18,0.0,0.0,0.0,0.0
+9511,61096,organización y almacenamiento,percheros,2018-05-12,50,0.2,0.13,155,1,0.13,0.0,0.0,0.0,0.0
+9512,61096,organización y almacenamiento,percheros,2018-05-05,50,0.2,0.0,1,0,0.0,0.0,0.0,0.0,0.0
+9513,61096,organización y almacenamiento,percheros,2018-07-11,50,0.15,0.14,264,2,0.28,0.0,0.0,0.0,0.0
+9514,61096,organización y almacenamiento,percheros,2018-08-08,50,0.15,0.15,1054,10,1.52,0.0,0.0,0.0,0.0
+9515,61096,organización y almacenamiento,percheros,2018-05-28,50,0.15,0.0,64,0,0.0,0.0,0.0,0.0,0.0
+9516,61096,organización y almacenamiento,percheros,2018-09-10,50,0.15,0.22,1834,22,4.87,0.0,0.0,0.0,0.0
+9517,61096,organización y almacenamiento,percheros,2018-09-04,50,0.15,0.21,1730,34,7.09,1.0,1.0,49.9,49.9
+9518,61096,organización y almacenamiento,percheros,2018-08-19,50,0.15,0.22,1284,16,3.47,0.0,0.0,0.0,0.0
+9519,61096,organización y almacenamiento,percheros,2018-08-02,50,0.15,0.13,340,3,0.4,0.5,0.5,24.95,24.95
+9520,61096,organización y almacenamiento,percheros,2018-06-29,50,0.15,0.11,242,3,0.34,0.0,0.0,0.0,0.0
+9521,61096,organización y almacenamiento,percheros,2018-09-12,50,0.15,0.24,1582,24,5.74,0.0,0.0,0.0,0.0
+9522,61096,organización y almacenamiento,percheros,2018-06-12,50,0.15,0.11,350,6,0.64,0.0,0.0,0.0,0.0
+9523,61096,organización y almacenamiento,percheros,2018-07-10,50,0.15,0.0,253,0,0.0,0.0,0.0,0.0,0.0
+9524,61096,organización y almacenamiento,percheros,2018-07-04,50,0.15,0.12,340,6,0.74,0.0,3.0,0.0,0.0
+9525,61096,organización y almacenamiento,percheros,2018-07-28,50,0.15,0.13,335,2,0.26,0.0,0.0,0.0,0.0
+9526,61096,organización y almacenamiento,percheros,2018-09-13,50,0.15,0.26,1449,21,5.51,0.0,0.0,0.0,0.0
+9527,61096,organización y almacenamiento,percheros,2018-02-06,40,0.17,0.11,459,11,1.25,0.0,0.0,0.0,0.0
+9528,61096,organización y almacenamiento,percheros,2018-06-28,50,0.15,0.0,225,0,0.0,0.0,0.0,0.0,0.0
+9529,61096,organización y almacenamiento,percheros,2018-07-08,50,0.15,0.08,217,6,0.49,0.0,0.0,0.0,0.0
+9530,61096,organización y almacenamiento,percheros,2018-06-09,50,0.15,0.09,365,8,0.7,0.0,0.0,0.0,0.0
+9531,61096,organización y almacenamiento,percheros,2018-06-21,50,0.15,0.12,243,6,0.74,0.0,0.0,0.0,0.0
+9532,61096,organización y almacenamiento,percheros,2018-06-13,50,0.15,0.09,318,8,0.72,0.0,0.0,0.0,0.0
+9533,61096,organización y almacenamiento,percheros,2018-08-03,50,0.15,0.17,296,4,0.67,0.0,0.0,0.0,0.0
+9534,61096,organización y almacenamiento,percheros,2018-07-22,50,0.21,0.0,16,0,0.0,0.0,0.0,0.0,0.0
+9535,61096,organización y almacenamiento,percheros,2018-08-25,50,0.15,0.2,1459,25,5.01,2.0,3.0,101.8,101.8
+9536,61096,organización y almacenamiento,percheros,2018-07-24,50,0.15,0.2,475,11,2.17,0.0,0.0,0.0,0.0
+9537,61096,organización y almacenamiento,percheros,2018-07-05,50,0.15,0.14,249,6,0.84,0.0,0.0,0.0,0.0
+9538,61096,organización y almacenamiento,percheros,2018-08-21,50,0.15,0.22,1557,30,6.62,1.4,1.4,71.86,71.86
+9539,61096,organización y almacenamiento,percheros,2018-06-05,50,0.15,0.14,194,5,0.72,0.0,0.0,0.0,0.0
+9540,61096,organización y almacenamiento,percheros,2018-05-14,50,0.2,0.1,148,6,0.63,0.0,0.0,0.0,0.0
+9541,61096,organización y almacenamiento,percheros,2018-09-22,50,0.15,0.23,1341,12,2.73,0.0,0.0,0.0,0.0
+9542,61096,organización y almacenamiento,percheros,2018-08-28,50,0.15,0.24,1867,25,5.91,0.0,0.0,0.0,0.0
+9543,61096,organización y almacenamiento,percheros,2018-05-08,50,0.2,0.15,193,1,0.15,0.0,0.0,0.0,0.0
+9544,61096,organización y almacenamiento,percheros,2018-09-27,50,0.15,0.28,1087,13,3.59,0.0,0.0,0.0,0.0
+9545,61096,organización y almacenamiento,percheros,2018-08-09,50,0.15,0.17,1072,12,2.01,0.0,0.0,0.0,0.0
+9546,61096,organización y almacenamiento,percheros,2018-06-19,50,0.15,0.12,294,4,0.49,0.0,0.0,0.0,0.0
+9547,61096,organización y almacenamiento,percheros,2018-05-29,50,0.15,0.12,160,3,0.37,0.0,0.0,0.0,0.0
+9548,61096,organización y almacenamiento,percheros,2018-02-09,40,0.17,0.1,549,10,1.01,0.0,0.0,0.0,0.0
+9549,61096,organización y almacenamiento,percheros,2018-07-13,50,0.15,0.1,313,6,0.6,0.1,0.1,4.99,4.99
+9550,61096,organización y almacenamiento,percheros,2018-02-14,40,0.17,0.14,42,2,0.27,0.0,0.0,0.0,0.0
+9551,61096,organización y almacenamiento,percheros,2018-09-21,50,0.15,0.22,995,16,3.52,0.0,0.0,0.0,0.0
+9552,61096,organización y almacenamiento,percheros,2018-06-08,50,0.15,0.0,44,0,0.0,0.0,0.0,0.0,0.0
+9553,61096,organización y almacenamiento,percheros,2018-08-20,50,0.15,0.22,1320,24,5.27,0.6,1.6,29.94,29.94
+9554,61096,organización y almacenamiento,percheros,2018-09-15,50,0.15,0.26,1528,19,4.86,0.0,0.0,0.0,0.0
+9555,61096,organización y almacenamiento,percheros,2018-09-07,50,0.15,0.21,1546,7,1.45,0.0,0.0,0.0,0.0
+9556,61096,organización y almacenamiento,percheros,2018-09-18,50,0.15,0.26,1464,12,3.07,0.0,0.0,0.0,0.0
+9557,61096,organización y almacenamiento,percheros,2018-02-13,40,0.17,0.11,347,17,1.89,1.0,1.0,37.4,37.4
+9558,61096,organización y almacenamiento,percheros,2018-06-27,50,0.15,0.1,313,2,0.21,0.0,0.0,0.0,0.0
+9559,61096,organización y almacenamiento,percheros,2018-09-17,50,0.15,0.27,1462,11,2.99,0.0,0.0,0.0,0.0
+9560,61096,organización y almacenamiento,percheros,2018-07-18,50,0.21,0.18,42,3,0.54,0.0,0.0,0.0,0.0
+9561,61096,organización y almacenamiento,percheros,2018-06-02,50,0.15,0.14,251,2,0.29,0.0,0.0,0.0,0.0
+9562,61096,organización y almacenamiento,percheros,2018-08-27,50,0.15,0.23,2150,27,6.25,0.0,0.0,0.0,0.0
+9563,61096,organización y almacenamiento,percheros,2018-06-15,50,0.15,0.08,227,3,0.23,0.0,0.0,0.0,0.0
+9564,61096,organización y almacenamiento,percheros,2018-08-31,50,0.15,0.21,1744,23,4.85,0.0,0.0,0.0,0.0
+9565,61096,organización y almacenamiento,percheros,2018-09-09,50,0.15,0.22,1921,38,8.42,0.0,0.0,0.0,0.0
+9566,61096,organización y almacenamiento,percheros,2018-09-16,50,0.15,0.26,1819,22,5.67,0.0,0.0,0.0,0.0
+9567,61096,organización y almacenamiento,percheros,2018-08-22,50,0.15,0.21,1422,33,6.79,0.48,0.48,25.05,25.05
+9568,61096,organización y almacenamiento,percheros,2018-07-24,50,0.21,0.0,18,0,0.0,0.0,0.0,0.0,0.0
+9569,61096,organización y almacenamiento,percheros,2018-06-22,50,0.15,0.15,262,2,0.3,0.0,0.0,0.0,0.0
+9570,61096,organización y almacenamiento,percheros,2018-08-17,50,0.15,0.18,994,5,0.92,0.0,0.0,0.0,0.0
+9571,61096,organización y almacenamiento,percheros,2018-07-16,50,0.15,0.07,404,7,0.46,0.2,1.2,9.98,9.98
+9572,61096,organización y almacenamiento,percheros,2018-08-10,50,0.15,0.15,951,17,2.57,0.0,0.0,0.0,0.0
+9573,61096,organización y almacenamiento,percheros,2018-09-05,50,0.15,0.2,1921,31,6.09,0.0,0.0,0.0,0.0
+9574,61096,organización y almacenamiento,percheros,2018-08-06,50,0.15,0.12,640,5,0.58,0.0,0.0,0.0,0.0
+9575,61096,organización y almacenamiento,percheros,2018-02-05,40,0.17,0.0,35,0,0.0,0.0,0.0,0.0,0.0
+9576,61096,organización y almacenamiento,percheros,2018-09-29,50,0.15,0.2,1260,14,2.76,0.0,0.0,0.0,0.0
+9577,61096,organización y almacenamiento,percheros,2018-07-19,50,0.15,0.13,355,6,0.78,0.0,0.0,0.0,0.0
+9578,61096,organización y almacenamiento,percheros,2018-06-01,50,0.15,0.1,118,2,0.21,0.17,0.17,8.32,8.32
+9579,61096,organización y almacenamiento,percheros,2018-10-18,50,0.15,0.26,1813,24,6.15,0.0,2.0,0.0,0.0
+9580,61096,organización y almacenamiento,percheros,2018-11-10,50,0.15,0.1,348,2,0.19,0.0,0.0,0.0,0.0
+9581,61096,organización y almacenamiento,percheros,2018-10-31,50,0.15,0.29,362,3,0.86,0.0,0.0,0.0,0.0
+9582,61096,organización y almacenamiento,percheros,2019-02-07,50,0.3,0.2,770,20,4.1,0.0,0.0,0.0,0.0
+9583,61096,organización y almacenamiento,percheros,2018-11-25,50,0.15,0.43,2185,31,13.26,1.0,3.0,44.9,139.7
+9584,61096,organización y almacenamiento,percheros,2019-03-16,50,0.3,0.31,1008,16,4.91,0.0,0.0,0.0,0.0
+9585,61096,organización y almacenamiento,percheros,2019-03-09,50,0.3,0.24,615,3,0.72,0.0,0.0,0.0,0.0
+9586,61096,organización y almacenamiento,percheros,2018-11-02,50,0.15,0.22,381,6,1.31,0.0,0.0,0.0,0.0
+9587,61096,organización y almacenamiento,percheros,2018-11-12,50,0.15,0.19,443,3,0.57,0.0,0.0,0.0,0.0
+9588,61096,organización y almacenamiento,percheros,2018-11-09,50,0.15,0.14,474,6,0.86,0.0,0.0,0.0,0.0
+9589,61096,organización y almacenamiento,percheros,2019-02-24,50,0.3,0.26,473,3,0.77,0.0,0.0,0.0,0.0
+9590,61096,organización y almacenamiento,percheros,2018-12-24,50,0.15,0.38,924,12,4.55,0.0,0.0,0.0,0.0
+9591,61096,organización y almacenamiento,percheros,2019-03-25,50,0.3,0.2,557,6,1.17,0.5,1.01,72.6,146.97
+9592,61096,organización y almacenamiento,percheros,2019-01-22,50,0.3,0.28,473,5,1.41,0.0,0.0,0.0,0.0
+9593,61096,organización y almacenamiento,percheros,2019-03-01,50,0.3,0.22,298,6,1.32,0.0,0.0,0.0,0.0
+9594,61096,organización y almacenamiento,percheros,2018-10-29,50,0.15,0.24,474,3,0.72,0.0,0.0,0.0,0.0
+9595,61096,organización y almacenamiento,percheros,2019-03-14,50,0.3,0.18,193,4,0.73,0.0,0.0,0.0,0.0
+9596,61096,organización y almacenamiento,percheros,2019-01-18,50,0.3,0.4,295,3,1.21,0.0,1.0,0.0,44.9
+9597,61096,organización y almacenamiento,percheros,2018-11-21,50,0.15,0.38,1759,27,10.27,1.0,2.0,44.9,89.8
+9598,61096,organización y almacenamiento,percheros,2018-10-20,50,0.15,0.21,1080,15,3.1,0.0,0.0,0.0,0.0
+9599,61096,organización y almacenamiento,percheros,2019-01-25,50,0.3,0.22,450,6,1.33,0.0,0.0,0.0,0.0
+9600,61096,organización y almacenamiento,percheros,2018-10-24,50,0.15,0.18,819,7,1.26,0.0,0.0,0.0,0.0
+9601,61096,organización y almacenamiento,percheros,2018-10-30,50,0.15,0.3,306,7,2.09,0.0,0.0,0.0,0.0
+9602,61096,organización y almacenamiento,percheros,2019-01-13,50,0.3,0.32,582,3,0.97,0.0,0.0,0.0,0.0
+9603,61096,organización y almacenamiento,percheros,2018-12-01,50,0.15,0.26,484,6,1.53,0.0,0.0,0.0,0.0
+9604,61096,organización y almacenamiento,percheros,2019-03-20,50,0.3,0.25,631,3,0.74,0.0,0.0,0.0,0.0
+9605,61096,organización y almacenamiento,percheros,2018-12-19,50,0.15,0.4,520,7,2.79,0.0,0.0,0.0,0.0
+9606,61096,organización y almacenamiento,percheros,2018-11-03,50,0.15,0.21,690,8,1.67,0.0,0.0,0.0,0.0
+9607,61096,organización y almacenamiento,percheros,2018-10-27,50,0.15,0.14,539,6,0.82,0.0,0.0,0.0,0.0
+9608,61096,organización y almacenamiento,percheros,2019-01-02,50,0.15,0.1,265,2,0.19,0.0,0.1,0.0,4.99
+9609,61096,organización y almacenamiento,percheros,2018-12-11,50,0.15,0.94,162,2,1.88,0.0,0.0,0.0,0.0
+9610,61096,organización y almacenamiento,percheros,2018-10-11,50,0.15,0.22,1726,20,4.3,0.0,0.0,0.0,0.0
+9611,61096,organización y almacenamiento,percheros,2018-10-08,50,0.15,0.22,2157,38,8.27,0.0,1.0,0.0,0.0
+9612,61096,organización y almacenamiento,percheros,2019-02-18,50,0.3,0.28,443,3,0.83,0.0,0.0,0.0,0.0
+9613,61096,organización y almacenamiento,percheros,2019-03-21,50,0.3,0.28,606,7,1.94,0.0,0.0,0.0,0.0
+9614,61096,organización y almacenamiento,percheros,2019-02-19,50,0.3,0.54,402,3,1.62,0.0,0.0,0.0,0.0
+9615,61096,organización y almacenamiento,percheros,2019-03-29,50,0.3,0.15,254,1,0.15,0.0,0.0,0.0,0.0
+9616,61096,organización y almacenamiento,percheros,2018-12-08,50,0.15,0.35,302,9,3.12,0.0,0.0,0.0,0.0
+9617,61096,organización y almacenamiento,percheros,2018-12-02,50,0.15,0.2,386,4,0.79,0.0,0.0,0.0,0.0
+9618,61096,organización y almacenamiento,percheros,2019-02-16,50,0.3,0.2,280,4,0.81,0.0,0.0,0.0,0.0
+9619,61096,organización y almacenamiento,percheros,2019-02-26,50,0.3,0.2,552,4,0.82,0.0,0.0,0.0,0.0
+9620,61096,organización y almacenamiento,percheros,2019-01-29,50,0.3,0.18,497,9,1.59,0.0,0.0,0.0,0.0
+9621,61096,organización y almacenamiento,percheros,2018-10-02,50,0.15,0.26,1306,22,5.7,1.0,2.0,51.9,51.9
+9622,61096,organización y almacenamiento,percheros,2018-10-21,50,0.15,0.22,1004,18,3.88,0.0,1.0,0.0,0.0
+9623,61096,organización y almacenamiento,percheros,2019-01-14,50,0.3,0.3,382,7,2.07,0.0,0.0,0.0,0.0
+9624,61096,organización y almacenamiento,percheros,2019-01-16,50,0.3,0.17,519,8,1.37,0.0,0.0,0.0,0.0
+9625,61096,organización y almacenamiento,percheros,2018-11-27,50,0.15,0.0,10,0,0.0,0.0,0.0,0.0,0.0
+9626,61096,organización y almacenamiento,percheros,2018-12-16,50,0.15,0.21,437,3,0.64,0.0,0.0,0.0,0.0
+9627,61096,organización y almacenamiento,percheros,2018-11-26,50,0.15,0.42,2824,34,14.14,0.33,0.78,16.63,39.09
+9628,61096,organización y almacenamiento,percheros,2019-02-20,50,0.3,0.29,773,9,2.57,0.0,0.0,0.0,0.0
+9629,61096,organización y almacenamiento,percheros,2018-11-18,50,0.15,0.38,810,12,4.5,0.0,0.0,0.0,0.0
+9630,61096,organización y almacenamiento,percheros,2018-10-10,50,0.15,0.26,1770,24,6.3,1.0,3.0,49.9,49.9
+9631,61096,organización y almacenamiento,percheros,2018-11-14,50,0.15,0.23,1254,18,4.13,0.0,0.0,0.0,0.0
+9632,61096,organización y almacenamiento,percheros,2019-02-15,50,0.3,0.3,463,12,3.61,2.0,4.0,84.8,169.6
+9633,61096,organización y almacenamiento,percheros,2018-10-05,50,0.15,0.23,1265,11,2.53,1.0,2.0,89.82,89.82
+9634,61096,organización y almacenamiento,percheros,2019-03-18,50,0.3,0.26,711,10,2.61,0.0,0.0,0.0,0.0
+9635,61096,organización y almacenamiento,percheros,2018-12-17,50,0.15,0.4,547,4,1.61,0.0,0.0,0.0,0.0
+9636,61096,organización y almacenamiento,percheros,2019-02-21,50,0.3,0.25,555,4,0.99,0.0,0.0,0.0,0.0
+9637,61096,organización y almacenamiento,percheros,2019-03-08,50,0.3,0.22,713,10,2.17,0.0,0.0,0.0,0.0
+9638,61096,organización y almacenamiento,percheros,2018-11-06,50,0.15,0.16,924,7,1.1,0.0,0.0,0.0,0.0
+9639,61096,organización y almacenamiento,percheros,2019-03-30,50,0.3,0.12,159,1,0.12,0.0,0.0,0.0,0.0
+9640,61096,organización y almacenamiento,percheros,2018-10-14,50,0.15,0.26,2394,21,5.56,0.0,0.0,0.0,0.0
+9641,61096,organización y almacenamiento,percheros,2019-02-28,50,0.3,0.2,425,5,1.0,0.0,0.0,0.0,0.0
+9642,61096,organización y almacenamiento,percheros,2018-12-25,50,0.15,0.44,843,16,7.11,0.0,0.0,0.0,0.0
+9643,61096,organización y almacenamiento,percheros,2019-03-17,50,0.3,0.29,982,11,3.19,0.0,0.0,0.0,0.0
+9644,61096,organización y almacenamiento,percheros,2019-01-19,50,0.3,0.35,442,5,1.74,0.0,0.0,0.0,0.0
+9645,61096,organización y almacenamiento,percheros,2018-12-18,50,0.15,0.61,454,5,3.07,0.0,0.0,0.0,0.0
+9646,61096,organización y almacenamiento,percheros,2018-12-10,50,0.15,0.47,370,5,2.34,0.0,0.0,0.0,0.0
+9647,61096,organización y almacenamiento,percheros,2019-03-26,50,0.3,0.28,431,10,2.83,0.0,0.0,0.0,0.0
+9648,61096,organización y almacenamiento,percheros,2019-02-08,50,0.3,0.29,712,14,4.04,0.14,0.31,25.58,55.43
+9649,61096,organización y almacenamiento,percheros,2018-12-26,50,0.15,0.29,758,14,4.0,0.0,0.0,0.0,0.0
+9650,61096,organización y almacenamiento,percheros,2018-11-16,50,0.15,0.34,1324,25,8.4,0.0,0.0,0.0,0.0
+9651,61096,organización y almacenamiento,percheros,2018-11-17,50,0.15,0.41,1271,14,5.74,1.0,2.0,49.9,99.8
+9652,61096,organización y almacenamiento,percheros,2019-03-24,50,0.3,0.24,535,6,1.45,0.0,0.0,0.0,0.0
+9653,61096,organización y almacenamiento,percheros,2019-01-12,50,0.3,0.25,704,9,2.27,0.0,0.0,0.0,0.0
+9654,61096,organización y almacenamiento,percheros,2018-11-15,50,0.15,0.31,1499,13,4.08,0.0,0.0,0.0,0.0
+9655,61096,organización y almacenamiento,percheros,2018-12-20,50,0.15,0.3,796,15,4.51,0.0,0.5,0.0,24.95
+9656,61096,organización y almacenamiento,percheros,2018-10-06,50,0.15,0.22,1381,28,6.27,0.0,0.0,0.0,0.0
+9657,61096,organización y almacenamiento,percheros,2019-02-09,50,0.3,0.29,369,6,1.76,0.0,0.0,0.0,0.0
+9658,61096,organización y almacenamiento,percheros,2019-03-02,50,0.3,0.16,478,5,0.8,0.0,0.0,0.0,0.0
+9659,61096,organización y almacenamiento,percheros,2019-01-10,50,0.3,0.15,131,4,0.6,1.0,2.0,44.9,89.8
+9660,61096,organización y almacenamiento,percheros,2019-03-07,50,0.3,0.23,398,8,1.82,0.0,0.0,0.0,0.0
+9661,61096,organización y almacenamiento,percheros,2019-01-08,50,0.15,0.23,590,10,2.34,0.0,0.0,0.0,0.0
+9662,61096,organización y almacenamiento,percheros,2019-01-21,50,0.3,0.21,416,7,1.46,0.0,0.0,0.0,0.0
+9663,61096,organización y almacenamiento,percheros,2019-01-03,50,0.15,0.47,259,3,1.42,0.0,0.0,0.0,0.0
+9664,61096,organización y almacenamiento,percheros,2018-10-04,50,0.15,0.33,1554,13,4.32,1.0,1.0,46.91,46.91
+9665,61096,organización y almacenamiento,percheros,2019-02-05,50,0.3,0.18,685,9,1.62,0.0,0.0,0.0,0.0
+9666,61096,organización y almacenamiento,percheros,2019-02-02,50,0.3,0.18,455,8,1.48,0.0,0.0,0.0,0.0
+9667,61096,organización y almacenamiento,percheros,2018-10-03,50,0.15,0.23,1381,22,4.97,0.0,0.0,0.0,0.0
+9668,61096,organización y almacenamiento,percheros,2018-12-28,50,0.15,0.32,562,5,1.61,0.0,0.0,0.0,0.0
+9669,61096,organización y almacenamiento,percheros,2019-02-17,50,0.3,0.17,343,3,0.52,0.0,0.0,0.0,0.0
+9670,61096,organización y almacenamiento,percheros,2019-01-28,50,0.3,0.26,302,4,1.05,0.0,0.0,0.0,0.0
+9671,61096,organización y almacenamiento,percheros,2019-02-13,50,0.3,0.29,399,11,3.22,1.0,2.0,42.4,84.8
+9672,61096,organización y almacenamiento,percheros,2019-03-03,50,0.3,0.32,243,1,0.32,0.0,0.0,0.0,0.0
+9673,61096,organización y almacenamiento,percheros,2019-03-28,50,0.3,0.2,349,4,0.81,0.0,0.0,0.0,0.0
+9674,61096,organización y almacenamiento,percheros,2019-02-27,50,0.3,0.19,388,4,0.77,0.0,0.0,0.0,0.0
+9675,61096,organización y almacenamiento,percheros,2018-12-21,50,0.15,0.45,665,5,2.23,0.0,0.0,0.0,0.0
+9676,61096,organización y almacenamiento,percheros,2019-01-04,50,0.15,0.52,303,4,2.1,0.0,0.0,0.0,0.0
+9677,61096,organización y almacenamiento,percheros,2019-01-11,50,0.3,0.23,694,9,2.07,0.0,0.0,0.0,0.0
+9678,61096,organización y almacenamiento,percheros,2018-10-16,50,0.15,0.23,1395,27,6.32,0.0,0.0,0.0,0.0
+9679,61096,organización y almacenamiento,percheros,2019-03-04,50,0.3,0.29,262,1,0.29,0.0,0.0,0.0,0.0
+9680,61096,organización y almacenamiento,percheros,2018-10-28,50,0.15,0.25,392,4,0.99,0.0,0.0,0.0,0.0
+9681,61096,organización y almacenamiento,percheros,2018-12-22,50,0.15,0.31,863,15,4.64,0.0,0.0,0.0,0.0
+9682,61096,organización y almacenamiento,percheros,2019-01-10,50,0.15,0.39,303,6,2.34,0.0,0.0,0.0,0.0
+9683,61096,organización y almacenamiento,percheros,2018-11-07,50,0.15,0.28,979,10,2.75,0.5,1.0,24.95,49.9
+9684,61096,organización y almacenamiento,percheros,2019-01-30,50,0.3,0.19,581,8,1.55,0.18,0.32,7.93,14.15
+9685,61096,organización y almacenamiento,percheros,2018-11-19,50,0.15,0.32,1280,23,7.27,0.0,0.0,0.0,0.0
+9686,61096,organización y almacenamiento,percheros,2018-10-25,50,0.15,0.18,601,11,1.98,0.0,0.0,0.0,0.0
+9687,61096,organización y almacenamiento,percheros,2018-12-14,50,0.15,0.29,371,5,1.45,0.0,0.0,0.0,0.0
+9688,61096,organización y almacenamiento,percheros,2019-03-19,50,0.3,0.26,636,11,2.86,0.0,0.0,0.0,0.0
+9689,61096,organización y almacenamiento,percheros,2019-03-06,50,0.3,0.25,733,10,2.49,0.0,0.0,0.0,0.0
+9690,61096,organización y almacenamiento,percheros,2018-12-27,50,0.15,0.44,908,4,1.76,0.0,0.0,0.0,0.0
+9691,61096,organización y almacenamiento,percheros,2019-01-09,50,0.15,0.27,571,11,2.96,0.0,0.0,0.0,0.0
+9692,61096,organización y almacenamiento,percheros,2019-01-01,50,0.15,0.69,235,4,2.75,0.0,0.0,0.0,0.0
+9693,61096,organización y almacenamiento,percheros,2018-10-09,50,0.15,0.25,2138,26,6.46,0.0,1.0,0.0,0.0
+9694,61096,organización y almacenamiento,percheros,2018-10-15,50,0.15,0.25,1443,15,3.7,0.0,0.0,0.0,0.0
+9695,61096,organización y almacenamiento,percheros,2019-01-23,50,0.3,0.24,539,8,1.88,0.0,0.0,0.0,0.0
+9696,61096,organización y almacenamiento,percheros,2019-01-20,50,0.3,0.24,467,11,2.63,0.0,0.0,0.0,0.0
+9697,61096,organización y almacenamiento,percheros,2019-02-14,50,0.3,0.36,833,3,1.07,0.0,0.0,0.0,0.0
+9698,61096,organización y almacenamiento,percheros,2019-03-12,50,0.3,0.36,586,6,2.13,0.98,1.9,49.11,94.84
+9699,61096,organización y almacenamiento,percheros,2018-11-01,50,0.15,0.3,447,6,1.83,0.0,1.0,0.0,0.0
+9700,61096,organización y almacenamiento,percheros,2019-02-10,50,0.3,0.3,369,6,1.78,0.0,0.0,0.0,0.0
+9701,61096,organización y almacenamiento,percheros,2019-03-27,50,0.3,0.31,489,6,1.85,0.0,0.0,0.0,0.0
+9702,61096,organización y almacenamiento,percheros,2019-02-04,50,0.3,0.21,479,8,1.71,1.0,2.0,80.8,161.6
+9703,61096,organización y almacenamiento,percheros,2019-02-11,50,0.3,0.29,349,7,2.04,0.33,0.67,14.13,28.27
+9704,61096,organización y almacenamiento,percheros,2018-10-17,50,0.15,0.3,1284,18,5.31,0.0,1.0,0.0,0.0
+9705,61096,organización y almacenamiento,percheros,2018-10-07,50,0.15,0.25,2183,33,8.34,0.14,1.14,7.13,7.13
+9706,61096,organización y almacenamiento,percheros,2019-01-15,50,0.3,0.15,518,6,0.92,0.0,0.0,0.0,0.0
+9707,61096,organización y almacenamiento,percheros,2018-11-22,50,0.15,0.39,1797,23,8.89,0.0,0.45,0.0,22.46
+9708,61096,organización y almacenamiento,percheros,2019-03-10,50,0.3,0.2,573,4,0.78,0.0,0.0,0.0,0.0
+9709,61096,organización y almacenamiento,percheros,2018-10-01,50,0.15,0.23,1294,11,2.54,0.0,0.0,0.0,0.0
+9710,61096,organización y almacenamiento,percheros,2019-02-25,50,0.3,0.26,397,3,0.78,0.0,0.0,0.0,0.0
+9711,61096,organización y almacenamiento,percheros,2019-02-01,50,0.3,0.23,565,14,3.25,0.0,0.0,0.0,0.0
+9712,61096,organización y almacenamiento,percheros,2018-11-23,50,0.15,0.4,2547,51,20.37,2.0,4.0,89.8,179.6
+9713,61096,organización y almacenamiento,percheros,2019-01-24,50,0.3,0.31,400,6,1.84,0.0,0.0,0.0,0.0
+9714,61096,organización y almacenamiento,percheros,2019-01-07,50,0.15,0.35,772,12,4.24,0.0,0.0,0.0,0.0
+9715,61096,organización y almacenamiento,percheros,2018-12-03,50,0.15,0.33,311,1,0.33,0.0,0.0,0.0,0.0
+9716,61096,organización y almacenamiento,percheros,2019-02-23,50,0.3,0.13,258,1,0.13,0.0,0.0,0.0,0.0
+9717,61096,organización y almacenamiento,percheros,2019-03-11,50,0.3,0.22,696,10,2.25,0.0,0.0,0.0,0.0
+9718,61096,organización y almacenamiento,percheros,2018-12-29,50,0.15,0.33,444,7,2.32,0.0,0.0,0.0,0.0
+9719,61096,organización y almacenamiento,percheros,2018-11-30,50,0.15,0.04,107,2,0.08,0.33,0.43,16.63,21.62
+9720,61096,organización y almacenamiento,percheros,2018-12-06,50,0.15,0.45,318,5,2.25,0.0,0.0,0.0,0.0
+9721,61096,organización y almacenamiento,percheros,2018-12-15,50,0.15,0.6,462,4,2.41,0.0,0.0,0.0,0.0
+9722,61096,organización y almacenamiento,percheros,2019-03-22,50,0.3,0.29,629,7,2.04,0.0,0.0,0.0,0.0
+9723,61096,organización y almacenamiento,percheros,2018-10-22,50,0.15,0.23,1187,13,2.95,0.0,0.0,0.0,0.0
+9724,61096,organización y almacenamiento,percheros,2018-11-20,50,0.15,0.38,1311,22,8.4,0.0,0.0,0.0,0.0
+9725,61096,organización y almacenamiento,percheros,2018-11-08,50,0.15,0.28,662,9,2.48,0.0,0.0,0.0,0.0
+9726,61096,organización y almacenamiento,percheros,2019-02-12,50,0.3,0.13,500,6,0.8,0.0,0.0,0.0,0.0
+9727,61096,organización y almacenamiento,percheros,2018-11-04,50,0.15,0.3,584,5,1.51,0.0,0.0,0.0,0.0
+9728,61096,organización y almacenamiento,percheros,2018-12-09,50,0.15,0.26,424,4,1.04,1.0,2.0,49.9,99.8
+9729,61096,organización y almacenamiento,percheros,2019-02-06,50,0.3,0.2,810,14,2.82,0.0,0.0,0.0,0.0
+9730,61096,organización y almacenamiento,percheros,2019-01-06,50,0.15,0.4,355,4,1.6,0.0,0.0,0.0,0.0
+9731,61096,organización y almacenamiento,percheros,2019-03-31,50,0.3,0.4,143,5,2.01,0.0,0.0,0.0,0.0
+9732,61096,organización y almacenamiento,percheros,2018-12-04,50,0.15,0.32,263,3,0.95,0.0,0.0,0.0,0.0
+9733,61096,organización y almacenamiento,percheros,2019-01-17,50,0.3,0.2,417,10,1.99,0.0,0.0,0.0,0.0
+9734,61096,organización y almacenamiento,percheros,2019-01-27,50,0.3,0.17,267,5,0.84,0.0,0.0,0.0,0.0
+9735,61096,organización y almacenamiento,percheros,2018-12-31,50,0.15,0.41,1080,6,2.44,0.0,0.0,0.0,0.0
+9736,61096,organización y almacenamiento,percheros,2018-11-13,50,0.15,0.23,1091,17,3.95,0.0,0.0,0.0,0.0
+9737,61096,organización y almacenamiento,percheros,2018-10-26,50,0.15,0.41,327,6,2.44,0.0,0.0,0.0,0.0
+9738,61096,organización y almacenamiento,percheros,2018-12-05,50,0.15,0.4,202,1,0.4,0.0,0.0,0.0,0.0
+9739,61096,organización y almacenamiento,percheros,2019-03-05,50,0.3,0.22,542,5,1.11,0.0,0.0,0.0,0.0
+9740,61096,organización y almacenamiento,percheros,2018-11-24,50,0.15,0.46,1700,13,6.03,0.0,0.0,0.0,0.0
+9741,61096,organización y almacenamiento,percheros,2018-10-19,50,0.15,0.21,1160,14,2.97,0.33,0.33,16.63,16.63
+9742,61096,organización y almacenamiento,percheros,2018-12-07,50,0.15,0.0,289,0,0.0,0.0,0.0,0.0,0.0
+9743,61096,organización y almacenamiento,percheros,2019-03-15,50,0.3,0.22,175,10,2.25,1.0,2.0,49.9,99.8
+9744,61096,organización y almacenamiento,percheros,2019-01-31,50,0.3,0.16,629,6,0.99,0.0,0.0,0.0,0.0
+9745,61096,organización y almacenamiento,percheros,2018-12-12,50,0.15,0.26,437,2,0.52,0.0,0.0,0.0,0.0
+9746,61096,organización y almacenamiento,percheros,2019-02-03,50,0.3,0.23,482,11,2.5,1.0,2.0,44.9,89.8
+9747,61096,organización y almacenamiento,percheros,2018-10-23,50,0.15,0.35,918,11,3.81,0.0,0.0,0.0,0.0
+9748,61096,organización y almacenamiento,percheros,2018-12-23,50,0.15,0.35,710,7,2.47,0.0,0.0,0.0,0.0
+9749,61096,organización y almacenamiento,percheros,2018-12-30,50,0.15,0.56,687,3,1.67,0.0,0.0,0.0,0.0
+9750,61096,organización y almacenamiento,percheros,2018-11-05,50,0.15,0.27,860,6,1.62,0.0,0.0,0.0,0.0
+9751,61096,organización y almacenamiento,percheros,2018-12-13,50,0.15,0.33,293,2,0.66,0.0,0.0,0.0,0.0
+9752,61096,organización y almacenamiento,percheros,2018-10-13,50,0.15,0.18,1933,19,3.49,0.0,0.0,0.0,0.0
+9753,61096,organización y almacenamiento,percheros,2019-01-26,50,0.3,0.18,265,6,1.08,0.0,0.0,0.0,0.0
+9754,61096,organización y almacenamiento,percheros,2018-11-11,50,0.15,0.19,492,11,2.09,0.0,0.0,0.0,0.0
+9755,61096,organización y almacenamiento,percheros,2018-10-12,50,0.15,0.22,1797,18,3.99,0.0,0.0,0.0,0.0
+9756,61096,organización y almacenamiento,percheros,2019-02-22,50,0.3,0.28,462,5,1.42,0.0,0.0,0.0,0.0
+9757,61096,organización y almacenamiento,percheros,2019-01-05,50,0.15,0.32,226,7,2.24,0.0,0.0,0.0,0.0
+9758,61096,organización y almacenamiento,percheros,2019-03-23,50,0.3,0.37,571,8,2.98,0.0,0.0,0.0,0.0

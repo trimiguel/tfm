@@ -1,0 +1,590 @@
+,Reference,CatN1,CatN2,Cat_Price,CPC_max,CPC_medio,Impressions,Clics,Cost,Conversions,All_Conversions,Ads_Income,Ads_Income_All,Dates
+368,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-02
+369,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-03
+370,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-04
+371,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-05
+372,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-06
+373,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-07
+374,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-08
+375,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-09
+376,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-10
+377,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-11
+378,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-12
+379,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-13
+380,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-14
+381,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-15
+382,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-16
+383,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-17
+384,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-18
+385,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-19
+386,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-20
+387,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-21
+388,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-22
+389,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-23
+390,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-24
+391,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-25
+392,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-26
+393,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-27
+394,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-28
+395,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-29
+396,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-30
+397,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-10-01
+38,48329.0,muebles,mueble auxiliar,50.0,0.3,0.16,681.0,13.0,2.08,0.0,0.0,0.0,0.0,2017-10-02
+40,48329.0,muebles,mueble auxiliar,50.0,0.3,0.14,673.0,9.0,1.22,0.0,1.0,0.0,0.0,2017-10-03
+56,48329.0,muebles,mueble auxiliar,50.0,0.3,0.13,633.0,14.0,1.87,0.0,0.0,0.0,0.0,2017-10-04
+61,48329.0,muebles,mueble auxiliar,50.0,0.3,0.14,389.0,4.0,0.56,0.0,0.0,0.0,0.0,2017-10-05
+25,48329.0,muebles,mueble auxiliar,50.0,0.3,0.11,406.0,4.0,0.44,0.0,0.0,0.0,0.0,2017-10-06
+22,48329.0,muebles,mueble auxiliar,50.0,0.3,0.12,374.0,7.0,0.82,0.0,0.0,0.0,0.0,2017-10-07
+39,48329.0,muebles,mueble auxiliar,50.0,0.3,0.12,524.0,5.0,0.62,0.0,0.0,0.0,0.0,2017-10-08
+3,48329.0,muebles,mueble auxiliar,50.0,0.3,0.11,431.0,10.0,1.1,0.0,0.0,0.0,0.0,2017-10-09
+44,48329.0,muebles,mueble auxiliar,50.0,0.3,0.09,63.0,1.0,0.09,0.0,0.0,0.0,0.0,2017-10-10
+24,48329.0,muebles,mueble auxiliar,50.0,0.3,0.14,203.0,1.0,0.14,0.0,0.0,0.0,0.0,2017-10-11
+36,48329.0,muebles,mueble auxiliar,50.0,0.3,0.13,183.0,4.0,0.51,0.0,0.0,0.0,0.0,2017-10-12
+20,48329.0,muebles,mueble auxiliar,50.0,0.3,0.17,899.0,12.0,2.09,0.0,0.0,0.0,0.0,2017-10-13
+47,48329.0,muebles,mueble auxiliar,50.0,0.3,0.19,1226.0,21.0,4.0,0.0,1.0,0.0,0.0,2017-10-14
+5,48329.0,muebles,mueble auxiliar,50.0,0.3,0.19,1427.0,24.0,4.52,0.0,0.0,0.0,0.0,2017-10-15
+50,48329.0,muebles,mueble auxiliar,50.0,0.3,0.22,971.0,17.0,3.66,1.0,3.0,38.16,38.16,2017-10-16
+0,48329.0,muebles,mueble auxiliar,50.0,0.3,0.22,1101.0,28.0,6.11,0.0,0.0,0.0,0.0,2017-10-17
+21,48329.0,muebles,mueble auxiliar,50.0,0.3,0.17,1318.0,32.0,5.49,0.0,0.0,0.0,0.0,2017-10-18
+42,48329.0,muebles,mueble auxiliar,50.0,0.3,0.22,1277.0,28.0,6.06,0.0,1.0,0.0,0.0,2017-10-19
+10,48329.0,muebles,mueble auxiliar,50.0,0.3,0.17,1082.0,20.0,3.46,0.0,0.0,0.0,0.0,2017-10-20
+23,48329.0,muebles,mueble auxiliar,50.0,0.3,0.18,1133.0,26.0,4.72,0.0,0.0,0.0,0.0,2017-10-21
+48,48329.0,muebles,mueble auxiliar,50.0,0.3,0.18,1647.0,47.0,8.39,0.0,0.0,0.0,0.0,2017-10-22
+6,48329.0,muebles,mueble auxiliar,50.0,0.3,0.17,1439.0,37.0,6.21,2.0,2.0,91.8,91.8,2017-10-23
+33,48329.0,muebles,mueble auxiliar,50.0,0.3,0.2,1450.0,30.0,6.01,0.0,0.0,0.0,0.0,2017-10-24
+45,48329.0,muebles,mueble auxiliar,50.0,0.3,0.21,1590.0,32.0,6.58,0.0,0.0,0.0,0.0,2017-10-25
+55,48329.0,muebles,mueble auxiliar,50.0,0.3,0.19,1488.0,24.0,4.67,0.0,0.0,0.0,0.0,2017-10-26
+2,48329.0,muebles,mueble auxiliar,50.0,0.3,0.2,1360.0,31.0,6.11,1.0,1.0,46.9,46.9,2017-10-27
+58,48329.0,muebles,mueble auxiliar,50.0,0.3,0.2,1622.0,37.0,7.52,0.0,0.0,0.0,0.0,2017-10-28
+31,48329.0,muebles,mueble auxiliar,50.0,0.15,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-10-29
+32,48329.0,muebles,mueble auxiliar,50.0,0.3,0.2,1167.0,28.0,5.46,0.0,0.0,0.0,0.0,2017-10-29
+34,48329.0,muebles,mueble auxiliar,50.0,0.3,0.19,1930.0,37.0,7.11,0.0,2.0,0.0,0.0,2017-10-30
+35,48329.0,muebles,mueble auxiliar,50.0,0.3,0.21,1621.0,18.0,3.71,0.0,1.0,0.0,0.0,2017-10-31
+7,48329.0,muebles,mueble auxiliar,50.0,0.3,0.2,2067.0,32.0,6.3,0.0,1.0,0.0,0.0,2017-11-01
+52,48329.0,muebles,mueble auxiliar,50.0,0.3,0.22,1616.0,23.0,5.03,0.0,0.0,0.0,0.0,2017-11-02
+59,48329.0,muebles,mueble auxiliar,50.0,0.3,0.19,1496.0,21.0,4.07,0.0,1.0,0.0,0.0,2017-11-03
+16,48329.0,muebles,mueble auxiliar,50.0,0.3,0.19,1957.0,45.0,8.77,0.0,1.0,0.0,0.0,2017-11-04
+19,48329.0,muebles,mueble auxiliar,50.0,0.3,0.17,2638.0,50.0,8.69,0.0,1.0,0.0,0.0,2017-11-05
+4,48329.0,muebles,mueble auxiliar,50.0,0.3,0.18,1833.0,34.0,6.21,1.0,1.0,38.16,38.16,2017-11-06
+30,48329.0,muebles,mueble auxiliar,50.0,0.3,0.17,1219.0,27.0,4.72,0.0,0.0,0.0,0.0,2017-11-07
+17,48329.0,muebles,mueble auxiliar,50.0,0.3,0.15,1189.0,16.0,2.39,0.0,0.0,0.0,0.0,2017-11-08
+1,48329.0,muebles,mueble auxiliar,50.0,0.3,0.14,1073.0,13.0,1.83,0.0,0.0,0.0,0.0,2017-11-09
+18,48329.0,muebles,mueble auxiliar,50.0,0.3,0.16,1045.0,21.0,3.27,0.0,0.0,0.0,0.0,2017-11-10
+27,48329.0,muebles,mueble auxiliar,50.0,0.3,0.15,1541.0,32.0,4.88,0.0,0.0,0.0,0.0,2017-11-11
+43,48329.0,muebles,mueble auxiliar,50.0,0.3,0.16,1730.0,29.0,4.5,1.0,1.0,449.9,449.9,2017-11-12
+62,48329.0,muebles,mueble auxiliar,50.0,0.3,0.18,1373.0,24.0,4.2,0.0,0.0,0.0,0.0,2017-11-13
+26,48329.0,muebles,mueble auxiliar,50.0,0.3,0.16,1298.0,26.0,4.17,0.0,1.0,0.0,0.0,2017-11-14
+8,48329.0,muebles,mueble auxiliar,50.0,0.3,0.16,1180.0,24.0,3.93,0.0,0.0,0.0,0.0,2017-11-15
+13,48329.0,muebles,mueble auxiliar,50.0,0.3,0.17,1383.0,26.0,4.44,0.0,0.0,0.0,0.0,2017-11-16
+49,48329.0,muebles,mueble auxiliar,50.0,0.3,0.16,1387.0,24.0,3.91,0.0,1.0,0.0,0.0,2017-11-17
+14,48329.0,muebles,mueble auxiliar,50.0,0.3,0.15,1634.0,34.0,5.02,0.0,0.0,0.0,0.0,2017-11-18
+37,48329.0,muebles,mueble auxiliar,50.0,0.3,0.16,1655.0,26.0,4.07,0.0,0.0,0.0,0.0,2017-11-19
+9,48329.0,muebles,mueble auxiliar,50.0,0.3,0.18,1339.0,23.0,4.1,0.0,1.0,0.0,0.0,2017-11-20
+57,48329.0,muebles,mueble auxiliar,50.0,0.3,0.16,1016.0,33.0,5.24,2.0,2.0,76.32,76.32,2017-11-21
+11,48329.0,muebles,mueble auxiliar,50.0,0.3,0.18,1424.0,23.0,4.06,0.0,0.0,0.0,0.0,2017-11-22
+51,48329.0,muebles,mueble auxiliar,50.0,0.3,0.2,907.0,16.0,3.15,0.0,1.0,0.0,0.0,2017-11-23
+41,48329.0,muebles,mueble auxiliar,50.0,0.3,0.15,1146.0,22.0,3.36,0.0,0.0,0.0,0.0,2017-11-24
+28,48329.0,muebles,mueble auxiliar,40.0,0.3,0.08,101.0,3.0,0.25,0.0,0.0,0.0,0.0,2017-11-25
+29,48329.0,muebles,mueble auxiliar,50.0,0.3,0.15,416.0,10.0,1.53,0.0,0.0,0.0,0.0,2017-11-25
+46,48329.0,muebles,mueble auxiliar,40.0,0.3,0.07,319.0,5.0,0.33,0.0,0.0,0.0,0.0,2017-11-26
+12,48329.0,muebles,mueble auxiliar,40.0,0.3,0.08,36.0,3.0,0.24,0.0,0.0,0.0,0.0,2017-11-27
+15,48329.0,muebles,mueble auxiliar,40.0,0.3,0.0,149.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-11-28
+60,48329.0,muebles,mueble auxiliar,40.0,0.3,0.08,177.0,2.0,0.15,1.0,1.0,44.9,44.9,2017-11-29
+54,48329.0,muebles,mueble auxiliar,50.0,0.3,0.16,976.0,19.0,3.02,0.0,1.0,0.0,0.0,2017-11-30
+53,48329.0,muebles,mueble auxiliar,40.0,0.3,0.12,53.0,2.0,0.24,0.0,0.0,0.0,0.0,2017-11-30
+398,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-01
+399,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-02
+400,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-03
+401,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-04
+402,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-05
+403,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-06
+404,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-07
+405,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-08
+406,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-09
+407,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-10
+408,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-11
+409,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-12
+410,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-13
+411,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-14
+412,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-15
+413,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-16
+414,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-17
+415,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-18
+416,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-19
+417,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-20
+418,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-21
+419,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-22
+420,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-23
+421,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-24
+422,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-25
+423,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-26
+424,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-27
+425,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-28
+426,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-29
+427,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-30
+428,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-31
+429,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-01
+430,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-02
+431,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-03
+432,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-04
+433,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-05
+434,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-06
+435,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-07
+436,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-08
+437,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-09
+438,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-10
+439,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-11
+440,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-12
+441,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-13
+442,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-14
+443,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-15
+444,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-16
+445,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-17
+446,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-18
+447,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-19
+448,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-20
+449,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-21
+450,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-22
+451,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-23
+452,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-24
+453,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-25
+454,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-26
+455,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-27
+456,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-28
+457,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-29
+458,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-30
+459,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-31
+460,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-01
+461,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-02
+462,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-03
+463,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-04
+464,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-05
+465,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-06
+466,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-07
+467,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-08
+468,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-09
+469,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-10
+470,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-11
+471,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-12
+472,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-13
+473,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-14
+474,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-15
+475,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-16
+476,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-17
+477,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-18
+478,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-19
+479,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-20
+480,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-21
+481,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-22
+482,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-23
+483,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-24
+484,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-25
+485,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-26
+486,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-27
+487,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-28
+488,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-01
+489,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-02
+490,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-03
+491,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-04
+492,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-05
+493,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-06
+494,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-07
+495,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-08
+496,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-09
+497,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-10
+498,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-11
+499,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-12
+500,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-13
+501,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-14
+502,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-15
+503,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-16
+504,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-17
+505,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-18
+506,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-19
+507,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-20
+508,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-21
+509,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-22
+510,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-23
+511,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-24
+512,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-25
+513,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-26
+514,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-27
+515,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-28
+516,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-29
+517,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-30
+518,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-31
+519,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-01
+520,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-02
+521,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-03
+65,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.0,34.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-04
+165,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.13,352.0,4.0,0.53,0.0,0.0,0.0,0.0,2018-04-05
+184,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.0,55.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-06
+192,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-07
+241,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-08
+161,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-09
+77,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.11,30.0,1.0,0.11,0.0,0.0,0.0,0.0,2018-04-10
+136,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.13,44.0,1.0,0.13,0.0,0.0,0.0,0.0,2018-04-11
+242,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.11,25.0,2.0,0.22,0.0,0.0,0.0,0.0,2018-04-12
+162,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.14,27.0,1.0,0.14,0.0,0.0,0.0,0.0,2018-04-13
+104,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-14
+225,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.15,48.0,1.0,0.15,0.0,0.0,0.0,0.0,2018-04-15
+177,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.14,49.0,1.0,0.14,0.0,0.0,0.0,0.0,2018-04-16
+171,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.0,56.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-17
+224,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.15,57.0,1.0,0.15,0.0,0.0,0.0,0.0,2018-04-18
+169,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.0,41.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-19
+150,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.0,58.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-20
+84,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-21
+191,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.0,56.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-22
+232,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.07,75.0,1.0,0.07,0.0,0.0,0.0,0.0,2018-04-23
+195,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.0,43.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-24
+213,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-25
+110,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.0,37.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-26
+229,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-27
+190,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.0,31.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-28
+140,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.15,48.0,1.0,0.15,0.0,0.0,0.0,0.0,2018-04-29
+144,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.12,54.0,2.0,0.23,0.0,0.0,0.0,0.0,2018-04-30
+238,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.0,36.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-01
+153,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.0,51.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-02
+176,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.0,42.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-03
+240,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.14,50.0,2.0,0.28,0.0,0.0,0.0,0.0,2018-05-04
+147,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.0,55.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-05
+239,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.0,61.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-06
+246,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.0,52.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-07
+233,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.0,28.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-08
+93,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.14,72.0,1.0,0.14,0.0,1.0,0.0,0.0,2018-05-09
+166,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.0,63.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-10
+173,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.0,80.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-11
+210,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.0,54.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-12
+132,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.0,50.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-13
+94,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.15,38.0,1.0,0.15,0.0,0.0,0.0,0.0,2018-05-14
+234,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.0,36.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-15
+149,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.13,70.0,6.0,0.79,0.0,0.0,0.0,0.0,2018-05-16
+252,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.0,132.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-17
+223,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.14,122.0,1.0,0.14,0.0,0.0,0.0,0.0,2018-05-18
+248,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.14,127.0,4.0,0.56,0.0,0.0,0.0,0.0,2018-05-19
+87,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.0,251.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-20
+179,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.15,116.0,2.0,0.3,0.0,0.0,0.0,0.0,2018-05-21
+137,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.0,120.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-22
+247,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.05,52.0,1.0,0.05,0.0,0.0,0.0,0.0,2018-05-23
+129,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.15,56.0,2.0,0.3,0.0,0.0,0.0,0.0,2018-05-24
+214,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.1,111.0,3.0,0.31,0.0,0.0,0.0,0.0,2018-05-25
+235,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.12,72.0,1.0,0.12,0.0,0.0,0.0,0.0,2018-05-26
+211,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.12,71.0,2.0,0.25,0.0,0.0,0.0,0.0,2018-05-27
+212,48329.0,muebles,mesas de centro y auxiliares,50.0,0.02,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-27
+206,48329.0,muebles,mesas de centro y auxiliares,50.0,0.02,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-28
+205,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.0,97.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-28
+250,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.11,90.0,2.0,0.22,0.0,0.0,0.0,0.0,2018-05-29
+251,48329.0,muebles,mesas de centro y auxiliares,50.0,0.02,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-29
+96,48329.0,muebles,mesas de centro y auxiliares,50.0,0.02,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-30
+95,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.0,94.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-30
+85,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.0,66.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-31
+244,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.15,45.0,1.0,0.15,0.0,0.0,0.0,0.0,2018-06-01
+245,48329.0,muebles,mesas de centro y auxiliares,50.0,0.02,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-01
+185,48329.0,muebles,mesas de centro y auxiliares,50.0,0.02,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-02
+186,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.0,37.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-02
+74,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.12,30.0,3.0,0.35,0.0,0.0,0.0,0.0,2018-06-03
+75,48329.0,muebles,mesas de centro y auxiliares,50.0,0.02,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-03
+215,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.0,47.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-04
+143,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.0,41.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-05
+97,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.15,50.0,1.0,0.15,0.0,0.0,0.0,0.0,2018-06-06
+82,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.0,120.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-07
+197,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.0,51.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-08
+81,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.1,179.0,2.0,0.19,0.0,0.0,0.0,0.0,2018-06-09
+102,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.14,90.0,1.0,0.14,0.0,1.0,0.0,0.0,2018-06-10
+107,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-11
+120,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.14,59.0,1.0,0.14,0.0,0.0,0.0,0.0,2018-06-12
+121,48329.0,muebles,mesas de centro y auxiliares,50.0,0.17,0.06,64.0,1.0,0.06,0.0,0.0,0.0,0.0,2018-06-12
+152,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.14,96.0,2.0,0.29,0.0,0.0,0.0,0.0,2018-06-13
+217,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.0,92.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-14
+218,48329.0,muebles,mesas de centro y auxiliares,50.0,0.06,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-14
+237,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.15,78.0,1.0,0.15,0.0,0.0,0.0,0.0,2018-06-15
+198,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.0,128.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-16
+188,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.0,119.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-17
+200,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.0,144.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-18
+119,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.21,161.0,3.0,0.63,0.0,0.0,0.0,0.0,2018-06-19
+72,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.21,345.0,3.0,0.64,0.0,0.0,0.0,0.0,2018-06-20
+125,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.23,341.0,5.0,1.17,0.0,0.0,0.0,0.0,2018-06-21
+194,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.16,355.0,5.0,0.82,0.0,0.0,0.0,0.0,2018-06-22
+142,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.19,430.0,4.0,0.77,0.0,0.0,0.0,0.0,2018-06-23
+180,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.0,558.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-24
+220,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.0,466.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-25
+148,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.23,486.0,4.0,0.93,0.0,0.0,0.0,0.0,2018-06-26
+243,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.2,407.0,4.0,0.82,0.0,0.0,0.0,0.0,2018-06-27
+189,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.0,355.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-28
+115,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.23,396.0,1.0,0.23,0.0,0.0,0.0,0.0,2018-06-29
+151,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.24,462.0,4.0,0.98,0.0,0.0,0.0,0.0,2018-06-30
+202,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.22,862.0,11.0,2.4,0.0,0.0,0.0,0.0,2018-07-01
+167,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.22,567.0,3.0,0.67,0.0,0.0,0.0,0.0,2018-07-02
+91,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.2,584.0,10.0,1.98,0.0,0.0,0.0,0.0,2018-07-03
+111,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.24,741.0,9.0,2.13,1.0,3.0,40.4,40.4,2018-07-04
+199,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.22,772.0,10.0,2.22,0.33,0.33,13.47,13.47,2018-07-05
+227,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.23,621.0,5.0,1.14,0.0,1.0,0.0,0.0,2018-07-06
+71,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.25,752.0,2.0,0.5,0.0,0.0,0.0,0.0,2018-07-07
+76,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.25,690.0,4.0,1.0,0.0,1.0,0.0,0.0,2018-07-08
+236,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.22,794.0,10.0,2.2,0.33,3.33,13.47,13.47,2018-07-09
+133,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.22,752.0,10.0,2.21,1.17,1.17,49.38,49.38,2018-07-10
+230,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.21,876.0,8.0,1.67,0.33,2.33,40.13,40.13,2018-07-11
+83,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.21,904.0,12.0,2.52,0.0,1.0,0.0,0.0,2018-07-12
+80,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.22,785.0,5.0,1.09,0.0,0.0,0.0,0.0,2018-07-13
+67,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.23,804.0,5.0,1.16,0.0,0.0,0.0,0.0,2018-07-14
+207,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.19,1006.0,11.0,2.14,0.0,0.0,0.0,0.0,2018-07-15
+172,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.23,1163.0,14.0,3.17,0.0,1.0,0.0,0.0,2018-07-16
+226,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.22,963.0,10.0,2.25,0.0,1.0,0.0,0.0,2018-07-17
+92,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.22,1140.0,14.0,3.14,0.0,1.0,0.0,0.0,2018-07-18
+70,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.22,1108.0,16.0,3.45,0.0,0.0,0.0,0.0,2018-07-19
+159,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.16,1131.0,23.0,3.63,0.0,2.0,0.0,0.0,2018-07-20
+181,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.19,1487.0,15.0,2.84,0.0,2.0,0.0,0.0,2018-07-21
+68,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.19,1679.0,19.0,3.59,0.0,0.0,0.0,0.0,2018-07-22
+231,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.19,1313.0,21.0,3.94,0.0,0.0,0.0,0.0,2018-07-23
+69,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.22,1577.0,28.0,6.23,0.0,0.0,0.0,0.0,2018-07-24
+79,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.22,1873.0,27.0,5.96,0.33,1.33,13.47,13.47,2018-07-25
+154,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.24,1767.0,26.0,6.23,1.0,3.0,62.8,62.8,2018-07-26
+193,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.25,1872.0,35.0,8.63,0.17,3.17,29.08,29.08,2018-07-27
+221,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.25,2110.0,45.0,11.26,0.0,3.0,0.0,0.0,2018-07-28
+113,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.26,2206.0,47.0,12.17,2.0,4.0,80.8,80.8,2018-07-29
+138,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.26,2345.0,23.0,6.01,0.0,1.0,0.0,0.0,2018-07-30
+222,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.25,2299.0,39.0,9.69,0.0,0.0,0.0,0.0,2018-07-31
+204,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.24,2075.0,37.0,9.04,0.0,1.0,0.0,0.0,2018-08-01
+128,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.25,2269.0,36.0,8.83,0.0,2.0,0.0,0.0,2018-08-02
+124,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.25,2220.0,41.0,10.41,0.0,0.0,0.0,0.0,2018-08-03
+183,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.25,2868.0,24.0,5.92,0.0,0.0,0.0,0.0,2018-08-04
+139,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.28,2554.0,26.0,7.27,0.0,0.0,0.0,0.0,2018-08-05
+249,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.26,2424.0,21.0,5.4,0.0,2.0,0.0,0.0,2018-08-06
+196,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.27,3361.0,52.0,14.02,0.0,1.0,0.0,0.0,2018-08-07
+103,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.26,3272.0,52.0,13.77,0.4,1.4,16.16,16.16,2018-08-08
+105,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.25,4217.0,74.0,18.82,1.0,2.0,40.4,40.4,2018-08-09
+109,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.26,3504.0,48.0,12.29,0.0,2.0,0.0,0.0,2018-08-10
+131,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.25,3155.0,39.0,9.76,0.0,1.0,0.0,0.0,2018-08-11
+155,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.29,4610.0,58.0,16.54,0.0,1.0,0.0,0.0,2018-08-12
+156,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.29,4387.0,56.0,16.11,1.0,6.0,40.4,40.4,2018-08-13
+175,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.29,3903.0,53.0,15.62,0.0,3.0,0.0,0.0,2018-08-14
+187,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.28,3834.0,40.0,11.15,0.0,4.0,0.0,0.0,2018-08-15
+135,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.27,3346.0,32.0,8.52,0.0,2.0,0.0,0.0,2018-08-16
+116,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.28,3569.0,40.0,11.38,0.0,1.0,0.0,0.0,2018-08-17
+99,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.27,3916.0,47.0,12.7,0.0,3.0,0.0,0.0,2018-08-18
+73,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.27,4423.0,40.0,10.8,0.0,1.0,0.0,0.0,2018-08-19
+203,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.25,3897.0,46.0,11.39,0.0,1.0,0.0,0.0,2018-08-20
+130,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.27,3689.0,43.0,11.6,0.0,3.0,0.0,0.0,2018-08-21
+158,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.29,3822.0,48.0,13.7,0.0,1.0,0.0,0.0,2018-08-22
+174,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.26,4188.0,48.0,12.63,0.0,2.0,0.0,0.0,2018-08-23
+88,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.26,4057.0,47.0,12.01,0.0,3.0,0.0,0.0,2018-08-24
+170,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.24,3820.0,45.0,10.62,0.0,0.0,0.0,0.0,2018-08-25
+106,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.25,4442.0,60.0,15.02,0.0,2.0,0.0,0.0,2018-08-26
+123,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.27,4166.0,50.0,13.29,0.0,2.0,0.0,0.0,2018-08-27
+178,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.28,4828.0,79.0,22.3,1.0,2.0,42.4,42.4,2018-08-28
+228,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.25,6526.0,84.0,21.11,0.0,1.0,0.0,0.0,2018-08-29
+145,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.27,5182.0,72.0,19.12,0.0,0.0,0.0,0.0,2018-08-30
+108,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.26,4782.0,47.0,12.42,0.0,1.0,0.0,0.0,2018-08-31
+117,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.25,4618.0,51.0,12.66,0.0,1.0,0.0,0.0,2018-09-01
+100,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.26,6187.0,87.0,22.52,1.0,2.0,44.9,44.9,2018-09-02
+134,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.27,5561.0,78.0,20.9,0.0,2.0,0.0,0.0,2018-09-03
+127,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.31,6179.0,56.0,17.12,1.0,1.0,44.9,44.9,2018-09-04
+101,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.29,5353.0,74.0,21.36,0.0,1.0,0.0,0.0,2018-09-05
+63,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.3,6440.0,86.0,25.39,0.0,1.0,0.0,0.0,2018-09-06
+163,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.26,6482.0,81.0,21.38,0.0,0.0,0.0,0.0,2018-09-07
+201,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.25,7525.0,78.0,19.75,0.7,2.7,48.19,48.19,2018-09-08
+64,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.27,8142.0,111.0,30.48,0.0,0.0,0.0,0.0,2018-09-09
+66,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.27,6641.0,78.0,20.79,0.0,1.0,0.0,0.0,2018-09-10
+141,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.33,6995.0,77.0,25.33,0.0,0.0,0.0,0.0,2018-09-11
+78,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.27,6157.0,77.0,20.88,1.0,1.0,44.9,44.9,2018-09-12
+126,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.26,6122.0,82.0,21.13,0.0,1.0,0.0,0.0,2018-09-13
+89,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.26,6782.0,71.0,18.34,0.0,2.0,0.0,0.0,2018-09-14
+216,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.26,9005.0,88.0,23.13,0.0,1.0,0.0,0.0,2018-09-15
+118,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.28,10618.0,119.0,33.22,0.0,2.0,0.0,0.0,2018-09-16
+219,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.3,8313.0,79.0,23.49,0.0,4.0,0.0,0.0,2018-09-17
+157,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.3,7308.0,97.0,28.72,1.2,2.2,53.88,53.88,2018-09-18
+122,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.28,7846.0,97.0,27.24,0.0,0.0,0.0,0.0,2018-09-19
+168,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.27,8439.0,80.0,21.37,0.0,0.0,0.0,0.0,2018-09-20
+114,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.26,6781.0,47.0,12.17,0.0,0.0,0.0,0.0,2018-09-21
+112,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.26,7230.0,72.0,18.51,0.0,0.0,0.0,0.0,2018-09-22
+146,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.26,10423.0,116.0,30.32,0.5,1.5,23.45,23.45,2018-09-23
+90,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.26,8776.0,84.0,22.07,0.0,6.0,0.0,0.0,2018-09-24
+98,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.26,7592.0,79.0,20.74,0.0,1.0,0.0,0.0,2018-09-25
+209,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.29,7033.0,78.0,22.36,2.0,6.0,89.8,89.8,2018-09-26
+208,48329.0,muebles,mesas de centro y auxiliares,50.0,0.2,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-26
+164,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.27,6976.0,59.0,15.85,0.0,2.0,0.0,0.0,2018-09-27
+182,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.28,5990.0,45.0,12.39,1.0,6.0,44.9,44.9,2018-09-28
+86,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.26,6595.0,77.0,19.9,1.0,6.0,142.7,142.7,2018-09-29
+160,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.27,8655.0,98.0,26.55,0.0,2.0,0.0,0.0,2018-09-30
+302,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.27,7431.0,97.0,26.65,1.0,6.0,46.9,46.9,2018-10-01
+278,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.26,6564.0,91.0,23.62,0.37,5.37,26.36,26.36,2018-10-02
+328,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.27,6132.0,59.0,16.2,0.0,3.0,0.0,0.0,2018-10-03
+275,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.25,5925.0,52.0,12.75,0.2,2.2,8.6,8.6,2018-10-04
+364,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.25,6366.0,59.0,14.63,0.0,2.0,0.0,0.0,2018-10-05
+277,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.25,8217.0,93.0,23.5,0.2,8.2,19.98,19.98,2018-10-06
+346,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.24,11460.0,129.0,30.77,0.0,6.0,0.0,0.0,2018-10-07
+258,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.24,7096.0,64.0,15.5,0.0,4.0,0.0,0.0,2018-10-08
+315,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.26,6233.0,60.0,15.32,0.25,1.25,10.1,10.1,2018-10-09
+284,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.24,4874.0,48.0,11.62,0.01,0.01,0.45,0.45,2018-10-10
+319,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.26,4426.0,41.0,10.83,0.0,3.0,0.0,0.0,2018-10-11
+356,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.27,5633.0,47.0,12.5,1.0,6.0,44.9,44.9,2018-10-12
+326,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.26,4765.0,38.0,9.7,0.0,0.0,0.0,0.0,2018-10-13
+280,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.29,6245.0,70.0,20.52,0.0,3.0,0.0,0.0,2018-10-14
+320,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.3,4642.0,42.0,12.56,0.0,2.0,0.0,0.0,2018-10-15
+305,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.28,4708.0,39.0,10.87,0.0,1.0,0.0,0.0,2018-10-16
+318,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.33,3979.0,24.0,8.02,0.0,1.0,0.0,0.0,2018-10-17
+263,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.25,3411.0,34.0,8.44,0.0,4.0,0.0,0.0,2018-10-18
+352,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.24,3346.0,27.0,6.48,0.0,0.0,0.0,0.0,2018-10-19
+354,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.24,4062.0,38.0,9.24,0.0,0.0,0.0,0.0,2018-10-20
+290,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.23,1873.0,19.0,4.39,0.0,1.0,0.0,0.0,2018-10-21
+330,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.27,2251.0,19.0,5.12,0.0,0.0,0.0,0.0,2018-10-22
+253,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.3,2185.0,18.0,5.35,0.0,1.0,0.0,0.0,2018-10-23
+363,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.27,1479.0,7.0,1.91,0.0,0.0,0.0,0.0,2018-10-24
+338,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.25,1115.0,13.0,3.3,0.0,0.0,0.0,0.0,2018-10-25
+296,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.29,840.0,6.0,1.73,0.0,0.0,0.0,0.0,2018-10-26
+361,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.21,1003.0,9.0,1.88,0.0,0.0,0.0,0.0,2018-10-27
+304,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.21,814.0,6.0,1.24,0.0,0.0,0.0,0.0,2018-10-28
+256,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.24,943.0,5.0,1.21,0.0,0.0,0.0,0.0,2018-10-29
+306,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.29,834.0,12.0,3.5,0.0,0.0,0.0,0.0,2018-10-30
+337,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.23,744.0,9.0,2.08,0.0,2.0,0.0,0.0,2018-10-31
+314,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.25,940.0,12.0,2.99,0.0,2.0,0.0,0.0,2018-11-01
+257,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.27,993.0,8.0,2.15,0.0,3.0,0.0,0.0,2018-11-02
+342,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.26,1688.0,16.0,4.13,0.0,0.0,0.0,0.0,2018-11-03
+327,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.22,1300.0,11.0,2.45,0.0,0.0,0.0,0.0,2018-11-04
+303,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.23,1835.0,24.0,5.55,0.0,0.0,0.0,0.0,2018-11-05
+323,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.32,1921.0,18.0,5.81,0.0,1.0,0.0,0.0,2018-11-06
+311,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.23,1956.0,15.0,3.51,0.0,1.0,0.0,0.0,2018-11-07
+355,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.23,2656.0,17.0,3.98,0.0,1.0,0.0,0.0,2018-11-08
+292,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.25,2325.0,18.0,4.49,0.0,1.0,0.0,0.0,2018-11-09
+307,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.24,2526.0,24.0,5.68,0.0,0.0,0.0,0.0,2018-11-10
+255,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.26,1832.0,26.0,6.84,0.01,1.01,0.45,0.45,2018-11-11
+300,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.23,2283.0,17.0,3.98,0.0,0.0,0.0,0.0,2018-11-12
+268,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.29,2144.0,15.0,4.37,0.0,0.03,0.0,1.24,2018-11-13
+260,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.27,2380.0,18.0,4.82,0.0,0.0,0.0,0.0,2018-11-14
+344,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.34,2737.0,18.0,6.2,0.0,0.0,0.0,0.0,2018-11-15
+282,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.36,2617.0,22.0,8.0,0.0,0.0,0.0,0.0,2018-11-16
+313,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.33,2829.0,22.0,7.33,0.0,0.0,0.0,0.0,2018-11-17
+287,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.38,2314.0,26.0,9.97,0.0,0.0,0.0,0.0,2018-11-18
+348,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.38,3025.0,23.0,8.73,0.0,0.0,0.0,0.0,2018-11-19
+309,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.43,2401.0,20.0,8.57,0.0,0.0,0.0,0.0,2018-11-20
+359,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.34,4505.0,41.0,14.14,0.0,0.0,0.0,0.0,2018-11-21
+264,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.4,5760.0,37.0,14.76,0.0,0.0,0.0,0.0,2018-11-22
+333,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.49,7925.0,66.0,32.32,0.0,0.0,0.0,0.0,2018-11-23
+362,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.48,8858.0,83.0,39.56,0.0,0.8,0.0,47.07,2018-11-24
+339,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.42,10994.0,86.0,36.35,0.0,0.04,0.0,31.2,2018-11-25
+279,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.39,6807.0,58.0,22.65,0.0,1.0,0.0,40.4,2018-11-26
+312,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.39,1291.0,10.0,3.89,0.0,0.0,0.0,0.0,2018-11-27
+294,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.4,816.0,5.0,2.01,0.0,0.0,0.0,0.0,2018-11-28
+271,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.47,1124.0,12.0,5.69,0.0,0.0,0.0,0.0,2018-11-29
+347,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.31,2192.0,15.0,4.59,0.0,0.0,0.0,0.0,2018-11-30
+325,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.32,1611.0,10.0,3.24,0.0,0.0,0.0,0.0,2018-12-01
+272,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.32,1661.0,9.0,2.84,0.0,0.0,0.0,0.0,2018-12-02
+332,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.28,1443.0,11.0,3.11,0.0,0.0,0.0,0.0,2018-12-03
+351,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.32,1285.0,10.0,3.24,0.0,0.0,0.0,0.0,2018-12-04
+254,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.44,943.0,16.0,7.1,0.0,0.0,0.0,0.0,2018-12-05
+335,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.31,1066.0,11.0,3.39,0.0,0.0,0.0,0.0,2018-12-06
+266,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.33,952.0,7.0,2.31,0.0,0.0,0.0,0.0,2018-12-07
+262,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.38,905.0,9.0,3.45,0.0,0.0,0.0,0.0,2018-12-08
+288,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.37,940.0,13.0,4.81,0.0,0.0,0.0,0.0,2018-12-09
+321,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.31,1106.0,14.0,4.29,0.0,0.0,0.0,0.0,2018-12-10
+353,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.35,1314.0,6.0,2.08,0.0,0.0,0.0,0.0,2018-12-11
+285,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.29,1221.0,12.0,3.5,0.0,0.0,0.0,0.0,2018-12-12
+317,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.31,1348.0,7.0,2.15,0.0,0.0,0.0,0.0,2018-12-13
+308,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.34,887.0,13.0,4.45,0.0,0.0,0.0,0.0,2018-12-14
+324,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.3,1249.0,14.0,4.21,0.0,0.0,0.0,0.0,2018-12-15
+259,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.3,1101.0,15.0,4.57,0.0,0.0,0.0,0.0,2018-12-16
+298,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.36,1695.0,14.0,5.08,0.0,0.0,0.0,0.0,2018-12-17
+297,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.31,1529.0,10.0,3.07,0.0,0.0,0.0,0.0,2018-12-18
+322,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.38,1535.0,13.0,4.9,0.0,0.0,0.0,0.0,2018-12-19
+358,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.39,2155.0,21.0,8.16,0.0,0.0,0.0,0.0,2018-12-20
+265,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.32,1966.0,21.0,6.64,0.0,0.0,0.0,0.0,2018-12-21
+310,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.35,1557.0,19.0,6.59,0.0,0.0,0.0,0.0,2018-12-22
+329,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.36,1668.0,9.0,3.23,0.0,0.0,0.0,0.0,2018-12-23
+269,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.46,1065.0,8.0,3.68,0.0,0.0,0.0,0.0,2018-12-24
+273,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.41,1201.0,6.0,2.48,0.0,0.0,0.0,0.0,2018-12-25
+341,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.39,1115.0,7.0,2.7,0.0,0.0,0.0,0.0,2018-12-26
+283,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.34,854.0,3.0,1.02,0.0,0.0,0.0,0.0,2018-12-27
+345,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.31,900.0,9.0,2.81,0.0,0.0,0.0,0.0,2018-12-28
+281,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.29,884.0,5.0,1.46,0.0,0.0,0.0,0.0,2018-12-29
+365,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.33,877.0,12.0,3.92,0.0,0.0,0.0,0.0,2018-12-30
+274,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.34,1444.0,9.0,3.05,0.0,0.0,0.0,0.0,2018-12-31
+331,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.0,347.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-01
+334,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.5,496.0,3.0,1.51,0.0,0.0,0.0,0.0,2019-01-02
+316,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.0,341.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-03
+291,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.62,366.0,3.0,1.86,0.0,0.0,0.0,0.0,2019-01-04
+289,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.0,321.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-05
+270,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.34,976.0,5.0,1.68,0.0,0.0,0.0,0.0,2019-01-06
+286,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.28,1716.0,8.0,2.28,0.0,0.0,0.0,0.0,2019-01-07
+360,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.32,1106.0,10.0,3.22,0.0,0.0,0.0,0.0,2019-01-08
+299,48329.0,muebles,mesas de centro y auxiliares,50.0,0.13,0.49,976.0,9.0,4.41,0.0,0.0,0.0,0.0,2019-01-09
+522,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-10
+523,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-11
+524,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-12
+525,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-13
+526,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-14
+527,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-15
+528,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-16
+529,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-17
+530,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-18
+531,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-19
+532,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-20
+533,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-21
+534,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-22
+535,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-23
+536,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-24
+537,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-25
+538,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-26
+539,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-27
+540,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-28
+541,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-29
+542,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-30
+543,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-31
+544,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-01
+545,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-02
+546,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-03
+547,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-04
+548,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-05
+549,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-06
+550,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-07
+551,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-08
+552,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-09
+553,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-10
+554,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-11
+555,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-12
+556,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-13
+557,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-14
+558,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-15
+559,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-16
+560,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-17
+561,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-18
+562,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-19
+563,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-20
+564,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-21
+565,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-22
+566,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-23
+567,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-24
+568,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-25
+569,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-26
+570,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-27
+571,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-28
+572,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-01
+573,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-02
+574,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-03
+575,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-04
+576,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-05
+577,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-06
+578,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-07
+579,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-08
+580,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-09
+581,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-10
+582,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-11
+583,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-12
+584,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-13
+585,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-14
+586,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-15
+587,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-16
+588,48329.0,muebles,mesas de centro y auxiliares,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-17
+261,48329.0,muebles,mesas de centro y auxiliares,50.0,0.26,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-18
+301,48329.0,muebles,mesas de centro y auxiliares,50.0,0.26,0.22,1820.0,18.0,3.96,0.0,0.0,0.0,0.0,2019-03-19
+349,48329.0,muebles,mesas de centro y auxiliares,50.0,0.26,0.22,2384.0,14.0,3.07,0.0,0.0,0.0,0.0,2019-03-20
+267,48329.0,muebles,mesas de centro y auxiliares,50.0,0.26,0.24,2412.0,18.0,4.4,0.0,0.0,0.0,0.0,2019-03-21
+367,48329.0,muebles,mesas de centro y auxiliares,50.0,0.26,0.25,3522.0,19.0,4.68,0.0,0.0,0.0,0.0,2019-03-22
+293,48329.0,muebles,mesas de centro y auxiliares,50.0,0.26,0.23,3160.0,30.0,7.01,1.0,2.0,46.9,93.8,2019-03-23
+357,48329.0,muebles,mesas de centro y auxiliares,50.0,0.26,0.27,2457.0,19.0,5.18,0.0,0.0,0.0,0.0,2019-03-24
+366,48329.0,muebles,mesas de centro y auxiliares,50.0,0.26,0.29,2742.0,27.0,7.71,1.0,1.0,119.61,119.61,2019-03-25
+276,48329.0,muebles,mesas de centro y auxiliares,50.0,0.26,0.29,2865.0,19.0,5.53,0.0,0.0,0.0,0.0,2019-03-26
+295,48329.0,muebles,mesas de centro y auxiliares,50.0,0.26,0.34,2672.0,21.0,7.11,0.0,0.0,0.0,0.0,2019-03-27
+336,48329.0,muebles,mesas de centro y auxiliares,50.0,0.26,0.22,2059.0,20.0,4.49,0.0,0.0,0.0,0.0,2019-03-28
+340,48329.0,muebles,mesas de centro y auxiliares,50.0,0.26,0.31,1583.0,13.0,3.99,0.0,0.0,0.0,0.0,2019-03-29
+343,48329.0,muebles,mesas de centro y auxiliares,50.0,0.26,0.2,1494.0,11.0,2.21,0.0,0.0,0.0,0.0,2019-03-30
+350,48329.0,muebles,mesas de centro y auxiliares,50.0,0.26,0.24,1228.0,11.0,2.6,0.0,0.0,0.0,0.0,2019-03-31

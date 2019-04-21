@@ -1,0 +1,632 @@
+,Reference,CatN1,CatN2,Cat_Price,CPC_max,CPC_medio,Impressions,Clics,Cost,Conversions,All_Conversions,Ads_Income,Ads_Income_All,Dates
+440,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-02
+441,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-03
+442,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-04
+443,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-05
+444,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-06
+445,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-07
+446,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-08
+447,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-09
+448,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-10
+449,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-11
+450,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-12
+451,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-13
+452,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-14
+453,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-15
+454,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-16
+455,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-17
+456,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-18
+457,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-19
+458,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-20
+459,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-21
+460,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-22
+461,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-23
+462,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-24
+463,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-25
+464,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-26
+465,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-27
+466,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-28
+467,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-29
+468,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-09-30
+469,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-10-01
+63,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.0,138.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-10-02
+71,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.0,125.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-10-03
+49,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.12,157.0,1.0,0.12,0.0,0.0,0.0,0.0,2017-10-04
+79,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.13,128.0,1.0,0.13,0.0,1.0,0.0,0.0,2017-10-05
+130,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.13,114.0,1.0,0.13,0.0,0.0,0.0,0.0,2017-10-06
+81,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.15,145.0,4.0,0.6,0.0,0.0,0.0,0.0,2017-10-07
+32,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.11,173.0,1.0,0.11,0.0,0.0,0.0,0.0,2017-10-08
+68,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.12,180.0,3.0,0.35,0.0,0.0,0.0,0.0,2017-10-09
+52,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-10-10
+131,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.12,67.0,1.0,0.12,0.0,0.0,0.0,0.0,2017-10-11
+95,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.13,70.0,1.0,0.13,0.0,0.0,0.0,0.0,2017-10-12
+86,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.12,158.0,2.0,0.25,0.0,0.0,0.0,0.0,2017-10-13
+117,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.17,134.0,3.0,0.52,0.0,0.0,0.0,0.0,2017-10-14
+46,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.14,192.0,7.0,0.98,0.0,0.0,0.0,0.0,2017-10-15
+50,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.16,159.0,5.0,0.79,0.0,0.0,0.0,0.0,2017-10-16
+138,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.14,168.0,4.0,0.58,0.0,0.0,0.0,0.0,2017-10-17
+103,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.15,207.0,4.0,0.6,0.0,0.0,0.0,0.0,2017-10-18
+22,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.12,245.0,3.0,0.35,0.0,0.0,0.0,0.0,2017-10-19
+27,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.16,188.0,5.0,0.79,0.0,0.0,0.0,0.0,2017-10-20
+66,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.14,254.0,3.0,0.42,0.0,0.0,0.0,0.0,2017-10-21
+92,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.12,252.0,2.0,0.25,0.0,0.0,0.0,0.0,2017-10-22
+90,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.15,166.0,4.0,0.59,0.0,0.0,0.0,0.0,2017-10-23
+149,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.0,164.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-10-24
+78,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.12,107.0,1.0,0.12,0.0,0.0,0.0,0.0,2017-10-25
+73,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.19,160.0,1.0,0.19,0.0,0.0,0.0,0.0,2017-10-26
+12,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.0,93.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-10-27
+80,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.14,99.0,3.0,0.42,0.0,0.0,0.0,0.0,2017-10-28
+139,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.0,78.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-10-29
+91,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.0,86.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-10-30
+135,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.0,97.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-10-31
+120,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.14,143.0,5.0,0.72,0.0,0.0,0.0,0.0,2017-11-01
+124,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.12,206.0,2.0,0.24,0.0,0.0,0.0,0.0,2017-11-02
+62,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.12,178.0,2.0,0.24,0.0,0.0,0.0,0.0,2017-11-03
+97,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.0,165.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-11-04
+58,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.0,182.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-11-05
+74,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.18,95.0,1.0,0.18,0.0,0.0,0.0,0.0,2017-11-06
+75,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.14,88.0,1.0,0.14,0.0,0.0,0.0,0.0,2017-11-07
+111,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.03,113.0,1.0,0.03,0.0,0.0,0.0,0.0,2017-11-08
+102,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.0,75.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-11-09
+84,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.17,71.0,8.0,1.35,0.0,0.0,0.0,0.0,2017-11-10
+29,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.12,105.0,1.0,0.12,0.0,0.0,0.0,0.0,2017-11-11
+108,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.14,194.0,4.0,0.54,0.0,0.0,0.0,0.0,2017-11-12
+69,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.1,198.0,5.0,0.51,0.0,0.0,0.0,0.0,2017-11-13
+129,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.11,217.0,1.0,0.11,0.0,0.0,0.0,0.0,2017-11-14
+48,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.16,164.0,2.0,0.33,0.0,0.0,0.0,0.0,2017-11-15
+60,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.13,163.0,1.0,0.13,0.0,0.0,0.0,0.0,2017-11-16
+59,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.12,188.0,4.0,0.46,0.0,0.0,0.0,0.0,2017-11-17
+64,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.12,133.0,2.0,0.23,0.0,0.0,0.0,0.0,2017-11-18
+127,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.14,296.0,8.0,1.1,0.0,0.0,0.0,0.0,2017-11-19
+77,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.17,156.0,5.0,0.87,0.0,0.0,0.0,0.0,2017-11-20
+42,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.13,234.0,4.0,0.53,0.0,0.0,0.0,0.0,2017-11-21
+141,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.15,234.0,1.0,0.15,0.0,0.0,0.0,0.0,2017-11-22
+109,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.15,137.0,2.0,0.3,0.0,0.0,0.0,0.0,2017-11-23
+107,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.0,148.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-11-24
+82,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.15,90.0,1.0,0.15,0.0,0.0,0.0,0.0,2017-11-25
+55,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.0,28.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-11-26
+54,82462.0,jardín y exterior,muebles de jardín y terraza,50.0,0.15,0.14,103.0,4.0,0.56,0.0,0.0,0.0,0.0,2017-11-26
+133,82462.0,jardín y exterior,muebles de jardín y terraza,50.0,0.15,0.0,44.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-11-27
+28,82462.0,jardín y exterior,muebles de jardín y terraza,50.0,0.15,0.16,44.0,4.0,0.65,0.0,0.0,0.0,0.0,2017-11-28
+13,82462.0,jardín y exterior,muebles de jardín y terraza,50.0,0.15,0.18,143.0,1.0,0.18,0.0,0.0,0.0,0.0,2017-11-29
+115,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.12,75.0,1.0,0.12,0.0,0.0,0.0,0.0,2017-11-30
+116,82462.0,jardín y exterior,muebles de jardín y terraza,50.0,0.15,0.18,47.0,1.0,0.18,0.0,0.0,0.0,0.0,2017-11-30
+145,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.12,119.0,1.0,0.12,0.0,0.0,0.0,0.0,2017-12-01
+137,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.1,110.0,2.0,0.19,0.0,0.0,0.0,0.0,2017-12-02
+125,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.0,150.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-03
+132,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.0,141.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-04
+93,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.0,68.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-05
+45,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.13,125.0,3.0,0.38,0.0,0.0,0.0,0.0,2017-12-06
+121,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.12,105.0,1.0,0.12,0.0,0.0,0.0,0.0,2017-12-07
+150,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.15,138.0,1.0,0.15,0.0,0.0,0.0,0.0,2017-12-08
+76,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.15,106.0,3.0,0.46,0.0,0.0,0.0,0.0,2017-12-09
+122,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.12,163.0,2.0,0.24,0.0,0.0,0.0,0.0,2017-12-10
+118,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.14,124.0,3.0,0.43,0.0,0.0,0.0,0.0,2017-12-11
+51,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.17,182.0,5.0,0.86,0.0,1.0,0.0,0.0,2017-12-12
+151,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.11,149.0,5.0,0.56,0.0,0.0,0.0,0.0,2017-12-13
+87,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.08,181.0,3.0,0.24,0.0,0.0,0.0,0.0,2017-12-14
+114,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.15,122.0,3.0,0.46,0.0,0.0,0.0,0.0,2017-12-15
+72,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.13,184.0,5.0,0.64,1.0,1.0,109.8,109.8,2017-12-16
+126,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.14,188.0,3.0,0.41,0.0,0.0,0.0,0.0,2017-12-17
+31,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.14,81.0,2.0,0.29,0.0,0.0,0.0,0.0,2017-12-18
+30,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.18,0.15,81.0,2.0,0.3,0.0,0.0,0.0,0.0,2017-12-18
+0,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.18,0.0,80.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-19
+1,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.0,49.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-19
+98,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.12,97.0,2.0,0.24,0.0,0.0,0.0,0.0,2017-12-20
+99,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.18,0.0,55.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-20
+85,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.13,136.0,2.0,0.26,0.0,0.0,0.0,0.0,2017-12-21
+83,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.0,78.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-22
+100,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.15,93.0,2.0,0.3,0.0,0.0,0.0,0.0,2017-12-23
+134,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.14,79.0,3.0,0.42,0.0,0.0,0.0,0.0,2017-12-24
+94,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.12,108.0,1.0,0.12,0.0,0.0,0.0,0.0,2017-12-25
+47,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.13,153.0,4.0,0.52,0.0,0.0,0.0,0.0,2017-12-26
+101,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.2,150.0,2.0,0.41,0.0,0.0,0.0,0.0,2017-12-27
+113,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.12,194.0,2.0,0.24,0.0,0.0,0.0,0.0,2017-12-28
+136,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.14,173.0,2.0,0.29,0.0,0.0,0.0,0.0,2017-12-29
+39,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.0,68.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-30
+96,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,2017-12-31
+470,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-01
+53,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.01,118.0,2.0,0.02,0.0,0.0,0.0,0.0,2018-01-02
+61,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.14,151.0,4.0,0.54,0.0,0.0,0.0,0.0,2018-01-03
+119,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.18,143.0,1.0,0.18,0.0,0.0,0.0,0.0,2018-01-04
+112,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.12,78.0,1.0,0.12,0.0,0.0,0.0,0.0,2018-01-05
+110,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.14,143.0,6.0,0.81,0.0,0.0,0.0,0.0,2018-01-06
+35,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.01,12.0,1.0,0.01,0.0,0.0,0.0,0.0,2018-01-07
+104,82462.0,jardín y exterior,muebles de jardín y terraza,60.0,0.15,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-08
+105,82462.0,jardín y exterior,muebles de jardín y terraza,50.0,0.15,0.1,71.0,2.0,0.2,0.0,0.0,0.0,0.0,2018-01-08
+128,82462.0,jardín y exterior,muebles de jardín y terraza,50.0,0.15,0.14,96.0,2.0,0.29,0.0,0.0,0.0,0.0,2018-01-09
+65,82462.0,jardín y exterior,muebles de jardín y terraza,50.0,0.15,0.12,125.0,4.0,0.5,0.0,0.0,0.0,0.0,2018-01-10
+142,82462.0,jardín y exterior,muebles de jardín y terraza,50.0,0.15,0.1,133.0,1.0,0.1,0.0,0.0,0.0,0.0,2018-01-11
+67,82462.0,jardín y exterior,muebles de jardín y terraza,50.0,0.15,0.11,155.0,8.0,0.9,0.0,0.0,0.0,0.0,2018-01-12
+140,82462.0,jardín y exterior,muebles de jardín y terraza,50.0,0.15,0.12,195.0,7.0,0.87,0.0,0.0,0.0,0.0,2018-01-13
+123,82462.0,jardín y exterior,muebles de jardín y terraza,50.0,0.15,0.12,356.0,12.0,1.38,0.0,0.0,0.0,0.0,2018-01-14
+106,82462.0,jardín y exterior,muebles de jardín y terraza,50.0,0.15,0.12,400.0,8.0,0.95,0.0,0.0,0.0,0.0,2018-01-15
+89,82462.0,jardín y exterior,muebles de jardín y terraza,50.0,0.51,0.16,564.0,14.0,2.23,0.0,0.0,0.0,0.0,2018-01-16
+88,82462.0,jardín y exterior,muebles de jardín y terraza,50.0,0.15,0.13,130.0,1.0,0.13,0.0,0.0,0.0,0.0,2018-01-16
+70,82462.0,jardín y exterior,muebles de jardín y terraza,50.0,0.51,0.18,664.0,23.0,4.03,0.0,0.0,0.0,0.0,2018-01-17
+57,82462.0,jardín y exterior,muebles de jardín y terraza,50.0,0.51,0.17,749.0,23.0,3.95,0.0,0.0,0.0,0.0,2018-01-18
+56,82462.0,jardín y exterior,muebles de jardín y terraza,50.0,0.15,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-18
+36,82462.0,jardín y exterior,muebles de jardín y terraza,50.0,0.51,0.17,839.0,13.0,2.26,0.0,0.0,0.0,0.0,2018-01-19
+11,82462.0,jardín y exterior,muebles de jardín y terraza,50.0,0.51,0.2,702.0,12.0,2.35,0.0,1.0,0.0,0.0,2018-01-20
+146,82462.0,jardín y exterior,muebles de jardín y terraza,50.0,0.51,0.18,1053.0,20.0,3.66,0.0,0.0,0.0,0.0,2018-01-21
+2,82462.0,jardín y exterior,muebles de jardín y terraza,50.0,0.51,0.0,39.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-22
+3,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.4,0.19,398.0,7.0,1.33,0.0,0.0,0.0,0.0,2018-01-22
+4,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.15,0.1,140.0,2.0,0.21,0.0,0.0,0.0,0.0,2018-01-22
+9,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.15,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-23
+10,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,10.0,0.15,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-23
+8,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,10.0,0.4,0.2,524.0,19.0,3.77,0.0,0.0,0.0,0.0,2018-01-23
+7,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.4,0.0,180.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-23
+15,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,10.0,0.4,0.17,246.0,6.0,1.0,0.0,0.0,0.0,0.0,2018-01-24
+14,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.4,0.18,856.0,17.0,3.03,0.0,0.0,0.0,0.0,2018-01-24
+17,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.15,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-24
+16,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,10.0,0.15,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-24
+44,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.15,0.22,8.0,1.0,0.22,0.0,0.0,0.0,0.0,2018-01-25
+43,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.4,0.19,815.0,8.0,1.55,0.0,1.0,0.0,0.0,2018-01-25
+33,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.4,0.19,947.0,23.0,4.31,0.0,0.0,0.0,0.0,2018-01-26
+34,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.15,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-26
+18,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.15,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-27
+19,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.4,0.17,1181.0,26.0,4.45,0.0,0.0,0.0,0.0,2018-01-27
+41,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.15,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-28
+40,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.4,0.18,1394.0,25.0,4.49,0.0,0.0,0.0,0.0,2018-01-28
+143,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.4,0.18,245.0,3.0,0.55,0.0,0.0,0.0,0.0,2018-01-29
+144,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.15,0.11,328.0,5.0,0.54,0.0,0.0,0.0,0.0,2018-01-29
+24,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.15,0.1,221.0,3.0,0.3,0.0,0.0,0.0,0.0,2018-01-30
+23,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.4,0.21,181.0,2.0,0.42,0.0,0.0,0.0,0.0,2018-01-30
+6,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.15,0.1,264.0,6.0,0.62,0.0,0.0,0.0,0.0,2018-01-31
+5,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.4,0.16,194.0,5.0,0.79,0.0,0.0,0.0,0.0,2018-01-31
+147,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.15,0.1,259.0,1.0,0.1,0.0,0.0,0.0,0.0,2018-02-01
+148,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.4,0.17,211.0,8.0,1.34,0.0,0.0,0.0,0.0,2018-02-01
+21,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.15,0.09,74.0,4.0,0.36,0.0,0.0,0.0,0.0,2018-02-02
+20,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.4,0.19,493.0,6.0,1.15,0.0,0.0,0.0,0.0,2018-02-02
+37,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.4,0.18,532.0,13.0,2.34,0.0,0.0,0.0,0.0,2018-02-03
+38,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.15,0.14,101.0,3.0,0.43,0.0,1.0,0.0,0.0,2018-02-03
+25,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.15,0.1,135.0,1.0,0.1,0.0,0.0,0.0,0.0,2018-02-04
+26,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.4,0.19,564.0,11.0,2.13,0.0,0.0,0.0,0.0,2018-02-04
+217,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.15,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-05
+218,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.15,0.15,53.0,1.0,0.15,0.0,0.0,0.0,0.0,2018-02-05
+215,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.4,0.18,187.0,6.0,1.09,0.0,0.0,0.0,0.0,2018-02-05
+216,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.4,0.22,1032.0,22.0,4.85,0.0,0.0,0.0,0.0,2018-02-05
+273,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.4,0.2,494.0,12.0,2.39,0.0,0.0,0.0,0.0,2018-02-06
+275,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.15,0.0,57.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-06
+272,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.4,0.25,277.0,1.0,0.25,0.0,0.0,0.0,0.0,2018-02-06
+274,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.15,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-06
+228,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.15,0.14,62.0,1.0,0.14,0.0,0.0,0.0,0.0,2018-02-07
+227,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.4,0.19,735.0,8.0,1.54,0.0,0.0,0.0,0.0,2018-02-07
+219,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.4,0.17,632.0,9.0,1.55,0.0,0.0,0.0,0.0,2018-02-08
+220,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.15,0.15,40.0,1.0,0.15,0.0,0.0,0.0,0.0,2018-02-08
+270,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.4,0.17,678.0,10.0,1.7,0.0,0.0,0.0,0.0,2018-02-09
+271,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.15,0.1,24.0,2.0,0.2,0.0,0.0,0.0,0.0,2018-02-09
+238,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.4,0.2,599.0,14.0,2.79,0.0,0.0,0.0,0.0,2018-02-10
+239,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.15,0.0,41.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-10
+233,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.4,0.2,633.0,16.0,3.17,0.0,0.0,0.0,0.0,2018-02-11
+234,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.15,0.09,156.0,3.0,0.28,0.0,0.0,0.0,0.0,2018-02-11
+365,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.15,0.22,143.0,1.0,0.22,0.0,0.0,0.0,0.0,2018-02-12
+364,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.4,0.2,661.0,10.0,2.03,0.0,0.0,0.0,0.0,2018-02-12
+165,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.15,0.1,141.0,2.0,0.19,0.0,0.0,0.0,0.0,2018-02-13
+164,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.4,0.19,774.0,14.0,2.65,0.0,0.0,0.0,0.0,2018-02-13
+290,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.4,0.19,604.0,8.0,1.52,0.0,0.0,0.0,0.0,2018-02-14
+289,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.15,0.09,68.0,3.0,0.28,0.0,0.0,0.0,0.0,2018-02-14
+340,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.15,0.08,118.0,1.0,0.08,0.0,0.0,0.0,0.0,2018-02-15
+339,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.4,0.19,696.0,7.0,1.31,0.0,0.0,0.0,0.0,2018-02-15
+199,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.15,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-16
+198,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.4,0.19,191.0,1.0,0.19,0.0,0.0,0.0,0.0,2018-02-16
+471,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-17
+472,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-18
+193,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.15,0.09,35.0,3.0,0.27,0.0,0.0,0.0,0.0,2018-02-19
+194,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.4,0.18,606.0,7.0,1.26,0.0,0.0,0.0,0.0,2018-02-19
+243,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.15,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-20
+242,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.4,0.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-20
+473,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-21
+474,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-22
+475,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-23
+476,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-24
+477,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-25
+478,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-26
+479,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-27
+480,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-28
+481,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-01
+482,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-02
+483,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-03
+484,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-04
+485,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-05
+486,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-06
+487,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-07
+488,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-08
+489,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-09
+490,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-10
+491,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-11
+492,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-12
+493,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-13
+494,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-14
+495,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-15
+496,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-16
+497,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-17
+498,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-18
+499,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-19
+500,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-20
+501,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-21
+502,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-22
+503,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-23
+240,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.0,23.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-24
+332,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.0,58.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-25
+173,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.0,93.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-26
+331,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.17,308.0,4.0,0.67,0.0,0.0,0.0,0.0,2018-03-27
+161,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.18,311.0,2.0,0.35,0.0,0.0,0.0,0.0,2018-03-28
+379,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.18,114.0,1.0,0.18,0.0,0.0,0.0,0.0,2018-03-29
+328,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-30
+383,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.0,19.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-31
+210,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.15,80.0,3.0,0.45,0.0,0.0,0.0,0.0,2018-04-01
+299,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.18,216.0,3.0,0.54,0.0,0.0,0.0,0.0,2018-04-02
+356,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.17,327.0,2.0,0.34,0.0,0.0,0.0,0.0,2018-04-03
+212,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.12,290.0,2.0,0.24,0.0,0.0,0.0,0.0,2018-04-04
+159,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.17,227.0,1.0,0.17,0.0,0.0,0.0,0.0,2018-04-05
+191,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.18,216.0,2.0,0.35,0.0,0.0,0.0,0.0,2018-04-06
+350,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.16,220.0,2.0,0.32,0.0,0.0,0.0,0.0,2018-04-07
+172,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.18,327.0,5.0,0.88,0.0,0.0,0.0,0.0,2018-04-08
+369,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.14,271.0,2.0,0.28,0.0,0.0,0.0,0.0,2018-04-09
+317,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.15,445.0,3.0,0.46,0.0,0.0,0.0,0.0,2018-04-10
+377,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.18,522.0,3.0,0.54,0.0,0.0,0.0,0.0,2018-04-11
+335,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.18,548.0,4.0,0.72,0.0,0.0,0.0,0.0,2018-04-12
+355,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.16,562.0,3.0,0.49,0.0,0.0,0.0,0.0,2018-04-13
+192,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.18,541.0,6.0,1.07,0.0,0.0,0.0,0.0,2018-04-14
+156,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.16,518.0,6.0,0.96,0.0,0.0,0.0,0.0,2018-04-15
+226,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.18,550.0,4.0,0.72,0.0,0.0,0.0,0.0,2018-04-16
+348,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.18,500.0,2.0,0.36,0.0,0.0,0.0,0.0,2018-04-17
+373,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.17,328.0,3.0,0.52,0.0,0.0,0.0,0.0,2018-04-18
+374,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.17,362.0,3.0,0.51,0.0,0.0,0.0,0.0,2018-04-19
+360,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.18,377.0,1.0,0.18,0.0,0.0,0.0,0.0,2018-04-20
+333,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.17,203.0,1.0,0.17,0.0,0.0,0.0,0.0,2018-04-21
+259,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.17,190.0,2.0,0.34,0.0,0.0,0.0,0.0,2018-04-22
+324,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.0,306.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-04-23
+211,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.17,322.0,4.0,0.68,0.0,0.0,0.0,0.0,2018-04-24
+293,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.17,245.0,3.0,0.5,0.0,0.0,0.0,0.0,2018-04-25
+311,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.17,269.0,7.0,1.2,0.0,0.0,0.0,0.0,2018-04-26
+244,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.17,687.0,4.0,0.67,0.0,0.0,0.0,0.0,2018-04-27
+382,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.16,693.0,11.0,1.74,0.0,0.0,0.0,0.0,2018-04-28
+287,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.14,750.0,8.0,1.14,0.0,0.0,0.0,0.0,2018-04-29
+309,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.16,538.0,4.0,0.65,0.0,0.0,0.0,0.0,2018-04-30
+188,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.18,734.0,2.0,0.36,0.0,0.0,0.0,0.0,2018-05-01
+381,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.16,765.0,5.0,0.8,0.0,0.0,0.0,0.0,2018-05-02
+180,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.18,321.0,4.0,0.7,0.0,0.0,0.0,0.0,2018-05-03
+196,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.15,719.0,5.0,0.76,0.0,0.0,0.0,0.0,2018-05-04
+260,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.1,278.0,3.0,0.31,0.0,0.0,0.0,0.0,2018-05-05
+342,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.12,326.0,2.0,0.23,0.0,0.0,0.0,0.0,2018-05-06
+266,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.18,219.0,5.0,0.9,0.0,0.0,0.0,0.0,2018-05-07
+154,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.17,390.0,3.0,0.52,0.0,0.0,0.0,0.0,2018-05-08
+361,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.16,394.0,2.0,0.33,0.0,0.0,0.0,0.0,2018-05-09
+229,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.18,313.0,5.0,0.88,0.0,0.0,0.0,0.0,2018-05-10
+282,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.12,400.0,2.0,0.25,0.0,0.0,0.0,0.0,2018-05-11
+214,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.18,359.0,1.0,0.18,0.0,0.0,0.0,0.0,2018-05-12
+204,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.0,204.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-13
+170,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.18,287.0,2.0,0.36,0.0,0.0,0.0,0.0,2018-05-14
+152,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.16,281.0,1.0,0.16,0.0,0.0,0.0,0.0,2018-05-15
+314,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.18,515.0,7.0,1.24,0.0,0.0,0.0,0.0,2018-05-16
+203,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.18,731.0,10.0,1.77,0.0,0.0,0.0,0.0,2018-05-17
+351,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.16,725.0,12.0,1.88,0.0,0.0,0.0,0.0,2018-05-18
+366,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.18,1335.0,20.0,3.53,0.0,0.0,0.0,0.0,2018-05-19
+157,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.17,2351.0,23.0,4.02,0.0,0.0,0.0,0.0,2018-05-20
+269,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.18,1141.0,11.0,1.94,0.0,0.0,0.0,0.0,2018-05-21
+370,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.17,1411.0,16.0,2.73,0.0,0.0,0.0,0.0,2018-05-22
+298,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.18,762.0,2.0,0.35,0.0,0.0,0.0,0.0,2018-05-23
+367,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.18,700.0,5.0,0.89,0.0,0.0,0.0,0.0,2018-05-24
+285,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.02,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-05-25
+284,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.17,1072.0,5.0,0.85,0.0,0.0,0.0,0.0,2018-05-25
+375,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.18,1126.0,5.0,0.88,0.0,0.0,0.0,0.0,2018-05-26
+327,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.18,1327.0,12.0,2.11,0.0,0.0,0.0,0.0,2018-05-27
+256,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.17,1115.0,9.0,1.56,0.0,0.0,0.0,0.0,2018-05-28
+326,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.2,0.18,285.0,1.0,0.18,0.0,0.0,0.0,0.0,2018-05-29
+325,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.18,916.0,8.0,1.41,0.0,0.0,0.0,0.0,2018-05-29
+267,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.11,1052.0,3.0,0.34,0.0,0.0,0.0,0.0,2018-05-30
+319,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.17,898.0,8.0,1.38,0.0,0.0,0.0,0.0,2018-05-31
+372,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.12,783.0,10.0,1.16,0.0,0.0,0.0,0.0,2018-06-01
+178,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.02,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-02
+177,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.17,711.0,11.0,1.92,0.0,0.0,0.0,0.0,2018-06-02
+280,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.14,1257.0,19.0,2.75,0.0,0.0,0.0,0.0,2018-06-03
+281,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.02,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-03
+168,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.02,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-06-04
+167,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.17,1238.0,17.0,2.88,0.0,0.0,0.0,0.0,2018-06-04
+207,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.16,1281.0,13.0,2.09,0.0,0.0,0.0,0.0,2018-06-05
+330,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.16,1295.0,12.0,1.89,0.0,0.0,0.0,0.0,2018-06-06
+174,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.14,1505.0,10.0,1.36,0.0,0.0,0.0,0.0,2018-06-07
+291,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.14,303.0,4.0,0.57,0.0,0.0,0.0,0.0,2018-06-08
+265,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.12,1254.0,9.0,1.1,0.0,0.0,0.0,0.0,2018-06-09
+250,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.17,2370.0,26.0,4.43,0.0,0.0,0.0,0.0,2018-06-10
+179,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.18,2030.0,10.0,1.75,0.0,0.0,0.0,0.0,2018-06-11
+286,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.16,1692.0,16.0,2.55,0.0,0.0,0.0,0.0,2018-06-12
+166,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.15,1687.0,12.0,1.84,0.0,0.0,0.0,0.0,2018-06-13
+316,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.17,1787.0,21.0,3.53,0.0,0.0,0.0,0.0,2018-06-14
+288,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.18,1728.0,8.0,1.41,0.0,0.0,0.0,0.0,2018-06-15
+336,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.17,1946.0,20.0,3.41,0.0,0.0,0.0,0.0,2018-06-16
+183,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.17,2923.0,24.0,4.02,0.0,0.0,0.0,0.0,2018-06-17
+187,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.15,2257.0,24.0,3.68,0.0,0.0,0.0,0.0,2018-06-18
+283,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.16,1901.0,15.0,2.35,0.0,0.0,0.0,0.0,2018-06-19
+329,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.2,2776.0,18.0,3.64,0.0,0.0,0.0,0.0,2018-06-20
+249,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.2,2398.0,23.0,4.53,0.0,0.0,0.0,0.0,2018-06-21
+353,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.2,1917.0,22.0,4.31,0.0,0.0,0.0,0.0,2018-06-22
+186,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.19,2260.0,23.0,4.33,0.0,0.0,0.0,0.0,2018-06-23
+312,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.2,3412.0,29.0,5.9,0.0,0.0,0.0,0.0,2018-06-24
+307,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.2,2974.0,27.0,5.42,0.0,0.0,0.0,0.0,2018-06-25
+313,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.19,2969.0,31.0,5.9,0.0,0.0,0.0,0.0,2018-06-26
+245,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.21,2956.0,23.0,4.84,0.0,0.0,0.0,0.0,2018-06-27
+345,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.21,2553.0,21.0,4.35,0.0,0.0,0.0,0.0,2018-06-28
+201,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.2,2280.0,19.0,3.88,0.0,0.0,0.0,0.0,2018-06-29
+368,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.2,3496.0,37.0,7.56,0.0,0.0,0.0,0.0,2018-06-30
+334,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.2,4983.0,50.0,9.85,0.0,0.0,0.0,0.0,2018-07-01
+200,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.2,3695.0,25.0,5.12,0.0,0.0,0.0,0.0,2018-07-02
+153,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.19,2672.0,17.0,3.26,0.0,0.0,0.0,0.0,2018-07-03
+158,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.18,2384.0,15.0,2.69,0.0,1.0,0.0,0.0,2018-07-04
+320,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.2,2432.0,18.0,3.62,0.0,0.0,0.0,0.0,2018-07-05
+248,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.2,2405.0,23.0,4.66,0.0,0.0,0.0,0.0,2018-07-06
+295,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.19,3144.0,26.0,4.88,0.0,0.0,0.0,0.0,2018-07-07
+235,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.2,3794.0,44.0,8.63,0.0,0.0,0.0,0.0,2018-07-08
+346,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.2,3707.0,34.0,6.89,0.0,0.0,0.0,0.0,2018-07-09
+300,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.21,3346.0,26.0,5.4,0.0,0.0,0.0,0.0,2018-07-10
+308,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.22,2003.0,15.0,3.27,0.0,0.0,0.0,0.0,2018-07-11
+160,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.21,1897.0,22.0,4.64,0.0,0.0,0.0,0.0,2018-07-12
+306,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.22,1688.0,16.0,3.51,0.0,0.0,0.0,0.0,2018-07-13
+195,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.21,2140.0,20.0,4.19,0.0,0.0,0.0,0.0,2018-07-14
+237,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.2,2668.0,25.0,5.1,0.0,0.0,0.0,0.0,2018-07-15
+255,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.2,2122.0,20.0,3.95,0.0,1.0,0.0,0.0,2018-07-16
+304,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.2,2408.0,19.0,3.73,0.0,0.0,0.0,0.0,2018-07-17
+278,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.21,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-07-18
+277,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.2,2125.0,16.0,3.15,0.0,1.0,0.0,0.0,2018-07-18
+169,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.23,1936.0,12.0,2.78,0.0,0.0,0.0,0.0,2018-07-19
+359,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.2,1805.0,13.0,2.55,0.0,1.0,0.0,0.0,2018-07-20
+358,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.21,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-07-20
+251,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.19,1932.0,14.0,2.68,0.0,0.0,0.0,0.0,2018-07-21
+231,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.21,2582.0,11.0,2.26,0.0,0.0,0.0,0.0,2018-07-22
+232,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.21,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-07-22
+262,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.19,2124.0,15.0,2.82,0.0,1.0,0.0,0.0,2018-07-23
+263,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.21,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-07-23
+241,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.25,1904.0,19.0,4.81,0.0,0.0,0.0,0.0,2018-07-24
+247,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.3,1858.0,4.0,1.19,0.0,0.0,0.0,0.0,2018-07-25
+352,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.2,1673.0,8.0,1.58,0.0,0.0,0.0,0.0,2018-07-26
+296,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.25,1732.0,17.0,4.27,0.0,0.0,0.0,0.0,2018-07-27
+257,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.23,2513.0,21.0,4.89,0.0,1.0,0.0,0.0,2018-07-28
+337,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.24,3256.0,18.0,4.36,0.0,0.0,0.0,0.0,2018-07-29
+189,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.29,2746.0,19.0,5.54,0.0,0.0,0.0,0.0,2018-07-30
+357,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.32,2881.0,35.0,11.22,1.0,2.0,219.6,219.6,2018-07-31
+185,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.27,2668.0,17.0,4.66,0.0,0.0,0.0,0.0,2018-08-01
+253,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.29,2892.0,19.0,5.51,0.0,0.0,0.0,0.0,2018-08-02
+268,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.26,2475.0,18.0,4.73,0.0,0.0,0.0,0.0,2018-08-03
+302,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.27,2482.0,18.0,4.87,0.0,0.0,0.0,0.0,2018-08-04
+236,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.28,2655.0,23.0,6.34,0.0,0.0,0.0,0.0,2018-08-05
+344,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.25,2488.0,18.0,4.55,1.0,1.0,219.6,219.6,2018-08-06
+378,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.29,2920.0,19.0,5.49,0.0,0.0,0.0,0.0,2018-08-07
+292,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.28,2554.0,21.0,5.84,0.0,0.0,0.0,0.0,2018-08-08
+175,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.28,2397.0,24.0,6.69,0.0,0.0,0.0,0.0,2018-08-09
+341,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.25,2223.0,24.0,6.1,1.0,2.0,54.9,54.9,2018-08-10
+197,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.25,2526.0,26.0,6.61,0.0,1.0,0.0,0.0,2018-08-11
+209,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.27,2866.0,16.0,4.27,0.0,1.0,0.0,0.0,2018-08-12
+222,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.26,2603.0,23.0,6.06,0.0,0.0,0.0,0.0,2018-08-13
+264,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.29,2547.0,36.0,10.32,1.0,2.0,219.6,219.6,2018-08-14
+184,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.27,2732.0,41.0,11.24,1.0,3.0,219.6,219.6,2018-08-15
+380,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.26,2721.0,36.0,9.47,0.0,0.0,0.0,0.0,2018-08-16
+322,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.28,2533.0,22.0,6.2,0.0,0.0,0.0,0.0,2018-08-17
+349,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.26,2529.0,21.0,5.46,0.0,0.0,0.0,0.0,2018-08-18
+321,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.25,3259.0,25.0,6.14,0.0,0.0,0.0,0.0,2018-08-19
+310,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.28,2931.0,33.0,9.14,0.0,0.0,0.0,0.0,2018-08-20
+338,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.3,3043.0,25.0,7.53,0.0,0.0,0.0,0.0,2018-08-21
+224,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.3,2530.0,32.0,9.51,0.0,0.0,0.0,0.0,2018-08-22
+294,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.26,3348.0,36.0,9.29,0.0,0.0,0.0,0.0,2018-08-23
+213,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.24,2947.0,24.0,5.74,0.0,0.0,0.0,0.0,2018-08-24
+163,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.25,2829.0,21.0,5.26,0.0,0.0,0.0,0.0,2018-08-25
+363,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.25,3336.0,29.0,7.25,0.0,0.0,0.0,0.0,2018-08-26
+162,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.27,3117.0,38.0,10.13,0.0,0.0,0.0,0.0,2018-08-27
+303,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.28,3392.0,32.0,9.0,0.0,0.0,0.0,0.0,2018-08-28
+343,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.28,3487.0,29.0,7.98,0.0,0.0,0.0,0.0,2018-08-29
+205,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.27,2960.0,29.0,7.84,0.0,0.0,0.0,0.0,2018-08-30
+190,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.27,2797.0,24.0,6.43,0.0,0.0,0.0,0.0,2018-08-31
+261,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.26,3372.0,33.0,8.55,0.0,0.0,0.0,0.0,2018-09-01
+276,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.27,3115.0,15.0,4.1,0.0,0.0,0.0,0.0,2018-09-02
+305,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.26,2110.0,24.0,6.34,0.0,0.0,0.0,0.0,2018-09-03
+230,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.32,2713.0,21.0,6.82,0.0,0.0,0.0,0.0,2018-09-04
+246,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.26,2292.0,15.0,3.88,0.0,0.0,0.0,0.0,2018-09-05
+279,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.26,2175.0,15.0,3.84,0.0,0.0,0.0,0.0,2018-09-06
+176,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.24,1718.0,17.0,4.06,0.0,0.0,0.0,0.0,2018-09-07
+318,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.24,2223.0,23.0,5.58,0.0,0.0,0.0,0.0,2018-09-08
+181,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.25,3026.0,28.0,6.88,0.0,0.0,0.0,0.0,2018-09-09
+254,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.25,2128.0,21.0,5.15,0.0,0.0,0.0,0.0,2018-09-10
+301,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.26,2373.0,21.0,5.47,0.5,0.5,109.8,109.8,2018-09-11
+171,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.24,1918.0,9.0,2.12,0.0,0.0,0.0,0.0,2018-09-12
+323,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.29,1692.0,12.0,3.53,0.0,0.0,0.0,0.0,2018-09-13
+155,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.24,1664.0,20.0,4.85,0.0,0.0,0.0,0.0,2018-09-14
+297,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.27,2340.0,8.0,2.17,0.0,0.0,0.0,0.0,2018-09-15
+252,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.29,2268.0,14.0,4.06,0.5,0.5,109.8,109.8,2018-09-16
+376,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.27,1857.0,16.0,4.27,0.0,0.0,0.0,0.0,2018-09-17
+371,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.33,1554.0,11.0,3.63,0.0,0.0,0.0,0.0,2018-09-18
+362,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.27,1387.0,13.0,3.52,0.0,0.0,0.0,0.0,2018-09-19
+354,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.27,1419.0,13.0,3.54,0.0,0.0,0.0,0.0,2018-09-20
+208,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.31,1376.0,13.0,3.97,0.0,0.0,0.0,0.0,2018-09-21
+225,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.28,1861.0,15.0,4.21,0.0,0.0,0.0,0.0,2018-09-22
+202,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.27,2316.0,23.0,6.3,0.0,0.0,0.0,0.0,2018-09-23
+315,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.27,2263.0,19.0,5.12,0.0,0.0,0.0,0.0,2018-09-24
+223,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.38,1830.0,12.0,4.59,0.0,0.0,0.0,0.0,2018-09-25
+258,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.29,1564.0,10.0,2.92,0.0,0.0,0.0,0.0,2018-09-26
+206,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.31,1435.0,11.0,3.36,0.0,0.0,0.0,0.0,2018-09-27
+221,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.26,1220.0,15.0,3.95,0.0,0.0,0.0,0.0,2018-09-28
+347,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.29,1586.0,10.0,2.92,0.0,1.0,0.0,0.0,2018-09-29
+182,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.29,2013.0,14.0,4.04,0.0,0.0,0.0,0.0,2018-09-30
+403,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.31,1681.0,7.0,2.14,0.0,0.0,0.0,0.0,2018-10-01
+431,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.35,1385.0,11.0,3.83,0.0,0.0,0.0,0.0,2018-10-02
+393,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.29,1355.0,18.0,5.24,0.0,0.0,0.0,0.0,2018-10-03
+387,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.25,1500.0,9.0,2.23,0.0,0.0,0.0,0.0,2018-10-04
+423,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.31,1559.0,13.0,4.03,0.0,0.0,0.0,0.0,2018-10-05
+390,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.27,1974.0,17.0,4.58,0.0,0.0,0.0,0.0,2018-10-06
+429,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.3,2076.0,18.0,5.4,0.0,0.0,0.0,0.0,2018-10-07
+409,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.32,1807.0,17.0,5.43,0.0,0.0,0.0,0.0,2018-10-08
+428,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.36,2047.0,20.0,7.29,0.0,0.0,0.0,0.0,2018-10-09
+398,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.34,1484.0,12.0,4.06,0.0,0.0,0.0,0.0,2018-10-10
+432,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.23,1322.0,11.0,2.55,0.0,0.0,0.0,0.0,2018-10-11
+389,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.3,1568.0,10.0,3.05,0.0,0.0,0.0,0.0,2018-10-12
+400,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.25,1836.0,16.0,3.97,0.0,0.0,0.0,0.0,2018-10-13
+402,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.4,2087.0,10.0,4.0,0.0,0.0,0.0,0.0,2018-10-14
+414,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.29,1453.0,9.0,2.63,0.0,0.0,0.0,0.0,2018-10-15
+438,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.3,1343.0,9.0,2.69,0.0,0.0,0.0,0.0,2018-10-16
+439,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.26,1171.0,13.0,3.35,0.0,0.0,0.0,0.0,2018-10-17
+401,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.24,1239.0,12.0,2.87,0.0,0.0,0.0,0.0,2018-10-18
+404,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.0,1113.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-19
+416,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.24,1329.0,10.0,2.43,0.0,1.0,0.0,0.0,2018-10-20
+417,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.27,1863.0,19.0,5.17,0.0,0.0,0.0,0.0,2018-10-21
+415,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.26,1333.0,14.0,3.65,0.0,0.0,0.0,0.0,2018-10-22
+413,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.27,1166.0,11.0,3.01,0.0,0.0,0.0,0.0,2018-10-23
+425,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.26,1184.0,5.0,1.31,0.0,0.0,0.0,0.0,2018-10-24
+433,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.25,1097.0,5.0,1.26,0.0,0.0,0.0,0.0,2018-10-25
+434,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.27,1078.0,2.0,0.54,0.0,0.0,0.0,0.0,2018-10-26
+435,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.27,1110.0,9.0,2.44,0.0,0.0,0.0,0.0,2018-10-27
+406,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.25,1221.0,7.0,1.78,0.0,0.0,0.0,0.0,2018-10-28
+396,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.28,795.0,6.0,1.68,0.0,0.0,0.0,0.0,2018-10-29
+424,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.23,714.0,10.0,2.29,0.0,0.0,0.0,0.0,2018-10-30
+410,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.28,699.0,6.0,1.66,0.0,0.0,0.0,0.0,2018-10-31
+418,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.26,1136.0,16.0,4.15,0.0,0.0,0.0,0.0,2018-11-01
+399,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.36,997.0,4.0,1.44,0.0,0.0,0.0,0.0,2018-11-02
+436,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.24,1142.0,5.0,1.18,0.0,0.0,0.0,0.0,2018-11-03
+430,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.26,1490.0,12.0,3.1,0.0,1.0,0.0,0.0,2018-11-04
+388,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.22,1247.0,8.0,1.77,0.0,0.0,0.0,0.0,2018-11-05
+405,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.27,1109.0,4.0,1.08,0.0,0.0,0.0,0.0,2018-11-06
+422,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.27,1244.0,11.0,3.02,0.0,0.0,0.0,0.0,2018-11-07
+386,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.24,1191.0,5.0,1.18,0.0,1.0,0.0,16.1,2018-11-08
+395,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.0,143.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-09
+504,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-10
+505,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-11
+506,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-12
+507,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-13
+508,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-14
+509,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-15
+510,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-16
+511,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-17
+512,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-18
+513,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-19
+514,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-20
+515,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-21
+516,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-22
+517,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-23
+518,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-24
+519,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-25
+520,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-26
+521,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-27
+522,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-28
+523,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-29
+524,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-30
+525,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-01
+526,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-02
+527,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-03
+528,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-04
+529,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-05
+530,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-06
+531,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-07
+532,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-08
+533,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-09
+534,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-10
+535,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-11
+536,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-12
+537,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-13
+538,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-14
+539,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-15
+540,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-16
+541,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-17
+542,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-18
+543,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-19
+544,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-20
+545,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-21
+546,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-22
+547,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-23
+548,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-24
+549,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-25
+550,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-26
+551,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-27
+552,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-28
+553,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-29
+554,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-30
+555,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-31
+556,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-01
+557,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-02
+558,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-03
+559,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-04
+560,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-05
+561,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-06
+385,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.26,2084.0,14.0,3.61,0.0,0.0,0.0,0.0,2019-01-07
+420,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,50.0,0.18,0.0,794.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-08
+419,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.18,0.26,432.0,3.0,0.79,0.0,0.0,0.0,0.0,2019-01-08
+562,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-09
+563,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-10
+564,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-11
+565,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-12
+566,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-13
+567,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-14
+568,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-15
+569,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-16
+570,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-17
+571,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-18
+572,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-19
+573,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-20
+574,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-21
+575,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-22
+576,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-23
+577,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-24
+578,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-25
+579,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-26
+580,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-27
+581,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-28
+582,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-29
+583,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-30
+584,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-31
+585,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-01
+586,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-02
+587,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-03
+588,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-04
+589,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-05
+590,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-06
+591,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-07
+592,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-08
+593,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-09
+594,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-10
+595,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-11
+596,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-12
+597,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-13
+598,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-14
+599,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-15
+600,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-16
+601,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-17
+602,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-18
+603,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-19
+604,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-20
+605,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-21
+606,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-22
+607,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-23
+608,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-24
+609,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-25
+610,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-26
+611,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-27
+612,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-28
+613,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-01
+614,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-02
+615,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-03
+616,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-04
+617,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-05
+618,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-06
+619,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-07
+620,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-08
+621,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-09
+622,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-10
+623,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-11
+624,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-12
+625,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-13
+626,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-14
+627,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-15
+628,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-16
+629,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-17
+630,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-18
+384,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.25,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-19
+407,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.25,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-20
+421,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.25,0.24,34.0,1.0,0.24,0.0,0.0,0.0,0.0,2019-03-21
+427,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.25,0.0,21.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-22
+397,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.25,0.0,33.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-23
+437,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.25,0.16,42.0,1.0,0.16,0.0,0.0,0.0,0.0,2019-03-24
+426,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.25,0.0,36.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-25
+391,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.25,0.29,46.0,1.0,0.29,0.0,0.0,0.0,0.0,2019-03-26
+394,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.25,0.0,57.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-27
+392,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.25,0.0,63.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-28
+411,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.25,0.0,49.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-29
+408,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.25,0.28,805.0,10.0,2.84,0.0,0.0,0.0,0.0,2019-03-30
+412,82462.0,jardín y terraza,sillas y sillones de jardín y terraza,60.0,0.25,0.0,60.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-31
