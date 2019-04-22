@@ -142,12 +142,12 @@
 1,8146000.0,jardín y exterior,playa y camping,30.0,0.18,0.1,10.0,1.0,0.1,0.0,0.0,0.0,0.0,2018-01-20
 3,8146000.0,jardín y exterior,playa y camping,30.0,0.18,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-21
 6,8146000.0,jardín y exterior,playa y camping,30.0,0.18,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-22
-4,8146000.0,playa y camping,cenadores y gazebos plegables,30.0,0.15,0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-22
-5,8146000.0,playa y camping,cenadores y gazebos plegables,30.0,0.15,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-22
+4,8146000.0,playa y camping,cenadores y gazebos plegables,30.0,0.15,0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,
+5,8146000.0,playa y camping,cenadores y gazebos plegables,30.0,0.15,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,
 17,8146000.0,playa y camping,cenadores y gazebos plegables,10.0,0.15,0.14,17.0,1.0,0.14,0.0,0.0,0.0,0.0,2018-01-23
-16,8146000.0,playa y camping,cenadores y gazebos plegables,30.0,0.15,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-23
+16,8146000.0,playa y camping,cenadores y gazebos plegables,30.0,0.15,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,
 12,8146000.0,playa y camping,cenadores y gazebos plegables,30.0,0.15,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-24
-11,8146000.0,playa y camping,cenadores y gazebos plegables,10.0,0.15,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-24
+11,8146000.0,playa y camping,cenadores y gazebos plegables,10.0,0.15,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,
 7,8146000.0,playa y camping,cenadores y gazebos plegables,30.0,0.15,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-25
 413,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-26
 8,8146000.0,playa y camping,cenadores y gazebos plegables,30.0,0.15,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-27
@@ -177,7 +177,7 @@
 229,8146000.0,playa y camping,cenadores y gazebos plegables,30.0,0.15,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-20
 200,8146000.0,playa y camping,cenadores y gazebos plegables,30.0,0.15,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-21
 223,8146000.0,playa y camping,cenadores y gazebos plegables,30.0,0.15,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-22
-222,8146000.0,playa y camping,cenadores y gazebos plegables,30.0,0.15,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-22
+222,8146000.0,playa y camping,cenadores y gazebos plegables,30.0,0.15,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,
 420,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-23
 220,8146000.0,playa y camping,cenadores y gazebos plegables,30.0,0.15,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-24
 421,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-25
@@ -206,7 +206,7 @@
 228,8146000.0,playa y camping,cenadores y gazebos plegables,30.0,0.15,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-20
 162,8146000.0,playa y camping,cenadores y gazebos plegables,30.0,0.15,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-21
 216,8146000.0,playa y camping,cenadores y gazebos plegables,30.0,0.2,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-22
-217,8146000.0,playa y camping,cenadores y gazebos plegables,30.0,0.15,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-22
+217,8146000.0,playa y camping,cenadores y gazebos plegables,30.0,0.15,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,
 38,8146000.0,playa y camping,cenadores y gazebos plegables,30.0,0.2,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-23
 180,8146000.0,playa y camping,cenadores y gazebos plegables,30.0,0.2,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-24
 429,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-03-25
@@ -311,7 +311,7 @@
 84,8146000.0,playa y camping,cenadores y gazebos plegables,30.0,0.2,0.17,2032.0,68.0,11.66,1.0,1.0,31.9,31.9,2018-07-02
 130,8146000.0,playa y camping,cenadores y gazebos plegables,30.0,0.2,0.17,3390.0,108.0,18.25,0.0,0.0,0.0,0.0,2018-07-03
 73,8146000.0,playa y camping,cenadores y gazebos plegables,30.0,0.2,0.16,778.0,20.0,3.3,1.0,1.0,29.85,29.85,2018-07-04
-72,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.2,0.18,3312.0,89.0,15.78,2.0,2.0,71.75,71.75,2018-07-04
+72,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.2,0.18,3312.0,89.0,15.78,2.0,2.0,71.75,71.75,
 190,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.2,0.18,3899.0,111.0,19.51,2.0,2.0,59.7,59.7,2018-07-05
 83,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.2,0.18,3854.0,111.0,19.52,3.0,3.0,141.89,141.89,2018-07-06
 96,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.2,0.17,3593.0,120.0,20.23,0.0,0.0,0.0,0.0,2018-07-07
@@ -326,19 +326,19 @@
 104,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.2,0.24,4117.0,103.0,25.06,0.0,0.0,0.0,0.0,2018-07-16
 22,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.2,0.25,3669.0,97.0,24.45,1.0,1.0,29.85,29.85,2018-07-17
 121,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.21,0.15,65.0,2.0,0.3,0.0,0.0,0.0,0.0,2018-07-18
-122,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.2,0.25,3490.0,99.0,24.3,1.0,3.0,29.85,29.85,2018-07-18
+122,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.2,0.25,3490.0,99.0,24.3,1.0,3.0,29.85,29.85,
 128,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.21,0.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-07-19
-127,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.2,0.24,3295.0,104.0,24.52,2.5,3.5,74.62,74.62,2018-07-19
+127,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.2,0.24,3295.0,104.0,24.52,2.5,3.5,74.62,74.62,
 50,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.2,0.22,4888.0,108.0,23.79,0.0,1.0,0.0,0.0,2018-07-20
-51,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.21,0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-07-20
+51,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.21,0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,
 29,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.21,0.0,53.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-07-21
-30,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.2,0.22,3809.0,105.0,23.58,2.33,3.33,72.21,72.21,2018-07-21
+30,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.2,0.22,3809.0,105.0,23.58,2.33,3.33,72.21,72.21,
 89,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.21,0.07,61.0,1.0,0.07,0.0,0.0,0.0,0.0,2018-07-22
-88,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.2,0.27,2902.0,83.0,22.77,0.83,1.83,25.44,25.44,2018-07-22
+88,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.2,0.27,2902.0,83.0,22.77,0.83,1.83,25.44,25.44,
 165,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.21,0.0,103.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-07-23
-164,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.2,0.29,3564.0,87.0,25.12,1.33,2.33,41.8,41.8,2018-07-23
+164,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.2,0.29,3564.0,87.0,25.12,1.33,2.33,41.8,41.8,
 57,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.21,0.0,31.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-07-24
-56,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.2,0.34,3135.0,76.0,26.14,1.0,3.0,31.85,31.85,2018-07-24
+56,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.2,0.34,3135.0,76.0,26.14,1.0,3.0,31.85,31.85,
 125,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.2,0.26,3083.0,93.0,24.48,0.0,1.0,0.0,0.0,2018-07-25
 173,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.2,0.25,3791.0,76.0,18.74,0.0,1.0,0.0,0.0,2018-07-26
 63,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.2,0.21,5112.0,102.0,21.91,1.0,1.0,29.85,29.85,2018-07-27
@@ -403,7 +403,7 @@
 149,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.2,0.19,3345.0,55.0,10.23,1.5,1.5,43.78,43.78,2018-09-24
 123,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.2,0.19,2987.0,47.0,8.75,0.5,0.5,13.43,13.43,2018-09-25
 54,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.2,0.2,3039.0,60.0,12.09,1.0,3.0,31.9,31.9,2018-09-26
-55,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.2,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-26
+55,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.2,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,
 39,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.2,0.19,2905.0,45.0,8.52,0.0,0.0,0.0,0.0,2018-09-27
 196,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.2,0.19,2540.0,61.0,11.32,2.0,3.0,53.72,53.72,2018-09-28
 86,8146000.0,playa y camping,cenadores y gazebos plegables,40.0,0.2,0.18,2791.0,60.0,10.58,0.0,0.0,0.0,0.0,2018-09-29

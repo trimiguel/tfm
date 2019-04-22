@@ -142,12 +142,12 @@
 21,90953.0,muebles,mueble auxiliar,200.0,0.23,0.25,1423.0,26.0,6.55,0.0,1.0,0.0,0.0,2018-01-20
 3,90953.0,muebles,mueble auxiliar,200.0,0.23,0.22,1987.0,34.0,7.31,1.0,3.0,252.0,252.0,2018-01-21
 17,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.23,0.15,317.0,7.0,1.06,0.0,0.0,0.0,0.0,2018-01-22
-18,90953.0,muebles,mueble auxiliar,200.0,0.23,0.24,114.0,1.0,0.24,0.0,0.0,0.0,0.0,2018-01-22
-19,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.15,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-01-22
+18,90953.0,muebles,mueble auxiliar,200.0,0.23,0.24,114.0,1.0,0.24,0.0,0.0,0.0,0.0,
+19,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.15,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,
 23,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.23,0.22,155.0,3.0,0.67,0.0,0.0,0.0,0.0,2018-01-23
-24,90953.0,muebles,"consolas, recibidores y tocadores",10.0,0.23,0.11,426.0,7.0,0.74,0.0,0.0,0.0,0.0,2018-01-23
+24,90953.0,muebles,"consolas, recibidores y tocadores",10.0,0.23,0.11,426.0,7.0,0.74,0.0,0.0,0.0,0.0,
 12,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.23,0.34,1207.0,14.0,4.74,0.0,0.0,0.0,0.0,2018-01-24
-13,90953.0,muebles,"consolas, recibidores y tocadores",10.0,0.23,0.16,80.0,1.0,0.16,0.0,0.0,0.0,0.0,2018-01-24
+13,90953.0,muebles,"consolas, recibidores y tocadores",10.0,0.23,0.16,80.0,1.0,0.16,0.0,0.0,0.0,0.0,
 2,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.23,0.37,1255.0,14.0,5.21,0.0,1.0,0.0,0.0,2018-01-25
 10,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.23,0.36,1110.0,14.0,4.99,0.0,0.0,0.0,0.0,2018-01-26
 37,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.23,0.3,1113.0,24.0,7.21,0.0,1.0,0.0,0.0,2018-01-27
@@ -158,14 +158,14 @@
 15,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.23,0.33,1081.0,11.0,3.58,0.0,1.0,0.0,0.0,2018-02-01
 41,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.23,0.32,1198.0,21.0,6.67,0.0,0.0,0.0,0.0,2018-02-02
 29,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.15,0.03,1.0,1.0,0.03,0.0,0.0,0.0,0.0,2018-02-03
-28,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.23,0.24,1285.0,13.0,3.13,0.0,1.0,0.0,0.0,2018-02-03
+28,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.23,0.24,1285.0,13.0,3.13,0.0,1.0,0.0,0.0,
 45,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.15,0.06,21.0,1.0,0.06,0.0,0.0,0.0,0.0,2018-02-04
-44,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.23,0.26,1614.0,18.0,4.62,0.0,1.0,0.0,0.0,2018-02-04
+44,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.23,0.26,1614.0,18.0,4.62,0.0,1.0,0.0,0.0,
 67,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.15,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-05
-66,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.23,0.3,1012.0,13.0,3.95,0.0,0.0,0.0,0.0,2018-02-05
+66,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.23,0.3,1012.0,13.0,3.95,0.0,0.0,0.0,0.0,
 61,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.23,0.35,763.0,13.0,4.53,0.0,1.0,0.0,0.0,2018-02-06
 98,90953.0,muebles,"consolas, recibidores y tocadores",150.0,0.23,0.0,85.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-02-07
-99,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.23,0.32,242.0,5.0,1.59,0.0,0.0,0.0,0.0,2018-02-07
+99,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.23,0.32,242.0,5.0,1.59,0.0,0.0,0.0,0.0,
 106,90953.0,muebles,"consolas, recibidores y tocadores",150.0,0.23,0.21,126.0,1.0,0.21,0.0,0.0,0.0,0.0,2018-02-08
 100,90953.0,muebles,"consolas, recibidores y tocadores",150.0,0.23,0.15,93.0,3.0,0.44,1.0,1.0,148.5,148.5,2018-02-09
 58,90953.0,muebles,"consolas, recibidores y tocadores",150.0,0.23,0.15,136.0,5.0,0.76,0.0,0.0,0.0,0.0,2018-02-10
@@ -175,7 +175,7 @@
 71,90953.0,muebles,"consolas, recibidores y tocadores",150.0,0.23,0.15,174.0,2.0,0.3,0.0,0.0,0.0,0.0,2018-02-14
 82,90953.0,muebles,"consolas, recibidores y tocadores",150.0,0.23,0.12,207.0,5.0,0.61,0.0,0.0,0.0,0.0,2018-02-15
 55,90953.0,muebles,"consolas, recibidores y tocadores",150.0,0.23,0.14,39.0,1.0,0.14,0.0,0.0,0.0,0.0,2018-02-16
-54,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.23,0.28,1172.0,18.0,5.05,0.0,0.0,0.0,0.0,2018-02-16
+54,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.23,0.28,1172.0,18.0,5.05,0.0,0.0,0.0,0.0,
 102,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.23,0.3,1385.0,17.0,5.18,0.0,0.0,0.0,0.0,2018-02-17
 109,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.23,0.34,318.0,3.0,1.02,0.0,0.0,0.0,0.0,2018-02-18
 115,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.23,0.32,1405.0,24.0,7.69,0.0,1.0,0.0,0.0,2018-02-19
