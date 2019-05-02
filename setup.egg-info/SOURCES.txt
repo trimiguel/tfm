@@ -1,0 +1,8 @@
+README.md
+setup.py
+libraries/__init__.py
+libraries/open_bw.py
+setup.egg-info/PKG-INFO
+setup.egg-info/SOURCES.txt
+setup.egg-info/dependency_links.txt
+setup.egg-info/top_level.txt
