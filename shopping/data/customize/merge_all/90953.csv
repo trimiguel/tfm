@@ -1,211 +1,211 @@
-,Unnamed: 0_x,Reference_x,CatN1_x,CatN2_x,Cat_Price_x,CPC_medio_x,Impressions_x,Clics_x,Cost_x,Conversions_x,All_Conversions_x,Ads_Income_x,Ads_Income_All_x,ROAS_Ads_x,Dates,Unnamed: 0_y,Reference_y,CatN1_y,CatN2_y,Cat_Price_y,CPC_medio_y,Impressions_y,Clics_y,Cost_y,Conversions_y,All_Conversions_y,Ads_Income_y,Ads_Income_All_y,ROAS_Ads_y,Unnamed: 0,Reference,Page_Views
-0,80,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-03,80,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,90953,9.0
-1,81,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-04,81,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,132,90953,0.0
-2,82,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-05,82,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,133,90953,0.0
-3,83,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-06,83,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,90953,9.0
-4,84,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-07,84,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,90953,19.0
-5,85,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-08,85,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,134,90953,0.0
-6,86,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-09,86,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3,90953,19.0
-7,87,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-10,87,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,135,90953,0.0
-8,88,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-11,88,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,136,90953,0.0
-9,89,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-12,89,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,137,90953,0.0
-10,90,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-13,90,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4,90953,9.0
-11,91,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-14,91,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,138,90953,0.0
-12,92,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-15,92,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,139,90953,0.0
-13,93,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-16,93,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,140,90953,0.0
-14,94,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-17,94,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,141,90953,0.0
-15,95,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-18,95,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5,90953,19.0
-16,96,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-19,96,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6,90953,9.0
-17,97,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-20,97,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7,90953,19.0
-18,98,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-21,98,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8,90953,9.0
-19,99,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-22,99,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,142,90953,0.0
-20,100,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-23,100,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9,90953,19.0
-21,101,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-24,101,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10,90953,9.0
-22,102,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-25,102,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,143,90953,0.0
-23,103,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-26,103,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11,90953,56.0
-24,104,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-27,104,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,144,90953,0.0
-25,105,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-28,105,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12,90953,47.0
-26,106,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-29,106,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13,90953,9.0
-27,107,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-30,107,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,145,90953,0.0
-28,108,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-01,108,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14,90953,28.0
-29,109,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-02,109,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15,90953,19.0
-30,110,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-03,110,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,146,90953,0.0
-31,111,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-04,111,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16,90953,19.0
-32,112,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-05,112,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,147,90953,0.0
-33,113,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-06,113,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17,90953,9.0
-34,114,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-07,114,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18,90953,9.0
-35,115,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-08,115,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19,90953,19.0
-36,116,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-09,116,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,148,90953,0.0
-37,117,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-10,117,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,149,90953,0.0
-38,118,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-11,118,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20,90953,28.0
-39,119,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-12,119,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,150,90953,0.0
-40,120,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-13,120,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21,90953,28.0
-41,121,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-14,121,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22,90953,37.0
-42,122,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-15,122,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23,90953,19.0
-43,123,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-16,123,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24,90953,9.0
-44,124,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-17,124,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,151,90953,0.0
-45,125,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-18,125,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,152,90953,0.0
-46,126,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-19,126,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,153,90953,0.0
-47,127,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-20,127,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,154,90953,0.0
-48,128,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-21,128,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,155,90953,0.0
-49,129,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-22,129,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25,90953,9.0
-50,130,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-23,130,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26,90953,9.0
-51,131,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-24,131,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,156,90953,0.0
-52,132,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-25,132,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,157,90953,0.0
-53,133,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-26,133,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27,90953,19.0
-54,134,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-27,134,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,158,90953,0.0
-55,135,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-28,135,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28,90953,9.0
-56,136,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-29,136,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,159,90953,0.0
-57,137,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-30,137,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,29,90953,28.0
-58,138,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-31,138,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30,90953,28.0
-59,139,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-01,139,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,160,90953,0.0
-60,140,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-02,140,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,31,90953,28.0
-61,141,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-03,141,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32,90953,9.0
-62,142,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-04,142,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,33,90953,9.0
-63,143,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-05,143,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,34,90953,19.0
-64,144,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-06,144,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,35,90953,28.0
-65,145,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-07,145,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,161,90953,0.0
-66,146,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-08,146,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,162,90953,0.0
-67,147,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-09,147,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,163,90953,0.0
-68,148,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-10,148,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,36,90953,19.0
-69,149,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-11,149,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,37,90953,84.0
-70,150,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-12,150,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38,90953,9.0
-71,151,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-13,151,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,39,90953,9.0
-72,152,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-14,152,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40,90953,9.0
-73,153,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-15,153,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,41,90953,28.0
-74,154,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-16,154,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,42,90953,28.0
-75,155,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-17,155,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,43,90953,28.0
-76,156,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-18,156,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,164,90953,0.0
-77,157,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-19,157,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,165,90953,0.0
-78,158,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-20,158,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,44,90953,47.0
-79,159,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-21,159,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,45,90953,28.0
-80,160,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-22,160,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,46,90953,19.0
-81,161,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-23,161,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,47,90953,19.0
-82,162,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-24,162,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,48,90953,19.0
-83,163,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-25,163,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,49,90953,9.0
-84,164,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-26,164,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,166,90953,0.0
-85,165,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-27,165,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50,90953,9.0
-86,166,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-28,166,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,167,90953,0.0
-87,167,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-29,167,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,51,90953,37.0
-88,168,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-11-30,168,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,168,90953,0.0
-89,169,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-01,169,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,52,90953,9.0
-90,170,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-02,170,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,53,90953,9.0
-91,171,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-03,171,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,169,90953,0.0
-92,172,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-04,172,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,54,90953,9.0
-93,173,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-05,173,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,170,90953,0.0
-94,174,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-06,174,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,55,90953,28.0
-95,175,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-07,175,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,56,90953,19.0
-96,176,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-08,176,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,57,90953,19.0
-97,177,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-09,177,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,58,90953,19.0
-98,178,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-10,178,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,171,90953,0.0
-99,179,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-11,179,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,172,90953,0.0
-100,180,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-12,180,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,173,90953,0.0
-101,181,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-13,181,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,59,90953,19.0
-102,182,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-14,182,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,60,90953,47.0
-103,183,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-15,183,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,174,90953,0.0
-104,184,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-16,184,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,175,90953,0.0
-105,185,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-17,185,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,61,90953,19.0
-106,186,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-18,186,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,62,90953,9.0
-107,187,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-19,187,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,176,90953,0.0
-108,188,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-20,188,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,63,90953,19.0
-109,189,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-21,189,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,177,90953,0.0
-110,190,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-22,190,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,178,90953,0.0
-111,191,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-23,191,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,179,90953,0.0
-112,192,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-24,192,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,64,90953,9.0
-113,193,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-25,193,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,180,90953,0.0
-114,194,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-26,194,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,181,90953,0.0
-115,195,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-27,195,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,182,90953,0.0
-116,196,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-28,196,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,65,90953,19.0
-117,197,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-29,197,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,183,90953,0.0
-118,198,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-30,198,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,66,90953,9.0
-119,199,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-12-31,199,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,67,90953,9.0
-120,200,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-01,200,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,68,90953,9.0
-121,201,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-02,201,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,184,90953,0.0
-122,202,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-03,202,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,69,90953,28.0
-123,203,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-04,203,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,185,90953,0.0
-124,204,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-05,204,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,70,90953,19.0
-125,205,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-06,205,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,71,90953,9.0
-126,206,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-07,206,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,72,90953,28.0
-127,207,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-08,207,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,73,90953,28.0
-128,208,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-09,208,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,74,90953,28.0
-129,14,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-10,14,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,75,90953,37.0
-130,42,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.0,54.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-11,42,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.0,54.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,76,90953,28.0
-131,4,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.0,51.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-12,4,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.0,51.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,186,90953,0.0
-132,1,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-13,1,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,77,90953,37.0
-133,49,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.0,22.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-14,49,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.0,22.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,78,90953,19.0
-134,21,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.18,21.0,2.0,0.35,0.0,0.0,0.0,0.0,0.0,2019-01-15,21,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.18,21.0,2.0,0.35,0.0,0.0,0.0,0.0,0.0,79,90953,9.0
-135,28,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-16,28,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,80,90953,19.0
-136,45,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.26,39.0,4.0,1.03,0.16,0.16,24.78,24.78,24.06,2019-01-17,45,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.26,39.0,4.0,1.03,0.16,0.16,24.78,24.78,24.06,81,90953,37.0
-137,68,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.14,67.0,2.0,0.29,0.12,0.46,1.8,18.1,6.21,2019-01-18,68,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.14,67.0,2.0,0.29,0.12,0.46,1.8,18.1,6.21,187,90953,0.0
-138,40,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.15,144.0,2.0,0.3,0.0,0.0,0.0,0.0,0.0,2019-01-19,40,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.15,144.0,2.0,0.3,0.0,0.0,0.0,0.0,0.0,82,90953,28.0
-139,8,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.0,93.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-20,8,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.0,93.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,83,90953,9.0
-140,59,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.0,125.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-21,59,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.0,125.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,84,90953,56.0
-141,65,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.0,109.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-22,65,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.0,109.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,85,90953,19.0
-142,13,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.34,104.0,4.0,1.35,0.0,0.0,0.0,0.0,0.0,2019-01-23,13,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.34,104.0,4.0,1.35,0.0,0.0,0.0,0.0,0.0,86,90953,9.0
-143,23,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.21,145.0,1.0,0.21,0.0,0.0,0.0,0.0,0.0,2019-01-24,23,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.21,145.0,1.0,0.21,0.0,0.0,0.0,0.0,0.0,188,90953,0.0
-144,50,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.49,181.0,3.0,1.47,0.0,0.0,0.0,0.0,0.0,2019-01-25,50,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.49,181.0,3.0,1.47,0.0,0.0,0.0,0.0,0.0,189,90953,0.0
-145,52,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.54,204.0,1.0,0.54,0.0,0.0,0.0,0.0,0.0,2019-01-26,52,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.54,204.0,1.0,0.54,0.0,0.0,0.0,0.0,0.0,87,90953,28.0
-146,19,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.57,132.0,1.0,0.57,0.0,0.0,0.0,0.0,0.0,2019-01-27,19,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.57,132.0,1.0,0.57,0.0,0.0,0.0,0.0,0.0,88,90953,9.0
-147,36,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.0,117.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-01-28,36,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.0,117.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,89,90953,9.0
-148,22,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.16,111.0,3.0,0.47,0.0,0.0,0.0,0.0,0.0,2019-01-29,22,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.16,111.0,3.0,0.47,0.0,0.0,0.0,0.0,0.0,90,90953,9.0
-149,54,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.12,87.0,2.0,0.25,0.0,0.0,0.0,0.0,0.0,2019-01-30,54,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.12,87.0,2.0,0.25,0.0,0.0,0.0,0.0,0.0,91,90953,19.0
-150,5,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.04,71.0,1.0,0.04,0.0,0.0,0.0,0.0,0.0,2019-01-31,5,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.04,71.0,1.0,0.04,0.0,0.0,0.0,0.0,0.0,190,90953,0.0
-151,58,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.0,107.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-01,58,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.0,107.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,92,90953,56.0
-152,7,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.0,96.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-02,7,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.0,96.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,93,90953,37.0
-153,29,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.21,102.0,4.0,0.84,0.0,0.0,0.0,0.0,0.0,2019-02-03,29,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.21,102.0,4.0,0.84,0.0,0.0,0.0,0.0,0.0,94,90953,19.0
-154,17,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.85,117.0,1.0,0.85,0.0,0.0,0.0,0.0,0.0,2019-02-04,17,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.85,117.0,1.0,0.85,0.0,0.0,0.0,0.0,0.0,95,90953,28.0
-155,41,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.0,130.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-05,41,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.0,130.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,191,90953,0.0
-156,24,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.28,169.0,2.0,0.56,0.0,0.0,0.0,0.0,0.0,2019-02-06,24,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.28,169.0,2.0,0.56,0.0,0.0,0.0,0.0,0.0,96,90953,9.0
-157,60,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.73,160.0,1.0,0.73,0.0,0.0,0.0,0.0,0.0,2019-02-07,60,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.73,160.0,1.0,0.73,0.0,0.0,0.0,0.0,0.0,192,90953,0.0
-158,9,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.26,248.0,2.0,0.52,0.0,0.0,0.0,0.0,0.0,2019-02-08,9,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.26,248.0,2.0,0.52,0.0,0.0,0.0,0.0,0.0,97,90953,9.0
-159,66,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.34,353.0,5.0,1.72,0.0,0.0,0.0,0.0,0.0,2019-02-09,66,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.34,353.0,5.0,1.72,0.0,0.0,0.0,0.0,0.0,98,90953,19.0
-160,70,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.12,402.0,2.0,0.23,0.0,0.0,0.0,0.0,0.0,2019-02-10,70,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.12,402.0,2.0,0.23,0.0,0.0,0.0,0.0,0.0,99,90953,19.0
-161,77,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.27,185.0,2.0,0.54,0.0,0.0,0.0,0.0,0.0,2019-02-11,77,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.27,185.0,2.0,0.54,0.0,0.0,0.0,0.0,0.0,100,90953,28.0
-162,37,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.39,305.0,3.0,1.16,0.0,0.0,0.0,0.0,0.0,2019-02-12,37,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.39,305.0,3.0,1.16,0.0,0.0,0.0,0.0,0.0,193,90953,0.0
-163,71,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.27,390.0,1.0,0.27,0.0,0.0,0.0,0.0,0.0,2019-02-13,71,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.27,390.0,1.0,0.27,0.0,0.0,0.0,0.0,0.0,101,90953,9.0
-164,75,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.57,180.0,1.0,0.57,0.0,0.0,0.0,0.0,0.0,2019-02-14,75,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.57,180.0,1.0,0.57,0.0,0.0,0.0,0.0,0.0,102,90953,9.0
-165,62,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.34,170.0,1.0,0.34,0.0,0.0,0.0,0.0,0.0,2019-02-15,62,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.34,170.0,1.0,0.34,0.0,0.0,0.0,0.0,0.0,194,90953,0.0
-166,55,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.46,117.0,1.0,0.46,0.0,0.0,0.0,0.0,0.0,2019-02-16,55,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.46,117.0,1.0,0.46,0.0,0.0,0.0,0.0,0.0,103,90953,28.0
-167,16,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.28,137.0,1.0,0.28,0.0,0.0,0.0,0.0,0.0,2019-02-17,16,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.28,137.0,1.0,0.28,0.0,0.0,0.0,0.0,0.0,104,90953,47.0
-168,48,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.85,236.0,2.0,1.7,0.0,0.0,0.0,0.0,0.0,2019-02-18,48,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.85,236.0,2.0,1.7,0.0,0.0,0.0,0.0,0.0,105,90953,19.0
-169,3,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.3,193.0,1.0,0.3,0.0,0.0,0.0,0.0,0.0,2019-02-19,3,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.3,193.0,1.0,0.3,0.0,0.0,0.0,0.0,0.0,106,90953,9.0
-170,34,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.37,459.0,2.0,0.74,0.0,0.0,0.0,0.0,0.0,2019-02-20,34,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.37,459.0,2.0,0.74,0.0,0.0,0.0,0.0,0.0,107,90953,28.0
-171,6,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.0,353.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-02-21,6,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.0,353.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,108,90953,9.0
-172,56,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.26,451.0,3.0,0.78,0.31,0.31,62.02,62.02,79.51,2019-02-22,56,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.26,451.0,3.0,0.78,0.31,0.31,62.02,62.02,79.51,109,90953,9.0
-173,12,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.43,408.0,1.0,0.43,0.0,0.0,0.0,0.0,0.0,2019-02-23,12,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.43,408.0,1.0,0.43,0.0,0.0,0.0,0.0,0.0,110,90953,19.0
-174,76,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.38,305.0,2.0,0.75,0.0,0.0,0.0,0.0,0.0,2019-02-24,76,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.38,305.0,2.0,0.75,0.0,0.0,0.0,0.0,0.0,111,90953,28.0
-175,73,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.38,324.0,3.0,1.13,0.0,0.0,0.0,0.0,0.0,2019-02-25,73,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.38,324.0,3.0,1.13,0.0,0.0,0.0,0.0,0.0,112,90953,9.0
-176,63,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.55,298.0,4.0,2.19,0.0,0.0,0.0,0.0,0.0,2019-02-26,63,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.55,298.0,4.0,2.19,0.0,0.0,0.0,0.0,0.0,195,90953,0.0
-177,51,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.21,499.0,3.0,0.64,0.0,0.0,0.0,0.0,0.0,2019-02-27,51,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.21,499.0,3.0,0.64,0.0,0.0,0.0,0.0,0.0,113,90953,9.0
-178,2,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.31,632.0,3.0,0.92,0.0,0.0,0.0,0.0,0.0,2019-02-28,2,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.31,632.0,3.0,0.92,0.0,0.0,0.0,0.0,0.0,114,90953,28.0
-179,57,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.3,713.0,4.0,1.18,0.0,0.0,0.0,0.0,0.0,2019-03-01,57,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.3,713.0,4.0,1.18,0.0,0.0,0.0,0.0,0.0,196,90953,0.0
-180,61,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.45,555.0,3.0,1.36,0.0,0.0,0.0,0.0,0.0,2019-03-02,61,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.45,555.0,3.0,1.36,0.0,0.0,0.0,0.0,0.0,115,90953,9.0
-181,20,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.42,458.0,5.0,2.12,0.0,0.0,0.0,0.0,0.0,2019-03-03,20,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.42,458.0,5.0,2.12,0.0,0.0,0.0,0.0,0.0,116,90953,19.0
-182,25,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.38,505.0,5.0,1.92,0.0,0.0,0.0,0.0,0.0,2019-03-04,25,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.38,505.0,5.0,1.92,0.0,0.0,0.0,0.0,0.0,117,90953,9.0
-183,10,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.62,800.0,7.0,4.31,0.0,0.0,0.0,0.0,0.0,2019-03-05,10,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.62,800.0,7.0,4.31,0.0,0.0,0.0,0.0,0.0,118,90953,9.0
-184,11,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.24,657.0,2.0,0.47,0.0,0.0,0.0,0.0,0.0,2019-03-06,11,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.24,657.0,2.0,0.47,0.0,0.0,0.0,0.0,0.0,119,90953,19.0
-185,53,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.3,626.0,4.0,1.19,0.0,0.0,0.0,0.0,0.0,2019-03-07,53,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.3,626.0,4.0,1.19,0.0,0.0,0.0,0.0,0.0,120,90953,9.0
-186,35,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.27,795.0,12.0,3.26,0.0,0.0,0.0,0.0,0.0,2019-03-08,35,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.27,795.0,12.0,3.26,0.0,0.0,0.0,0.0,0.0,121,90953,47.0
-187,32,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.5,771.0,2.0,0.99,0.0,0.0,0.0,0.0,0.0,2019-03-09,32,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.5,771.0,2.0,0.99,0.0,0.0,0.0,0.0,0.0,122,90953,37.0
-188,78,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.36,837.0,3.0,1.07,0.0,0.0,0.0,0.0,0.0,2019-03-10,78,90953.0,muebles,"consolas, recibidores y tocadores",200.0,0.36,837.0,3.0,1.07,0.0,0.0,0.0,0.0,0.0,123,90953,9.0
-189,31,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.27,836.0,5.0,1.37,0.0,0.0,0.0,0.0,0.0,2019-03-11,31,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.27,836.0,5.0,1.37,0.0,0.0,0.0,0.0,0.0,124,90953,9.0
-190,46,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.52,739.0,3.0,1.55,0.0,0.0,0.0,0.0,0.0,2019-03-12,46,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.52,739.0,3.0,1.55,0.0,0.0,0.0,0.0,0.0,125,90953,9.0
-191,209,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-13,209,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,197,90953,0.0
-192,67,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,46.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-14,67,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,46.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,198,90953,0.0
-193,72,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.29,97.0,3.0,0.88,0.0,0.0,0.0,0.0,0.0,2019-03-15,72,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.29,97.0,3.0,0.88,0.0,0.0,0.0,0.0,0.0,199,90953,0.0
-194,0,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.65,614.0,2.0,1.3,0.0,0.0,0.0,0.0,0.0,2019-03-16,0,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.65,614.0,2.0,1.3,0.0,0.0,0.0,0.0,0.0,200,90953,0.0
-195,47,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.31,926.0,4.0,1.23,0.0,0.0,0.0,0.0,0.0,2019-03-17,47,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.31,926.0,4.0,1.23,0.0,0.0,0.0,0.0,0.0,126,90953,19.0
-196,38,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.29,761.0,2.0,0.58,0.0,0.0,0.0,0.0,0.0,2019-03-18,38,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.29,761.0,2.0,0.58,0.0,0.0,0.0,0.0,0.0,201,90953,0.0
-197,44,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.72,481.0,2.0,1.44,0.0,0.0,0.0,0.0,0.0,2019-03-19,44,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.72,481.0,2.0,1.44,0.0,0.0,0.0,0.0,0.0,202,90953,0.0
-198,79,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,299.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-20,79,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,299.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,203,90953,0.0
-199,18,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.18,299.0,3.0,0.54,0.0,0.0,0.0,0.0,0.0,2019-03-21,18,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.18,299.0,3.0,0.54,0.0,0.0,0.0,0.0,0.0,127,90953,19.0
-200,39,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.03,239.0,1.0,0.03,0.0,0.0,0.0,0.0,0.0,2019-03-22,39,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.03,239.0,1.0,0.03,0.0,0.0,0.0,0.0,0.0,128,90953,37.0
-201,33,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.25,188.0,1.0,0.25,0.0,0.0,0.0,0.0,0.0,2019-03-23,33,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.25,188.0,1.0,0.25,0.0,0.0,0.0,0.0,0.0,204,90953,0.0
-202,43,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.4,158.0,3.0,1.2,0.0,0.0,0.0,0.0,0.0,2019-03-24,43,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.4,158.0,3.0,1.2,0.0,0.0,0.0,0.0,0.0,205,90953,0.0
-203,69,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.18,234.0,1.0,0.18,0.0,0.0,0.0,0.0,0.0,2019-03-25,69,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.18,234.0,1.0,0.18,0.0,0.0,0.0,0.0,0.0,206,90953,0.0
-204,27,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,196.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-26,27,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,196.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,207,90953,0.0
-205,64,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,220.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-27,64,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,220.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,208,90953,0.0
-206,30,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,113.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-28,30,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,113.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,129,90953,9.0
-207,26,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,97.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-29,26,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,97.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,130,90953,19.0
-208,74,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,93.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-30,74,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.0,93.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,209,90953,0.0
-209,15,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.2,66.0,2.0,0.39,0.0,0.0,0.0,0.0,0.0,2019-03-31,15,90953.0,muebles,"consolas, recibidores y tocadores",300.0,0.2,66.0,2.0,0.39,0.0,0.0,0.0,0.0,0.0,131,90953,47.0
+,Unnamed: 0_x,Reference_x,CatN1,CatN2,Cat_Price,CPC_medio,Impressions,Clics,Cost,Conversions,All_Conversions,Ads_Income,Ads_Income_All,ROAS_Ads,Dates,Unnamed: 0_y,Reference_y,Name,Net_Incomes,Units_sold,Unnamed: 0,Reference,Page_Views
+0,187,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-03,41,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,0,90953,9.0
+1,188,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-04,42,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,132,90953,0.0
+2,189,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-05,43,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,133,90953,0.0
+3,190,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-06,44,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,1,90953,9.0
+4,191,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-07,45,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,2,90953,19.0
+5,192,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-08,46,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,134,90953,0.0
+6,193,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-09,47,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,3,90953,19.0
+7,194,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-10,48,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,135,90953,0.0
+8,195,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-11,0,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,91.65,1.0,136,90953,0.0
+9,196,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-12,49,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,137,90953,0.0
+10,197,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-13,50,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,4,90953,9.0
+11,198,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-14,51,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,138,90953,0.0
+12,199,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-15,52,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,139,90953,0.0
+13,200,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-16,53,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,140,90953,0.0
+14,201,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-17,54,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,141,90953,0.0
+15,202,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-18,55,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,5,90953,19.0
+16,203,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-19,56,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,6,90953,9.0
+17,204,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-20,57,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,7,90953,19.0
+18,205,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-21,58,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,8,90953,9.0
+19,206,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-22,59,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,142,90953,0.0
+20,207,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-23,60,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,9,90953,19.0
+21,208,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-24,61,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,10,90953,9.0
+22,209,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-09-25,62,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,143,90953,0.0
+23,183,123760.0,muebles,estanterías y librerías,150.0,0.27,77.0,2.0,0.54,0.0,0.0,0.0,0.0,0.0,2018-09-26,63,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,11,90953,56.0
+24,186,123760.0,muebles,estanterías y librerías,150.0,0.24,287.0,6.0,1.47,0.0,0.0,0.0,0.0,0.0,2018-09-27,64,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,144,90953,0.0
+25,184,123760.0,muebles,estanterías y librerías,150.0,0.2,352.0,7.0,1.39,0.0,0.0,0.0,0.0,0.0,2018-09-28,65,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,12,90953,47.0
+26,185,123760.0,muebles,estanterías y librerías,150.0,0.18,600.0,11.0,1.95,0.0,1.0,0.0,0.0,0.0,2018-09-29,66,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,13,90953,9.0
+27,182,123760.0,muebles,estanterías y librerías,150.0,0.25,1796.0,21.0,5.21,0.0,1.0,0.0,0.0,0.0,2018-09-30,1,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,82.49,1.0,145,90953,0.0
+28,142,123760.0,muebles,estanterías y librerías,150.0,0.23,1021.0,12.0,2.78,0.0,1.0,0.0,0.0,0.0,2018-10-01,67,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,14,90953,28.0
+29,112,123760.0,muebles,estanterías y librerías,150.0,0.16,830.0,7.0,1.11,0.0,0.0,0.0,0.0,0.0,2018-10-02,68,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,15,90953,19.0
+30,42,123760.0,muebles,estanterías y librerías,150.0,0.29,1059.0,6.0,1.72,0.0,0.0,0.0,0.0,0.0,2018-10-03,69,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,146,90953,0.0
+31,110,123760.0,muebles,estanterías y librerías,150.0,0.24,1517.0,15.0,3.65,0.67,4.67,66.54,66.54,18.23,2018-10-04,70,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,16,90953,19.0
+32,18,123760.0,muebles,estanterías y librerías,150.0,0.0,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-05,2,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,82.49,1.0,147,90953,0.0
+33,9,123760.0,muebles,estanterías y librerías,150.0,0.27,1775.0,17.0,4.63,0.0,2.0,0.0,0.0,0.0,2018-10-06,3,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,164.97,2.0,17,90953,9.0
+34,40,123760.0,muebles,estanterías y librerías,150.0,0.24,1165.0,18.0,4.35,0.0,1.0,0.0,0.0,0.0,2018-10-07,71,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,18,90953,9.0
+35,25,123760.0,muebles,estanterías y librerías,150.0,0.24,2212.0,20.0,4.76,0.99,2.99,154.24,154.24,32.4,2018-10-08,4,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,183.3,2.0,19,90953,19.0
+36,16,123760.0,muebles,estanterías y librerías,150.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-09,72,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,148,90953,0.0
+37,76,123760.0,muebles,estanterías y librerías,150.0,0.0,31.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-10,73,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,149,90953,0.0
+38,116,123760.0,muebles,estanterías y librerías,150.0,0.26,1972.0,18.0,4.62,0.0,0.0,0.0,0.0,0.0,2018-10-11,74,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,20,90953,28.0
+39,4,123760.0,muebles,estanterías y librerías,150.0,0.24,1671.0,11.0,2.62,0.0,0.0,0.0,0.0,0.0,2018-10-12,75,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,150,90953,0.0
+40,32,123760.0,muebles,estanterías y librerías,150.0,0.24,1765.0,15.0,3.67,0.0,1.0,0.0,0.0,0.0,2018-10-13,76,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,21,90953,28.0
+41,44,123760.0,muebles,estanterías y librerías,150.0,0.0,29.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-14,5,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,91.65,1.0,22,90953,37.0
+42,64,123760.0,muebles,estanterías y librerías,150.0,0.23,1711.0,17.0,3.91,0.0,0.0,0.0,0.0,0.0,2018-10-15,77,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,23,90953,19.0
+43,66,123760.0,muebles,estanterías y librerías,150.0,0.22,1954.0,18.0,3.95,0.0,0.0,0.0,0.0,0.0,2018-10-16,6,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,91.65,1.0,24,90953,9.0
+44,94,123760.0,muebles,estanterías y librerías,150.0,0.24,1385.0,9.0,2.13,0.0,1.0,0.0,0.0,0.0,2018-10-17,78,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,151,90953,0.0
+45,79,123760.0,muebles,estanterías y librerías,150.0,0.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-18,79,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,152,90953,0.0
+46,170,123760.0,muebles,estanterías y librerías,150.0,0.25,1489.0,11.0,2.75,0.0,0.0,0.0,0.0,0.0,2018-10-19,80,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,153,90953,0.0
+47,101,123760.0,muebles,estanterías y librerías,150.0,0.0,66.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-20,81,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,154,90953,0.0
+48,73,123760.0,muebles,estanterías y librerías,150.0,0.2,1448.0,16.0,3.25,0.0,1.0,0.0,0.0,0.0,2018-10-21,82,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,155,90953,0.0
+49,34,123760.0,muebles,estanterías y librerías,150.0,0.24,1318.0,13.0,3.09,0.0,0.0,0.0,0.0,0.0,2018-10-22,7,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,91.65,1.0,25,90953,9.0
+50,13,123760.0,muebles,estanterías y librerías,150.0,0.24,1588.0,17.0,4.09,0.0,0.0,0.0,0.0,0.0,2018-10-23,8,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,91.65,1.0,26,90953,9.0
+51,30,123760.0,muebles,estanterías y librerías,150.0,0.26,1576.0,15.0,3.86,0.0,1.0,0.0,0.0,0.0,2018-10-24,83,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,156,90953,0.0
+52,69,123760.0,muebles,estanterías y librerías,150.0,0.0,55.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-10-25,84,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,157,90953,0.0
+53,107,123760.0,muebles,estanterías y librerías,150.0,0.22,725.0,6.0,1.34,0.0,0.0,0.0,0.0,0.0,2018-10-26,85,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,27,90953,19.0
+54,146,123760.0,muebles,estanterías y librerías,150.0,0.25,737.0,5.0,1.24,0.0,0.0,0.0,0.0,0.0,2018-10-27,86,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,158,90953,0.0
+55,113,123760.0,muebles,estanterías y librerías,150.0,0.25,552.0,4.0,1.01,0.0,0.0,0.0,0.0,0.0,2018-10-28,87,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,28,90953,9.0
+56,174,123760.0,muebles,estanterías y librerías,150.0,0.21,599.0,4.0,0.83,0.0,0.0,0.0,0.0,0.0,2018-10-29,88,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,159,90953,0.0
+57,158,123760.0,muebles,estanterías y librerías,150.0,0.24,1000.0,7.0,1.68,0.0,0.0,0.0,0.0,0.0,2018-10-30,89,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,29,90953,28.0
+58,96,123760.0,muebles,estanterías y librerías,150.0,0.27,548.0,3.0,0.81,0.0,0.0,0.0,0.0,0.0,2018-10-31,90,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,30,90953,28.0
+59,5,123760.0,muebles,estanterías y librerías,150.0,0.26,483.0,5.0,1.28,0.0,0.0,0.0,0.0,0.0,2018-11-01,91,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,160,90953,0.0
+60,171,123760.0,muebles,estanterías y librerías,150.0,0.28,620.0,6.0,1.65,0.0,0.0,0.0,0.0,0.0,2018-11-02,92,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,31,90953,28.0
+61,144,123760.0,muebles,estanterías y librerías,150.0,0.26,932.0,11.0,2.89,0.0,0.0,0.0,0.0,0.0,2018-11-03,93,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,32,90953,9.0
+62,83,123760.0,muebles,estanterías y librerías,150.0,0.25,964.0,8.0,2.01,0.0,0.0,0.0,0.0,0.0,2018-11-04,94,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,33,90953,9.0
+63,120,123760.0,muebles,estanterías y librerías,150.0,0.38,723.0,12.0,4.54,0.0,2.0,0.0,0.0,0.0,2018-11-05,9,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,366.61,4.0,34,90953,19.0
+64,7,123760.0,muebles,estanterías y librerías,150.0,0.27,1364.0,15.0,4.09,0.0,0.0,0.0,0.0,0.0,2018-11-06,10,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,91.66,1.0,35,90953,28.0
+65,114,123760.0,muebles,estanterías y librerías,150.0,0.24,1441.0,12.0,2.86,0.0,1.0,0.0,0.0,0.0,2018-11-07,11,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,174.14,2.0,161,90953,0.0
+66,54,123760.0,muebles,estanterías y librerías,150.0,0.3,1125.0,15.0,4.56,0.0,1.0,0.0,0.0,0.0,2018-11-08,95,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,162,90953,0.0
+67,0,123760.0,muebles,estanterías y librerías,150.0,0.22,1494.0,11.0,2.4,0.0,0.0,0.0,0.0,0.0,2018-11-09,96,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,163,90953,0.0
+68,123,123760.0,muebles,estanterías y librerías,150.0,0.3,971.0,7.0,2.1,0.0,1.0,0.0,0.0,0.0,2018-11-10,97,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,36,90953,19.0
+69,145,123760.0,muebles,estanterías y librerías,150.0,0.26,1261.0,13.0,3.41,0.0,1.0,0.0,0.0,0.0,2018-11-11,12,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,82.49,1.0,37,90953,84.0
+70,132,123760.0,muebles,estanterías y librerías,150.0,0.23,1702.0,11.0,2.57,0.0,0.0,0.0,0.0,0.0,2018-11-12,13,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,91.65,1.0,38,90953,9.0
+71,127,123760.0,muebles,estanterías y librerías,150.0,0.23,1600.0,11.0,2.51,0.0,0.0,0.0,0.0,0.0,2018-11-13,98,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,39,90953,9.0
+72,81,123760.0,muebles,estanterías y librerías,150.0,0.24,1345.0,17.0,4.14,0.0,0.0,0.0,0.0,0.0,2018-11-14,99,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,40,90953,9.0
+73,58,123760.0,muebles,estanterías y librerías,150.0,0.26,2884.0,22.0,5.72,0.0,0.0,0.0,0.0,0.0,2018-11-15,100,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,41,90953,28.0
+74,131,123760.0,muebles,estanterías y librerías,150.0,0.25,3935.0,37.0,9.11,0.59,1.09,103.03,189.78,11.31,2018-11-16,101,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,42,90953,28.0
+75,8,123760.0,muebles,estanterías y librerías,150.0,0.24,5191.0,48.0,11.41,0.0,1.0,0.0,42.21,0.0,2018-11-17,14,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,82.49,1.0,43,90953,28.0
+76,71,123760.0,muebles,estanterías y librerías,150.0,0.25,6067.0,57.0,14.15,0.0,0.04,0.0,2.94,0.0,2018-11-18,102,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,164,90953,0.0
+77,179,123760.0,muebles,estanterías y librerías,150.0,0.26,3564.0,38.0,10.01,0.0,0.0,0.0,0.0,0.0,2018-11-19,103,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,165,90953,0.0
+78,11,123760.0,muebles,estanterías y librerías,150.0,0.26,3736.0,46.0,12.12,0.0,0.0,0.0,0.0,0.0,2018-11-20,15,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,82.48,1.0,44,90953,47.0
+79,99,123760.0,muebles,estanterías y librerías,100.0,0.25,3297.0,28.0,6.92,0.0,0.0,0.0,0.0,0.0,2018-11-21,104,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,45,90953,28.0
+80,152,123760.0,muebles,estanterías y librerías,100.0,0.25,3872.0,34.0,8.57,0.0,0.0,0.0,0.0,0.0,2018-11-22,105,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,46,90953,19.0
+81,28,123760.0,muebles,estanterías y librerías,100.0,0.32,3353.0,33.0,10.62,0.0,0.0,0.0,0.0,0.0,2018-11-23,16,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,247.44,3.0,47,90953,19.0
+82,118,123760.0,muebles,estanterías y librerías,100.0,0.39,4136.0,48.0,18.52,0.0,0.0,0.0,0.0,0.0,2018-11-24,106,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,48,90953,19.0
+83,168,123760.0,muebles,estanterías y librerías,100.0,0.33,4355.0,71.0,23.74,0.0,0.6,0.0,239.52,0.0,2018-11-25,17,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,329.92,4.0,49,90953,9.0
+84,50,123760.0,muebles,estanterías y librerías,100.0,0.33,5074.0,33.0,10.88,0.0,0.0,0.0,0.0,0.0,2018-11-26,18,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,82.48,1.0,166,90953,0.0
+85,51,123760.0,muebles,estanterías y librerías,100.0,0.45,211.0,4.0,1.79,0.0,0.0,0.0,0.0,0.0,2018-11-27,107,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,50,90953,9.0
+86,181,123760.0,muebles,estanterías y librerías,150.0,0.23,868.0,5.0,1.15,0.0,0.0,0.0,0.0,0.0,2018-11-28,108,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,167,90953,0.0
+87,141,123760.0,muebles,estanterías y librerías,150.0,0.23,768.0,8.0,1.87,0.0,0.0,0.0,0.0,0.0,2018-11-29,109,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,51,90953,37.0
+88,151,123760.0,muebles,estanterías y librerías,150.0,0.25,1347.0,4.0,0.99,0.0,0.0,0.0,0.0,0.0,2018-11-30,110,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,168,90953,0.0
+89,148,123760.0,muebles,estanterías y librerías,150.0,0.28,1140.0,7.0,1.97,0.0,0.0,0.0,0.0,0.0,2018-12-01,111,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,52,90953,9.0
+90,39,123760.0,muebles,estanterías y librerías,150.0,0.28,805.0,5.0,1.38,0.0,0.0,0.0,0.0,0.0,2018-12-02,112,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,53,90953,9.0
+91,89,123760.0,muebles,estanterías y librerías,150.0,0.4,834.0,8.0,3.19,0.0,0.0,0.0,0.0,0.0,2018-12-03,113,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,169,90953,0.0
+92,175,123760.0,muebles,estanterías y librerías,150.0,0.3,1324.0,10.0,2.96,1.0,2.0,114.23,228.46,38.59,2018-12-04,19,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,91.65,1.0,54,90953,9.0
+93,104,123760.0,muebles,estanterías y librerías,150.0,0.27,1280.0,14.0,3.84,0.0,0.0,0.0,0.0,0.0,2018-12-05,114,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,170,90953,0.0
+94,37,123760.0,muebles,estanterías y librerías,150.0,0.27,1420.0,16.0,4.25,0.0,0.0,0.0,0.0,0.0,2018-12-06,115,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,55,90953,28.0
+95,47,123760.0,muebles,estanterías y librerías,150.0,0.29,1772.0,13.0,3.81,0.0,0.0,0.0,0.0,0.0,2018-12-07,116,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,56,90953,19.0
+96,82,123760.0,muebles,estanterías y librerías,150.0,0.28,1781.0,22.0,6.1,0.0,0.0,0.0,0.0,0.0,2018-12-08,117,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,57,90953,19.0
+97,72,123760.0,muebles,estanterías y librerías,150.0,0.28,1750.0,18.0,5.05,0.0,0.0,0.0,0.0,0.0,2018-12-09,118,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,58,90953,19.0
+98,162,123760.0,muebles,estanterías y librerías,150.0,0.28,2513.0,16.0,4.47,0.0,0.0,0.0,0.0,0.0,2018-12-10,119,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,171,90953,0.0
+99,173,123760.0,muebles,estanterías y librerías,150.0,0.31,2222.0,22.0,6.74,0.0,0.0,0.0,0.0,0.0,2018-12-11,120,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,172,90953,0.0
+100,156,123760.0,muebles,estanterías y librerías,150.0,0.33,1862.0,18.0,5.96,0.0,0.0,0.0,0.0,0.0,2018-12-12,121,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,173,90953,0.0
+101,167,123760.0,muebles,estanterías y librerías,150.0,0.36,2007.0,8.0,2.9,0.0,0.0,0.0,0.0,0.0,2018-12-13,122,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,59,90953,19.0
+102,80,123760.0,muebles,estanterías y librerías,150.0,0.39,1865.0,7.0,2.75,0.0,0.0,0.0,0.0,0.0,2018-12-14,123,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,60,90953,47.0
+103,106,123760.0,muebles,estanterías y librerías,150.0,0.31,1700.0,12.0,3.71,0.0,0.0,0.0,0.0,0.0,2018-12-15,124,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,174,90953,0.0
+104,70,123760.0,muebles,estanterías y librerías,150.0,0.33,1618.0,14.0,4.61,0.0,0.0,0.0,0.0,0.0,2018-12-16,125,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,175,90953,0.0
+105,128,123760.0,muebles,estanterías y librerías,150.0,0.31,2824.0,20.0,6.13,0.0,0.0,0.0,0.0,0.0,2018-12-17,126,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,61,90953,19.0
+106,59,123760.0,muebles,estanterías y librerías,150.0,0.3,2758.0,23.0,6.96,0.0,0.0,0.0,0.0,0.0,2018-12-18,127,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,62,90953,9.0
+107,161,123760.0,muebles,estanterías y librerías,150.0,0.34,2399.0,16.0,5.38,0.0,0.0,0.0,0.0,0.0,2018-12-19,128,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,176,90953,0.0
+108,119,123760.0,muebles,estanterías y librerías,150.0,0.34,1907.0,21.0,7.06,0.0,0.0,0.0,0.0,0.0,2018-12-20,129,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,63,90953,19.0
+109,121,123760.0,muebles,estanterías y librerías,150.0,0.37,1925.0,21.0,7.68,0.0,0.0,0.0,0.0,0.0,2018-12-21,130,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,177,90953,0.0
+110,1,123760.0,muebles,estanterías y librerías,150.0,0.37,2285.0,18.0,6.63,0.0,0.0,0.0,0.0,0.0,2018-12-22,131,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,178,90953,0.0
+111,56,123760.0,muebles,estanterías y librerías,150.0,0.41,1618.0,16.0,6.61,0.0,0.0,0.0,0.0,0.0,2018-12-23,132,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,179,90953,0.0
+112,122,123760.0,muebles,estanterías y librerías,150.0,0.4,2352.0,26.0,10.28,0.0,0.0,0.0,0.0,0.0,2018-12-24,133,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,64,90953,9.0
+113,139,123760.0,muebles,estanterías y librerías,150.0,0.35,2262.0,17.0,5.99,0.0,0.0,0.0,0.0,0.0,2018-12-25,134,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,180,90953,0.0
+114,27,123760.0,muebles,estanterías y librerías,150.0,0.34,2544.0,20.0,6.75,0.0,0.0,0.0,0.0,0.0,2018-12-26,135,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,181,90953,0.0
+115,67,123760.0,muebles,estanterías y librerías,150.0,0.31,2713.0,21.0,6.47,0.0,0.0,0.0,0.0,0.0,2018-12-27,136,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,182,90953,0.0
+116,103,123760.0,muebles,estanterías y librerías,150.0,0.29,1775.0,17.0,4.85,0.0,0.0,0.0,0.0,0.0,2018-12-28,137,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,65,90953,19.0
+117,163,123760.0,muebles,estanterías y librerías,150.0,0.3,1642.0,10.0,3.04,0.07,0.11,13.8,21.41,4.54,2018-12-29,138,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,183,90953,0.0
+118,12,123760.0,muebles,estanterías y librerías,150.0,0.31,2453.0,18.0,5.66,0.0,0.0,0.0,0.0,0.0,2018-12-30,139,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,66,90953,9.0
+119,149,123760.0,muebles,estanterías y librerías,150.0,0.36,2703.0,26.0,9.34,0.14,0.18,9.24,11.83,0.99,2018-12-31,140,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,67,90953,9.0
+120,180,123760.0,muebles,estanterías y librerías,150.0,0.39,1007.0,9.0,3.55,0.0,0.0,0.0,0.0,0.0,2019-01-01,141,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,68,90953,9.0
+121,23,123760.0,muebles,estanterías y librerías,150.0,0.23,1160.0,14.0,3.23,0.0,0.06,0.0,8.22,0.0,2019-01-02,142,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,184,90953,0.0
+122,53,123760.0,muebles,estanterías y librerías,150.0,0.27,1035.0,11.0,2.95,0.0,0.0,0.0,0.0,0.0,2019-01-03,143,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,69,90953,28.0
+123,125,123760.0,muebles,estanterías y librerías,150.0,0.34,1341.0,14.0,4.74,0.0,0.0,0.0,0.0,0.0,2019-01-04,144,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,185,90953,0.0
+124,164,123760.0,muebles,estanterías y librerías,150.0,0.28,1194.0,14.0,3.94,0.0,0.0,0.0,0.0,0.0,2019-01-05,145,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,70,90953,19.0
+125,166,123760.0,muebles,estanterías y librerías,150.0,0.3,1903.0,20.0,6.03,0.0,0.0,0.0,0.0,0.0,2019-01-06,146,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,71,90953,9.0
+126,85,123760.0,muebles,estanterías y librerías,150.0,0.31,2917.0,24.0,7.53,0.0,0.0,0.0,0.0,0.0,2019-01-07,147,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,72,90953,28.0
+127,48,123760.0,muebles,estanterías y librerías,150.0,0.3,584.0,5.0,1.52,0.45,0.95,44.74,94.64,29.43,2019-01-08,148,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,73,90953,28.0
+128,115,123760.0,muebles,estanterías y librerías,100.0,0.32,2273.0,25.0,7.97,0.0,0.0,0.0,0.0,0.0,2019-01-09,20,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,82.48,1.0,74,90953,28.0
+129,22,123760.0,muebles,estanterías y librerías,100.0,0.28,3387.0,35.0,9.82,0.0,0.0,0.0,0.0,0.0,2019-01-10,149,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,75,90953,37.0
+130,172,123760.0,muebles,estanterías y librerías,100.0,0.25,2224.0,24.0,5.93,0.0,0.0,0.0,0.0,0.0,2019-01-11,150,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,76,90953,28.0
+131,176,123760.0,muebles,estanterías y librerías,100.0,0.27,1619.0,19.0,5.05,1.0,2.0,99.8,199.6,19.76,2019-01-12,151,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,186,90953,0.0
+132,136,123760.0,muebles,estanterías y librerías,100.0,0.27,1328.0,19.0,5.1,0.0,0.0,0.0,0.0,0.0,2019-01-13,21,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,164.96,2.0,77,90953,37.0
+133,138,123760.0,muebles,estanterías y librerías,100.0,0.3,1477.0,20.0,5.9,0.0,0.0,0.0,0.0,0.0,2019-01-14,22,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,82.48,1.0,78,90953,19.0
+134,19,123760.0,muebles,estanterías y librerías,100.0,0.4,1391.0,14.0,5.58,0.0,0.0,0.0,0.0,0.0,2019-01-15,23,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,82.48,1.0,79,90953,9.0
+135,36,123760.0,muebles,estanterías y librerías,100.0,0.34,1783.0,22.0,7.49,1.0,2.0,99.8,199.6,13.32,2019-01-16,24,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,160.84,2.0,80,90953,19.0
+136,155,123760.0,muebles,estanterías y librerías,100.0,0.29,2017.0,19.0,5.49,0.0,0.0,0.0,0.0,0.0,2019-01-17,152,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,81,90953,37.0
+137,46,123760.0,muebles,estanterías y librerías,100.0,0.25,2027.0,19.0,4.74,0.0,0.0,0.0,0.0,0.0,2019-01-18,153,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,187,90953,0.0
+138,133,123760.0,muebles,estanterías y librerías,100.0,0.26,1543.0,17.0,4.35,0.0,0.0,0.0,0.0,0.0,2019-01-19,154,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,82,90953,28.0
+139,61,123760.0,muebles,estanterías y librerías,100.0,0.22,1553.0,12.0,2.66,0.0,0.0,0.0,0.0,0.0,2019-01-20,155,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,83,90953,9.0
+140,130,123760.0,muebles,estanterías y librerías,100.0,0.23,1839.0,23.0,5.28,0.0,0.0,0.0,0.0,0.0,2019-01-21,25,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,82.48,1.0,84,90953,56.0
+141,55,123760.0,muebles,estanterías y librerías,100.0,0.37,1400.0,6.0,2.21,0.0,0.0,0.0,0.0,0.0,2019-01-22,156,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,85,90953,19.0
+142,2,123760.0,muebles,estanterías y librerías,100.0,0.32,1570.0,9.0,2.87,0.33,0.33,17.67,17.67,6.16,2019-01-23,157,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,86,90953,9.0
+143,177,123760.0,muebles,estanterías y librerías,100.0,0.26,1328.0,14.0,3.68,0.62,0.62,35.72,35.72,9.71,2019-01-24,158,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,188,90953,0.0
+144,160,123760.0,muebles,estanterías y librerías,100.0,0.23,1749.0,21.0,4.93,0.0,0.0,0.0,0.0,0.0,2019-01-25,26,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,82.48,1.0,189,90953,0.0
+145,95,123760.0,muebles,estanterías y librerías,100.0,0.26,2014.0,22.0,5.73,0.0,0.0,0.0,0.0,0.0,2019-01-26,159,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,87,90953,28.0
+146,88,123760.0,muebles,estanterías y librerías,100.0,0.24,1322.0,19.0,4.54,1.0,1.0,99.8,99.8,21.98,2019-01-27,27,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,82.48,1.0,88,90953,9.0
+147,126,123760.0,muebles,estanterías y librerías,100.0,0.24,1850.0,29.0,7.07,0.0,0.0,0.0,0.0,0.0,2019-01-28,28,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,82.48,1.0,89,90953,9.0
+148,147,123760.0,muebles,estanterías y librerías,100.0,0.26,1556.0,25.0,6.54,0.0,0.0,0.0,0.0,0.0,2019-01-29,160,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,90,90953,9.0
+149,90,123760.0,muebles,estanterías y librerías,100.0,0.26,1761.0,19.0,4.94,0.0,0.0,0.0,0.0,0.0,2019-01-30,161,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,91,90953,19.0
+150,150,123760.0,muebles,estanterías y librerías,100.0,0.3,1198.0,15.0,4.44,0.0,0.0,0.0,0.0,0.0,2019-01-31,29,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,247.44,3.0,190,90953,0.0
+151,21,123760.0,muebles,estanterías y librerías,100.0,0.25,1940.0,20.0,4.96,0.0,0.0,0.0,0.0,0.0,2019-02-01,162,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,92,90953,56.0
+152,6,123760.0,muebles,estanterías y librerías,100.0,0.26,1715.0,34.0,8.96,1.0,2.0,99.8,199.6,11.14,2019-02-02,163,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,93,90953,37.0
+153,62,123760.0,muebles,estanterías y librerías,100.0,0.25,1938.0,23.0,5.66,0.0,0.0,0.0,0.0,0.0,2019-02-03,30,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,82.48,1.0,94,90953,19.0
+154,134,123760.0,muebles,estanterías y librerías,100.0,0.26,2238.0,26.0,6.72,0.0,0.0,0.0,0.0,0.0,2019-02-04,164,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,95,90953,28.0
+155,84,123760.0,muebles,estanterías y librerías,100.0,0.27,2736.0,21.0,5.77,0.0,0.0,0.0,0.0,0.0,2019-02-05,165,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,191,90953,0.0
+156,29,123760.0,muebles,estanterías y librerías,100.0,0.25,1873.0,28.0,6.93,0.0,0.0,0.0,0.0,0.0,2019-02-06,166,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,96,90953,9.0
+157,111,123760.0,muebles,estanterías y librerías,100.0,0.29,1786.0,22.0,6.31,0.0,0.0,0.0,0.0,0.0,2019-02-07,167,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,192,90953,0.0
+158,135,123760.0,muebles,estanterías y librerías,100.0,0.28,3998.0,36.0,9.99,0.0,0.0,0.0,0.0,0.0,2019-02-08,168,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,97,90953,9.0
+159,143,123760.0,muebles,estanterías y librerías,100.0,0.28,4084.0,43.0,12.14,3.2,6.2,148.98,280.38,12.27,2019-02-09,169,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,98,90953,19.0
+160,129,123760.0,muebles,estanterías y librerías,100.0,0.28,3239.0,23.0,6.41,0.0,0.0,0.0,0.0,0.0,2019-02-10,170,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,99,90953,19.0
+161,137,123760.0,muebles,estanterías y librerías,100.0,0.31,3039.0,42.0,12.84,0.6,1.2,56.58,113.16,4.41,2019-02-11,31,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,332.64,4.0,100,90953,28.0
+162,154,123760.0,muebles,estanterías y librerías,100.0,0.26,3250.0,38.0,9.86,0.0,0.0,0.0,0.0,0.0,2019-02-12,171,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,193,90953,0.0
+163,98,123760.0,muebles,estanterías y librerías,100.0,0.31,4126.0,35.0,10.77,1.0,1.0,41.6,41.6,3.86,2019-02-13,32,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,77.93,1.0,101,90953,9.0
+164,159,123760.0,muebles,estanterías y librerías,100.0,0.33,3204.0,24.0,7.88,0.0,0.0,0.0,0.0,0.0,2019-02-14,172,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,102,90953,9.0
+165,140,123760.0,muebles,estanterías y librerías,100.0,0.27,2299.0,22.0,5.98,0.0,0.0,0.0,0.0,0.0,2019-02-15,173,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,194,90953,0.0
+166,108,123760.0,muebles,estanterías y librerías,100.0,0.24,1978.0,22.0,5.3,0.0,0.0,0.0,0.0,0.0,2019-02-16,174,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,103,90953,28.0
+167,45,123760.0,muebles,estanterías y librerías,100.0,0.26,2203.0,23.0,6.05,0.0,0.0,0.0,0.0,0.0,2019-02-17,175,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,104,90953,47.0
+168,97,123760.0,muebles,estanterías y librerías,100.0,0.34,2070.0,17.0,5.8,0.0,0.0,0.0,0.0,0.0,2019-02-18,176,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,105,90953,19.0
+169,153,123760.0,muebles,estanterías y librerías,100.0,0.28,2398.0,18.0,5.02,0.0,0.0,0.0,0.0,0.0,2019-02-19,33,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,151.97,2.0,106,90953,9.0
+170,92,123760.0,muebles,estanterías y librerías,100.0,0.28,1978.0,20.0,5.6,0.0,0.0,0.0,0.0,0.0,2019-02-20,177,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,107,90953,28.0
+171,75,123760.0,muebles,estanterías y librerías,100.0,0.3,2193.0,22.0,6.68,1.0,2.0,97.13,194.26,14.54,2019-02-21,34,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,77.93,1.0,108,90953,9.0
+172,20,123760.0,muebles,estanterías y librerías,100.0,0.32,2421.0,23.0,7.31,0.0,0.0,0.0,0.0,0.0,2019-02-22,178,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,109,90953,9.0
+173,91,123760.0,muebles,estanterías y librerías,100.0,0.27,2988.0,31.0,8.42,0.0,0.0,0.0,0.0,0.0,2019-02-23,35,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,77.93,1.0,110,90953,19.0
+174,57,123760.0,muebles,estanterías y librerías,100.0,0.25,3379.0,33.0,8.14,1.0,2.0,497.0,994.0,61.06,2019-02-24,36,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,77.93,1.0,111,90953,28.0
+175,87,123760.0,muebles,estanterías y librerías,150.0,0.27,1854.0,18.0,4.92,0.0,0.0,0.0,0.0,0.0,2019-02-25,179,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,112,90953,9.0
+176,165,123760.0,muebles,estanterías y librerías,150.0,0.28,2675.0,26.0,7.27,0.0,0.0,0.0,0.0,0.0,2019-02-26,37,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,183.3,2.0,195,90953,0.0
+177,24,123760.0,muebles,estanterías y librerías,150.0,0.25,2702.0,16.0,3.97,0.0,0.0,0.0,0.0,0.0,2019-02-27,180,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,113,90953,9.0
+178,105,123760.0,muebles,estanterías y librerías,150.0,0.27,2210.0,16.0,4.34,0.0,0.0,0.0,0.0,0.0,2019-02-28,38,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,82.49,1.0,114,90953,28.0
+179,157,123760.0,muebles,estanterías y librerías,150.0,0.25,2007.0,16.0,3.96,0.0,0.0,0.0,0.0,0.0,2019-03-01,181,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,196,90953,0.0
+180,124,123760.0,muebles,estanterías y librerías,150.0,0.35,1477.0,14.0,4.85,0.17,0.33,14.45,28.9,2.98,2019-03-02,182,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,115,90953,9.0
+181,178,123760.0,muebles,estanterías y librerías,150.0,0.43,1339.0,16.0,6.83,0.0,0.0,0.0,0.0,0.0,2019-03-03,39,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,91.65,1.0,116,90953,19.0
+182,38,123760.0,muebles,estanterías y librerías,150.0,0.24,2316.0,13.0,3.14,0.0,0.0,0.0,0.0,0.0,2019-03-04,183,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,117,90953,9.0
+183,60,123760.0,muebles,estanterías y librerías,150.0,0.17,51.0,2.0,0.34,0.0,0.0,0.0,0.0,0.0,2019-03-05,184,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,118,90953,9.0
+184,210,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-06,185,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,119,90953,19.0
+185,211,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-07,186,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,120,90953,9.0
+186,212,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-08,187,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,121,90953,47.0
+187,213,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-09,188,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,122,90953,37.0
+188,214,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-10,189,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,123,90953,9.0
+189,215,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-11,190,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,124,90953,9.0
+190,216,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-12,191,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,125,90953,9.0
+191,217,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-13,192,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,197,90953,0.0
+192,218,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-14,193,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,198,90953,0.0
+193,219,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-15,194,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,199,90953,0.0
+194,220,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-16,195,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,200,90953,0.0
+195,221,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-17,196,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,126,90953,19.0
+196,222,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-18,197,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,201,90953,0.0
+197,223,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-19,198,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,202,90953,0.0
+198,224,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-20,199,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,203,90953,0.0
+199,225,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-21,40,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,256.63,3.0,127,90953,19.0
+200,226,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-22,200,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,128,90953,37.0
+201,227,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-23,201,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,204,90953,0.0
+202,228,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-24,202,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,205,90953,0.0
+203,229,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-25,203,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,206,90953,0.0
+204,230,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-26,204,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,207,90953,0.0
+205,231,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-27,205,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,208,90953,0.0
+206,232,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-28,206,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,129,90953,9.0
+207,233,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-29,207,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,130,90953,19.0
+208,234,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-30,208,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,209,90953,0.0
+209,235,123760.0,muebles,estanterías y librerías,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2019-03-31,209,123760.0,ESTANTERÍA 4 LEJAS Y 1 CAJÓN,0.0,0.0,131,90953,47.0
