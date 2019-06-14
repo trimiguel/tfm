@@ -52,10 +52,10 @@ $ pip install -r requirements.txt
 ## Dashboard
 The visualization dashboards of this project has been developed with Tableau.
 
-Here, there is an extract of this information which can be expanded using the file contained in the [repository](https://github.com/trimiguel/tfm/dashboard) or via [Tableau Public Dashboard]().
+Here, there is an extract of this information which can be expanded using the file contained in the [repository](https://github.com/trimiguel/tfm/dashboard).
 
 
-![alt text](ywW7rJeZC8XTjl+JG/BJnncPp6drr4d
+![alt text](https://github.com/trimiguel/tfm/dashboard/Result_of_Model.png)
 
 
 
