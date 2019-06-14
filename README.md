@@ -13,6 +13,7 @@ This project is divided into two phases:
 
 
 
+----------------------------------------------------------------------------------------------------------------------
 ### Repository structure
 The repository has the following structure:
 - **shopping**: this folder contains the following information:
