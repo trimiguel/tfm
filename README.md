@@ -55,7 +55,7 @@ The visualization dashboards of this project has been developed with Tableau.
 Here, there is an extract of this information which can be expanded using the file contained in the [repository](https://github.com/trimiguel/tfm/dashboard).
 
 
-![alt text](https://github.com/trimiguel/tfm/dashboard/Result_of_Model.png)
+![alt text](https://raw.githubusercontent.com/trimiguel/tfm/dashboard/Result_of_Model.png)
 
 
 
