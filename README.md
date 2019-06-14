@@ -2,7 +2,8 @@
 This project has been developed by [Miguel Sanchez](https://www.linkedin.com/in/miguel-sanchez-botella-47b17b78/) as the final master thesis of the 14º edition Master in Data Science of KSchool in Madrid.
 
 
-### Project
+----------------------------------------------------------------------------------------------------------------------
+## Project
 
 **The objective of this project is to know the main variables that affect the performance of an online advertising campaign with the purpose of increasing the return on investment as much as possible.**
 
@@ -30,7 +31,8 @@ $ pip install -r requirements.txt
 ```
 
 
-### Methodology
+----------------------------------------------------------------------------------------------------------------------
+## Methodology
 
 1. **Data acquisition**: the datasets have been obtained from different private sources:
     1.1. **[GA](https://analytics.google.com/analytics/web/#/) (Google Analytics)**: information obtained from GA account of this ecommerce.
@@ -45,8 +47,8 @@ $ pip install -r requirements.txt
 
   
   
-  
-### Dashboard
+----------------------------------------------------------------------------------------------------------------------
+## Dashboard
 The visualization dashboards of this project has been developed with Tableau.
 
 Here, there is an extract of this information which can be expanded using the file contained in the [repository](https://github.com/trimiguel/tfm/dashboard) or via [Tableau Public Dashboard]().
