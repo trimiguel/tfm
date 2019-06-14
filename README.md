@@ -54,6 +54,6 @@ The visualization dashboards of this project has been developed with Tableau.
 
 Here, there is an extract of this information which can be expanded using the file contained in the [repository](https://github.com/trimiguel/tfm/dashboard).
 
-
+![Image](./dashboard/Model_Regression_Results.png?raw=true)
 
 
