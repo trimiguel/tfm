@@ -43,7 +43,9 @@ $ pip install -r requirements.txt
 4. **Model data**: it has been analyzed the data with regression model using the library [scikit-learn](https://scikit-learn.org/stable/) from python.
 5.**Visualization**: it has been used [Tableau](https://www.tableau.com/) for visualization.
 
-<br>
+  
+  
+  
 ### Dashboard
 The visualization dashboards of this project has been developed with Tableau.
 
