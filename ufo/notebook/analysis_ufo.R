@@ -37,6 +37,10 @@ colnames(R1) <- c('channel_name', 'First_touch', 'Last_touch', 'Linear_touch', '
 R1 <- melt(R1, id='channel_name')
 
 
+#open jpeg file
+jpeg("./ufo/img/total_conversions.jpg", width = 800, height = 800)
+
+
 #plot the total conversions
 ggplot(R1, aes(channel_name, value, fill = variable)) +
   geom_bar(stat='identity', position='dodge') +
@@ -48,14 +52,28 @@ ggplot(R1, aes(channel_name, value, fill = variable)) +
   theme(axis.text.x = element_text(angle = 45, hjust = 1)) + 
   ylab("")
 
+#close the file
+dev.off()
 
-# Total Conversion Values
+
+
+#total Conversion Values
 R2 <- R[, (colnames(R)%in%c('channel_name', 'first_touch_value', 'last_touch_value', 'linear_touch_value', 'total_conversion_value'))]
 
-colnames(R2) <- c('channel_name', 'first_touch', 'last_touch', 'linear_touch', 'markov_model')
 
+#rename columns
+colnames(R2) <- c('channel_name', 'First_touch', 'Last_touch', 'Linear_touch', 'Markov_model')
+
+
+#transform the dataset
 R2 <- melt(R2, id='channel_name')
 
+
+#open jpeg file
+jpeg("./ufo/img/total_value_conversions.jpg", width = 800, height = 800)
+
+
+#plot the total conversions values
 ggplot(R2, aes(channel_name, value, fill = variable)) +
   geom_bar(stat='identity', position='dodge') +
   ggtitle('TOTAL VALUE OCT 2018 - MAR 2019') + 
@@ -67,6 +85,9 @@ ggplot(R2, aes(channel_name, value, fill = variable)) +
   ylab("")
 
 
+#close the file
+dev.off()
 
-# Write CSV in R
-write.table(R, file = "table_ufo.csv", sep=",")
+
+#save csv
+write.table(R, file = "./ufo/data/final/table_ufo.csv", sep=",")
